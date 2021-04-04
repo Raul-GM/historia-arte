@@ -63,6 +63,7 @@ export default {
   },
   methods: {
     getRandomArt() {
+      this.solved = false;
       this.artList = this.artList.map(a => ({ sort: Math.random(), id: a })).sort((a, b) => a.sort - b.sort).map(a => a.id);
       this.artSelected = 0;
     },
