@@ -1,10 +1,11 @@
 <template>
   <div>
-    <h1>Art List</h1>
-    <p><button v-on:click="getRandomArt()" >Empezar la prueba</button></p>
+    <div class="title-container">
+      <h1>Historia del Arte Contemporáneo</h1>
+      <span class="icon-button icon-flag" v-on:click="getRandomArt()" title="Empezar prueba"></span>
+    </div>
     <article v-if="artSelected >= 0">
-      <p><button v-if="artSelected < artList.length - 1" v-on:click="nextArt()" >Siguiente</button></p>
-      <ArtCard :artData="artList[artSelected]" :solved="solved" :onSolveArtCard="solveArtCard"/>
+      <ArtCard :artList="artList" :solved="solved" :onSolveArtCard="solveArtCard" :onNextCard="onNextCard" :artSelected="artSelected"/>
     </article>
   </div>
 </template>
@@ -65,9 +66,9 @@ export default {
       this.artList = this.artList.map(a => ({ sort: Math.random(), id: a })).sort((a, b) => a.sort - b.sort).map(a => a.id);
       this.artSelected = 0;
     },
-    nextArt() {
-      this.artSelected++;
+    onNextCard() {
       this.solved = false;
+      this.artSelected++;
     },
     solveArtCard() {
       this.solved = true;
@@ -77,5 +78,10 @@ export default {
 </script>
 
 <style scoped>
+.title-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 </style>

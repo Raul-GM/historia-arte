@@ -1,12 +1,25 @@
 <template>
   <div class="artcard">
-    <img class="artcard-image" :src="artData.url" />
-    <button v-on:click="onSolveArtCard()">Resolver</button>
-    <div v-if="solved">
-      <p>Pintor/a: {{ artData.artist }}</p>
-      <p>Nombre: {{ artData.name }}</p>
-      <p>Estilo: {{ artData.style }}</p>
-      <p>Descripción: {{ artData.information }}</p>
+    <p>
+      <span
+        class="icon-button icon-solve"
+        v-on:click="onSolveArtCard()"
+        title="Resolver"
+      ></span>
+      <span
+        class="icon-button icon-next"
+        v-on:click="onNextCard()"
+        title="Siguiente Obra"
+        v-if="artSelected < artList.length - 1"
+      ></span>
+    </p>
+    <a :href="artList[artSelected].url" target="_blank"> <img class="artcard-image" :src="artList[artSelected].url" /></a>
+    
+    <div v-if="solved" class="art-data">
+      <p><strong>Pintor/a</strong> {{ artList[artSelected].artist }}</p>
+      <p><strong>Nombre:</strong> {{ artList[artSelected].name }}</p>
+      <p><strong>Estilo:</strong> {{ artList[artSelected].style }}</p>
+      <p><strong>Descripción:</strong> {{ artList[artSelected].information }}</p>
     </div>
   </div>
 </template>
@@ -15,15 +28,23 @@
 export default {
   name: 'ArtCard',
   props: {
-    artData: {
-      type: Object,
-      default: () => {}
+    artList: {
+      type: Array,
+      default: () => [],
+    },
+    artSelected: {
+      type: Number,
+      default: () => -1,
     },
     solved: {
       type: Boolean,
       default: () => false,
     },
     onSolveArtCard: {
+      type: Function,
+      default: () => false,
+    },
+    onNextCard: {
       type: Function,
       default: () => false,
     }
@@ -38,6 +59,14 @@ export default {
   align-items: center;
 }
 .artcard-image {
-  max-width: 60vw;;
+  min-height: 60vh;
+  max-height: 60vh;
+  border: 4px solid #000000;
+}
+.art-data {
+  width: 60vw;
+}
+.art-data p {
+  margin: .5rem 0;
 }
 </style>
