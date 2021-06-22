@@ -13,8 +13,8 @@
         v-if="artSelected < artList.length - 1"
       ></span>
     </p>
-    <a :href="artList[artSelected].url" target="_blank"> <img class="artcard-image" :src="artList[artSelected].url" /></a>
-    
+    <a v-if="artList[artSelected].url" :href="artList[artSelected].url" target="_blank"> <img class="artcard-image" :src="artList[artSelected].url" /></a>
+    <h1 v-if="artList[artSelected].title">{{ artList[artSelected].title }}</h1>
     <div v-if="solved" class="art-data">
       <p><strong>Pintor/a</strong> {{ artList[artSelected].artist }}</p>
       <p><strong>Nombre:</strong> {{ artList[artSelected].name }}</p>

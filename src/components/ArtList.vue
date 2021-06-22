@@ -170,7 +170,7 @@ export default {
           information: 'Hacia finales del XIX surge un nuevo grupo revolucionario. Los simbolistas. Su origen radica en la literatura y toma como precursores a Puvis de Chavannes y a Gustave Moreau.  Obras decorativas (fiel al movimiento del Simbolismo). Se rescata la pintura mural con aire misticista'+
             'Los simbolistas se preocupan por presentar las escenas tradicionales desde un punto de vista subjetivo, intentando representar el inconsciente. Esto responde a la idea principal del Manifiesto Simbolista de Jean Moréas que dice que no se deben fijar las ideas, sino simbolizarlas hasta tal punto que lleguen al espectador por líneas ocultas que emoconalmente te llevan a la idea original' +
             'Las primeras obras de Odilon Redon fueron grabados, pudiéndose ver ya un gusto por lo misterioso. Al igual que Moreau se vio atraído por temas religiosos y mitológicos. A través de ellos trató de superar la apariencia física de lo representado, dando a su obra un aire inquietante.',
-          url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg/1200px-La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg',
+          url: 'https://64.media.tumblr.com/960c67ae4e6787e23935b07725619d68/tumblr_nhwql1l0BS1qfcut3o1_1280.jpg',
         },
         {
           id: 18,
@@ -209,7 +209,7 @@ export default {
           information: 'El Fauvismo surgió de una explosición de principios del XX definida como Cage aux fauves (Caja de fieras).' +
             'Tas sus comienzos puntillistas, Matisse presenta una evolución hacia el uso de manchas de color uniformes y el enfrentamiento de colores puros. Se formaliza el Fauvismo, fuertemente influenciado por la obra de Gauguin. Se caracterizaban por extender el color en grandes áreas dotando a la superficie de un caracter plano, pero usando grandes cantidades de color que producían un intenso deslumbramiento. Tratan de expresar sensaciones a través del color'+
             'En Armonía en rojo, se aprecia la evolución de la obra de Matisse hacia el uso del color de manera individual, de tal forma que un solo color predomine en el lienzo y cobre protagonismo. Esto dará una sensación de aplanamiento mucho mayor',
-          url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg/1200px-La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvNDgxMTE4ODc5MV83ZmJjMWJmOTExX28uanBnIiwicmVzaXplLDgwMCJdfQ.wsIDChkLYDPJGBPEjLfBWanDDBhwZL7K963bkRDkPuI.jpg',
         },
         {
           id: 22,
@@ -219,7 +219,7 @@ export default {
           information: 'El Fauvismo surgió de una explosición de principios del XX definida como Cage aux fauves (Caja de fieras).' +
             'Tas sus comienzos puntillistas, Matisse presenta una evolución hacia el uso de manchas de color uniformes y el enfrentamiento de colores puros. Se formaliza el Fauvismo, fuertemente influenciado por la obra de Gauguin. Se caracterizaban por extender el color en grandes áreas dotando a la superficie de un caracter plano, pero usando grandes cantidades de color que producían un intenso deslumbramiento. Tratan de expresar sensaciones a través del color'+
             'El uso del color de Matisse evolucionó hasta el uso del mismo de manera individual, donde un color uniforme predominaba en la obra dándole una sensación mayor de aplanamiento. Para Matisse, la intensidad del color aumentaba en relación a la superficie coloreada, como vemos en esta obra. Esta obra representa a unas personas danzando sobre una colina verde de pinos bajo un cielo azul. Al usar estos colores, tuvo que usar bermellón para las figuras y así dotar a la obra de luz',
-          url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg/1200px-La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvbWF0aXNzZS1kYW5jZS0xOTEwLmpwZyIsInJlc2l6ZSw4MDAiXX0.algQupJ4DIvcEXEX844h0yLi3sRIa_Sf9x5Zcjj8ei0.jpg',
         },
         {
           id: 23,
@@ -230,23 +230,197 @@ export default {
             'Con el Retrato de Gertrude Stein, podemos reparar en el rostro de la modelo con cierta reminiscencia a una escultura. Más concretamente con la escultura íbera. Más tarde recibiría influencias también de las máscaras africanas',
           url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvZ2VydHJ1ZGUtc3RlaW4tcGljYXNzby5qcGciLCJyZXNpemUsODAwIl19.E4gAOtJaMQsByyxhjrH9WUtVzh51K4aQUIUzng7J6f8.jpg',
         },
-        /*
-        CUBISMO:
-          Cezanne sería el primer pintor interesado en adentrarse en una nueva visión de la pintura donde la geometría sería la nueva gramática de este lenguaje. En una exposición que se realizó en París
-          sobre su obra donde se veía el uso de los volúmenes, donde asistió Pablo Picasso. Su pincelada geométrica y su alejamiento de la perspectiva renacentista sembraron en Picasso una semilla del Cubismo.
-          Los iniciadores de este movimiento fueron Pablo Picasso y George Braque, desarrollando un nuevo lenguaje pictórico alejado de la perspectiva canónica y usando unas composiciones en las que 
-          la yuxtaposición de planos y líneas cambian la forma de mirar del espectador. Ante estos cuadros, el espectador debe reconstruir las imágenes. La perspectiva múltiple rompe la apariencia tradicional
-          de los objetos, ahora representados descompuestos desde todos sus puntos de vista en el mismo lienzo. Con ello se realiza una ruptura del espacio tridimensonal de la pintura, haciendo desaparecer
-          la relación formal con los modelos pintados. También se realiza un alejamiento del color y la luz, dando protagonismo a los planos y las líneas.
-        */
+        {
+          id: 24,
+          artist: 'Pablo Picasso',
+          name: 'Las señoritas de Aviñón',
+          style: 'Proto-cubista',
+          information: 'Esta obra de Picasso está considerada como la obra puente que le lleva al cubismo. En ella rompe claramente con la representación figurativa y opta por el uso del color de forma aleatoria.'+
+            'Se observa un primitivismo sobre todo en tres de las figuras, cuyos rostros se asemejan a las máscaras Africanas. Se tratan de 5 mujeres prostitutas que devuelven la mirada al espectador y representa la fatalidad de la sexualidad femenina de la época. En realidad se trata de un recuerdo a un amigo que se quitó la vida por amor.',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvbGVzLWRlbW9pc2VsbGVzLWQtYXZpZ25vbi5qcGciLCJyZXNpemUsNjAwLDYwMCJdfQ.jWC7c1SO5imjPpVjR7v_FsHA4w0jp2eix9Hf5_mkXJo.jpg',
+        },
+        {
+          id: 25,
+          artist: '-',
+          name: '',
+          style: 'Cubismo',
+          information: 'Cezanne sería el primer pintor interesado en adentrarse en una nueva visión de la pintura donde la geometría sería la nueva gramática de este lenguaje. En una exposición que se realizó en París'+
+            'sobre su obra donde se veía el uso de los volúmenes, donde asistió Pablo Picasso. Su pincelada geométrica y su alejamiento de la perspectiva renacentista sembraron en Picasso una semilla del Cubismo.' +
+            'Los iniciadores de este movimiento fueron Pablo Picasso y George Braque, desarrollando un nuevo lenguaje pictórico alejado de la perspectiva canónica y usando unas composiciones en las que ' +
+            'la yuxtaposición de planos y líneas cambian la forma de mirar del espectador. Ante estos cuadros, el espectador debe reconstruir las imágenes. La perspectiva múltiple rompe la apariencia tradicional' +
+            'de los objetos, ahora representados descompuestos desde todos sus puntos de vista en el mismo lienzo. Con ello se realiza una ruptura del espacio tridimensonal de la pintura, haciendo desaparecer' +
+            'la relación formal con los modelos pintados. También se realiza un alejamiento del color y la luz, dando protagonismo a los planos y las líneas.\n' +
+            '' +
+            '  CUBISMO ANALÍTICO:\n' +
+            '    Es el cubismo inicial. Aquel en que se busca la descomposición cientifista de los planos en diferentes perspectivas. Con el paso del tiempo, los artistas comienzan a multiplicar las perspectivasm haciendo que las obras' +
+            '    Adquieran una difícil comprensión gracias a su grado de abstracción. En esta primera etapa los colores son escasos, predominando los pardos, grises y marrones.\n' +
+            '  CUBISMO SINTÉTICO:\n' +
+            '    En esta segunda etapa, la descomposición de los planos no será de forma científica, si no más libre. El autor realiza una deconstrucción de los objetos en los planos que el propio autor considera más importantes.' +
+            '    Será característico la utilización del collage introduciendo elementos de la vida cotidiana como el papel y las telas. El Cubismo busca destacar la cualidad de objeto del cuadro. Los cuadros no son representaciones de la realidad' +
+            '    sino que en si mismos son objetos. En esta etapa vuelven a aparecer los colores',
+          url: '',
+          title: 'Cubismo'
+        },
+        {
+          id: 26,
+          artist: 'George Braque',
+          name: 'Puerto de Normandía',
+          style: 'Cubismo (analítico?)',
+          information: 'George Braque comenzó bajo los ideales del Fauvismo hasta que admiró Las señoritas de Aviñón de Picasso que hizo evolucionar su estilo hasta el cubismo como se ve en su obra Desnudo.\n' +
+            'A partir de entonces comenzará a trabajar con paisajes sobre todo, descomponiéndolos en formas geométricas como se aprecia en esta obra de Puerto de Normandía. Los planos se superponen unos a otros haciendo que unos se acerquen al espectador mientras que otros se alejen permitiendo al espectador sentirse cercano a la obra.\n' +
+            'Picasso y Braque decidieron trabajar juntos para desarrollar el nuevo estilo. La obra de Picasso tiende a ser más lineal, con dibujos angulares, mientras que Braque es más amable con las líneas más suaves. Decidieron que debian evitar el uso del color ya que distraía y dificultaba el interés por marcar los espacios superpuestos (Cubismo analítico)\n' +
+            'Ambos optaron por la abtracción hasta que dieron un giro y volvieron al interés por lo real del objeto. Braque empezó a experimentar con las texturas incluyendo elementos naturales como tierra. Picasso ',
+          url: 'http://pinturas.arteygalerias.com/georges_braque/galeria_obras_pinturas/georges_braque_puerto_normandia.jpg',
+        },
+        {
+          id: 27,
+          artist: 'Pablo Picasso',
+          name: 'El Guernica',
+          style: 'Cubismo',
+          information: 'Pablo Picasso descomponía la realidad en planos y líneas superpuestos. En este caso la forma de mirar del espectador cambia, obligándole a ir más allá del cuadro y adentrarse en los planos que nos presenta el autor.\n' +
+            'Picasso se deshace de los colores para acentuar aún mas los planos y para evitar distraer al espectador de la intención de la obra\n' +
+            'Esta obra es un intento de despertar de la pbolación española un sentimiento de rechazo contra los totalitarismos de Europa, hacia el dolor y la destrucción de la guerra.\n' +
+            'El guernica presenta una composición estudiada y equilibrada. Las figuras verticales de las mujeres enmarcan el cuadro cerrando la composición triangular cuyo vértice superior está coronado por la cabeza de caballo. Vemos figuras que Picasso ya había usado en obras anteriores. La presencia de la mujer gritando que representa el dolor, la muerte y la pérdida que provoca la guerra. El toro representa la fuerza animal y brutal descontrolada del ser humano. El caballo grita representando el triunfo de la muerte y sobre él incide la luz de la razón',
+          url: 'https://dam.ngenespanol.com/wp-content/uploads/2019/10/Guernica-7.jpg',
+        },
+        {
+          id: 28,
+          artist: 'Juan Gris',
+          name: 'Naturaleza muerta ante una ventana: Place Ravignan',
+          style: 'Cubismo (analítico)',
+          information: 'Juan Gris aprendió de Picasso no solo el lenguaje  cubista si no el proceso por el que se llega a ello. De personalidad más técnica y científica, su lenguaje no es tan libremente creativo. Tenderá al cubismo analítico.' +
+            'Juan Gris no descartó el uso del color ni la combinación de la perspectiva múltiple como la tradicional',
+          url: 'https://www.artehistoria.com/sites/default/files/styles/full_horizontal/public/imagenobra/JUN17036.jpg?itok=1_LW9m4r',
+        },
+        {
+          id: 29,
+          artist: 'Juan Gris',
+          name: 'Arlequín con guitarra',
+          style: 'Cubismo analítico',
+          information: 'Juan Gris aprendió de Picasso no solo el lenguaje  cubista si no el proceso por el que se llega a ello. De personalidad más técnica y científica, su lenguaje no es tan libremente creativo. Tenderá al cubismo analítico.' +
+            'Juan Gris no descartó el uso del color ni la combinación de la perspectiva múltiple como la tradicional.\n' +
+            'En esta obra se aprecia la evolución que siguió también Picasso a una pintura más sensual con más libertad creativa y colorido.',
+          url: 'https://www.artehistoria.com/sites/default/files/styles/full_horizontal/public/imagenobra/JUA12313.jpg?itok=BqP6CnZ4',
+        },
+        {
+          id: 30,
+          artist: 'Fernand Léger',
+          name: 'Los fumadores',
+          style: 'Cubismo',
+          information: 'Fernand Léger conocío a Braque y Picasso siguiendo sus pasos pero con un caracter más técnico que estético. Introdujo elementos geométricos en su obra hasta llegar a la abstracción. Y es a través de esa abstracción donde experimentó cómo transmitir la sensación de movilidad y velocidad de la vida moderna e industrial'+
+            '',
+          url: 'https://lh3.googleusercontent.com/proxy/w3tHAXRJ7yGl-AohwEpzLFxq-2Lvh3fN7FfEUJW6LLc9jJoHFFiNsYuVwufc73o-LAJqWDBfuk9OqcAcPDvMaLJ_G9axAiKgUp4',
+        },
+        {
+          id: 31,
+          artist: 'Fernand Léger',
+          name: 'La escalera',
+          style: 'Cubismo',
+          information: 'Fernand Léger conocío a Braque y Picasso siguiendo sus pasos pero con un caracter más técnico que estético. Introdujo elementos geométricos en su obra hasta llegar a la abstracción. Y es a través de esa abstracción donde experimentó cómo transmitir la sensación de movilidad y velocidad de la vida moderna e industrial'+
+            '',
+          url: 'https://www.biodiversidadvirtual.org/etno/data/media/1241/Cuadro-La-escalera-(Segundo-estado)-Madrid-58867.jpg',
+        },
+        {
+          id: 32,
+          artist: 'Robert Delaunay',
+          name: 'Torre Eiffel',
+          style: 'Cubismo',
+          information: 'Delaunay conoció también a Braque y Picasso y aunque no estaba interesado en la representación de la realidad a través de las formas geométricas y la superposición de planos, sí aprovechó el lenguaje cubista para desarrollar su propia personalidad pictórica' +
+            'Delaunay trabajó la creación de formas geométricas a través del color con la intención de transmitir sensación de movimiento y evitar la apariencia de cualquier perspectiva. De esta forma, los espacios coloreados ofrecen otra sensación de espacio más dramático al espectador',
+          url: 'https://cms.guggenheim-bilbao.eus/uploads/2014/07/Torre-Eiffel_Delaunay_300x443.jpg',
+        },
+        {
+          id: 33,
+          artist: 'Pablo Picasso',
+          name: 'Cabeza de Fernande Olivier',
+          style: 'Cubismo Escultórico',
+          information: 'Esta obra corresponde al interés por la figura humana de la primera etapa cubista de Picasso. Comparte características con el retrato de Gertrude Stein y las Señoritas de Avignon con sus rostros escultóricos, afrícanos, íberos...'+
+            '',
+          url: 'http://www.bcn.cat/museupicasso/assets/content/works/Fernande-Olivier_057-Head-of-a-woman-(Fernande)-1909.jpg',
+        },
+        {
+          id: 34,
+          artist: 'Julio González',
+          name: 'Máscara Acerada',
+          style: 'Cubismo Escultorico',
+          information: 'Julio González fue un pionero en el uso del hierro para esculturas. Conoció a Picasso y su obra ejerció gran influiencia sobre él. En su obra usa un único plano simplificando su propio lenguaje (antes superponía dos planos de chapa). Aeste plano de chapa le aplica modificaciones que originan el rostro'+
+            '',
+          url: 'https://static5.museoreinasofia.es/sites/default/files/obras/AS03091.jpg',
+        },
+        {
+          id: 35,
+          artist: 'Julio González',
+          name: 'Mujer sentada',
+          style: 'Cubismo Escultorico',
+          information: 'Julio González fue un pionero en el uso del hierro para esculturas. Conoció a Picasso y su obra ejerció gran influiencia sobre él. En su obra usa un único plano simplificando su propio lenguaje (antes superponía dos planos de chapa). Aeste plano de chapa le aplica modificaciones que originan el rostro' +
+            'Gracias a su amistad con Picasso, Julio adpotará el lenguaje surrealista. Su escultura pasará a ser más lineal, basada en elementos alargados construyendo figuras simplificadas acercándose al imaginario surrealista de la mantis religiosa como símil de la mujer.',
+          url: 'https://static4.museoreinasofia.es/sites/default/files/obras/AS10757.jpg',
+        },
+        {
+          id: 36,
+          artist: 'Julio González',
+          name: 'Mujer sentada',
+          style: 'Cubismo Escultorico',
+          information: 'Julio González fue un pionero en el uso del hierro para esculturas. Conoció a Picasso y su obra ejerció gran influiencia sobre él. En su obra usa un único plano simplificando su propio lenguaje (antes superponía dos planos de chapa). Aeste plano de chapa le aplica modificaciones que originan el rostro' +
+            'Gracias a su amistad con Picasso, Julio adpotará el lenguaje surrealista. Su escultura pasará a ser más lineal, basada en elementos alargados construyendo figuras simplificadas acercándose al imaginario surrealista de la mantis religiosa como símil de la mujer.',
+          url: 'https://static4.museoreinasofia.es/sites/default/files/obras/AS10757.jpg',
+        },
+        {
+          id: 37,
+          artist: 'Pablo Gargallo',
+          name: 'Gran Profeta',
+          style: 'Cubismo Escultórico',
+          information: 'Pablo Gargallo demostró su pasión por la escultura desde bien pequeño. Comenzó influenciado por el Art Nouveau. Tras conocer al grupo cubista, empieza a desarrollar su propio lenguaje escultórico basándose en la tradición del metal español\n' +
+            'Comenzó a realizar finas máscaras de hierro y cobre que conseguían transmitir volumen jugando con la contraposición de las superficies cóncavas y convexas.',
+          url: 'http://3.bp.blogspot.com/-Qf_-6LExYE8/UcftHhyl-lI/AAAAAAAAaSw/EMGYZJpUOpA/s1600/el+Profeta.jpg',
+        },
+        {
+          id: 38,
+          artist: 'Jaques Lipchitz',
+          name: 'Marinero con guitarra',
+          style: 'Cubismo escultórico sintético',
+          information: 'El autor lituano adoptó el lenguaje cubista y empezó a realizar escuturas para representar en 3D las obras de Braque y Picasso. Empezó a estilizar las figuras terminando en un cubismo sintético' +
+            '',
+          url: 'https://static4.museoreinasofia.es/sites/default/files/obras/AD00516.jpg',
+        },
+                {
+          id: 39,
+          artist: 'Alexander Archipenko',
+          name: 'Mujer peinándose',
+          style: 'Cubismo escultórico',
+          information: 'El autor ukraniano analiza la figura humana descompuesta en figuras geométricas utilizando el contraste entre la forma cóncava y convexa. Entre lo sólido y lo hueco. Trabajó la escultura policromada y la escultura móvil' +
+            '',
+          url: '',
+        },
+        {
+          id: 40,
+          artist: '-',
+          name: 'Futurismo',
+          style: '',
+          information: 'En italia se juntaron un grupo de artistas preocupados por reaccionar ante la tradición y desarrollar un nuevo lenguaje para definir la nueva belleza: la belleza de la velocidad. Se trataba de un movimiento artístico y social debido a la gran cantidad de manifiestos ue firmaron.' +
+            'En la obra de sus artistas podemos ver la herencia de estéticas de otros movimientos como el Puntillismo de Seurat o el Cubismo. Las pinceladas puntillistas se alargan y los facetados del cubismo se muestran más elásticos. El coche será el objeto fetiche a representar en sus obras' +
+            'Es habitual también enontrarse secuencias de la misma figura. El líder teórico del movimiento ue Marinetti',
+          url: '',
+          title: 'Futurismo'
+        },
+        {
+          id: 41,
+          artist: 'Giancomo Balla',
+          name: 'Dinamismo de un perro con correa',
+          style: 'Futurismo',
+          information: 'La imagen muestra un perro corriendo donde se presentan unas patas difuminadas dando la sensación de que está corriendo.' +
+            '',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvZHluYW1pc20uanBnIiwicmVzaXplLDgwMCJdfQ.H3GB6WjgSvmaNxkkrxgPcAvj4Oo7AIue8tTpUDWZ5RA.jpg',
+        },
         /*
         {
           id: 8,
-          artist: 'Paul Gaugin',
-          name: 'Visión después del sermón: Jacob luchando con el ángel',
-          style: 'Neoimpresionismo',
-          information: 'Émile Bernard le enseñó a Gauguin la técnica del Cloisonné, un antiguo procedimiento de hacer esmalte en la que finas tiras de metal separan los espacios de color. Tomando ideas de esta técnica, Gauguin desarrollará una pintura de colores planos delimitados por los contornos de las figuras aplicado en las obras de esta época. En esta obra vemos también otras de las características de la obra de Gauguin, la búsqueda del primitivismo y la representación de lo visionario.',
-          url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg/1200px-La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg',
+          artist: '',
+          name: '',
+          style: '',
+          information: '' +
+            '',
+          url: '',
         },
 
         */
@@ -257,6 +431,7 @@ export default {
     getRandomArt() {
       this.solved = false;
       this.artList = this.artList.map(a => ({ sort: Math.random(), id: a })).sort((a, b) => a.sort - b.sort).map(a => a.id);
+      console.log(this.artList);
       this.artSelected = 0;
     },
     onNextCard() {
