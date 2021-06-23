@@ -175,11 +175,11 @@ export default {
         {
           id: 18,
           artist: 'Edvard Munch',
-          name: 'El grito',
-          style: 'Simbolismo',
+          name: 'El grito (1893)',
+          style: 'Simbolismo/Expresionismo',
           information: 'Hacia finales del XIX surge un nuevo grupo revolucionario. Los simbolistas. Su origen radica en la literatura y toma como precursores a Puvis de Chavannes y a Gustave Moreau.  Obras decorativas (fiel al movimiento del Simbolismo). Se rescata la pintura mural con aire misticista'+
             'Edvard Munch representa un ejemplo de una obra unida a las experiencias de una vida. A los cunco años su madre muere de tuberculosis. Unos años después su hermana. Esto le llevo a desarrollar una obsesión por la muerte. En un viaje a París conoció las obras impresionistas empezando a desarrollar su pintura bajo esos cánones. Poco después, siguiendo los pasos de Gauguin, empezó a aplicar colores puros de manera libre siguiendo el interés del grupo simbolista, aplicando el color de forma simbólica, no naturalista.' +
-            'En el grito se observa la fuerza expresiva a tavés de la estridencia de sus colores la sinuosidad de la línea. Representa la angustia, la tensión, el pánico de un hombre que a pesar de tener compañía se siente solo. Esa soledad y angustia que se ve en sus hombras son un reflejo a los sentimientos de propio Munch a lo largo de su vida. Esto nos adentra al Expresionismo',
+            'En el grito se observa la fuerza expresiva a tavés de la estridencia de sus colores la sinuosidad de la línea. Representa la angustia, la tensión, el pánico de un hombre que a pesar de tener compañía se siente solo. Esa soledad y angustia que se ve en sus hombras son un reflejo a los sentimientos de propio Munch a lo largo de su vida. <= Esto nos adentra al Expresionismo',
           url: 'https://cdn.martiarte.com/1152-superlarge_default/el-grito-edvard-munch.jpg',
         },
         {
@@ -397,9 +397,10 @@ export default {
           artist: '-',
           name: 'Futurismo',
           style: '',
-          information: 'En italia se juntaron un grupo de artistas preocupados por reaccionar ante la tradición y desarrollar un nuevo lenguaje para definir la nueva belleza: la belleza de la velocidad. Se trataba de un movimiento artístico y social debido a la gran cantidad de manifiestos ue firmaron.' +
-            'En la obra de sus artistas podemos ver la herencia de estéticas de otros movimientos como el Puntillismo de Seurat o el Cubismo. Las pinceladas puntillistas se alargan y los facetados del cubismo se muestran más elásticos. El coche será el objeto fetiche a representar en sus obras' +
-            'Es habitual también enontrarse secuencias de la misma figura. El líder teórico del movimiento ue Marinetti',
+          information: 'En italia se juntaron un grupo de artistas preocupados por reaccionar ante la tradición y desarrollar un nuevo lenguaje para definir la nueva belleza: la belleza de la velocidad. Se trataba de un movimiento artístico y social debido a la gran cantidad de manifiestos ue firmaron.\n' +
+            'En la obra de sus artistas podemos ver la herencia de estéticas de otros movimientos como el Puntillismo de Seurat o el Cubismo. Las pinceladas puntillistas se alargan y los facetados del cubismo se muestran más elásticos. El coche será el objeto fetiche a representar en sus obras.\n' +
+            'Es habitual también enontrarse secuencias de la misma figura. La influencia de los estudios fotográficos ayudó a los pintores futuristas a crear dichas secuencias de imágenes para transmitir dinamismo. El líder teórico del movimiento ue Marinetti.\n' +
+            'El futurismo desarrolló una estética ecléctica tomando elementos de movimientos anteriores. Aunque realmente introdujo una verdadera revolución en la temática y exaltación del dinamismo',
           url: '',
           title: 'Futurismo'
         },
@@ -411,6 +412,102 @@ export default {
           information: 'La imagen muestra un perro corriendo donde se presentan unas patas difuminadas dando la sensación de que está corriendo.' +
             '',
           url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvZHluYW1pc20uanBnIiwicmVzaXplLDgwMCJdfQ.H3GB6WjgSvmaNxkkrxgPcAvj4Oo7AIue8tTpUDWZ5RA.jpg',
+        },
+        {
+          id: 42,
+          artist: 'Gino Severini',
+          name: 'Expansión de la luz (Centrífuga y Centrípeta)',
+          style: 'Futurismo',
+          information: 'Su obra se caracteriza por el interés del pintor de unir imágenes tomadas de diferentes momentos. Es decir, crear secuencias de movimiento en las que se unen varias situaciones.' +
+            'En un primer momento en su obra se distinguen elementos figurativos, pero su evolución se fue hacla la abstracción. Fue un referente en Italia',
+          url: 'https://www.museothyssen.org/sites/default/files/styles/width_600/public/imagen/obras/1981.53_expansion-luz-centrifuga-centripeta.jpg',
+        },
+        {
+          id: 43,
+          artist: 'Umberto Boccioni',
+          name: 'Formas únicas de continuidad en el espacio (1913)',
+          style: 'Escultura Futurista',
+          information: 'Pintor y escultor italiano de gran importancia en el movimiento futurista. Su pintura muestra ese carácter ecléctico del futurismo que toma tanto del Postimpresionismo como del Cubismo donde lo importante es transmitir la velocidad\n' +
+            'Donde fue innovador fue en la aportación escultórica. La escultura futurista abog por una ruptura con la tradición, no solo figurativa, si no también de los materiales hasta ahora utilizados; el clásico mármol y bronce deben cambiarse por cartón, cuero, cemento, luz eléctrica, etc\n' +
+            'Esta obra está realizada en barro y yeso fundida posteriormente en bronce tras la muerte del artista. En ella vemos esa pérdida figurativa y esa sensación de planos en movimiento',
+          url: 'https://collectionapi.metmuseum.org/api/collection/v1/iiif/485540/1005475/main-image',
+        },
+        {
+          id: 44,
+          artist: '-',
+          name: 'Expresionismo',
+          style: '',
+          information: 'Los expresionistas anuncian el final al que se verá abogado el ser humano por el positivismo que habita. Ese final será la primera Guerra Mundial. Su estética se aleja de intereses anteriores; no trata de mostrar el aspecto exterior de los impresionistas, postimpresionistas y cubistas, sino que buscan en adentrarse en el interior del ser humano para transmitir su angustia y su esperanza de vivir. Se trata de una diferencia temática más que técnica con sus predecesores \n' +
+            'Existen tres generaciones de expresionistas:\n'+
+            '- Los que comienzan en 1900 coincidiendo con el simbolismo\n' +
+            '- A partir de 1905 con la aparición de Die Brücke y Der Blaue Reiter, coincidiendo con el Fauvismo y el Cubismo analítico:\n' +
+            ' - Die Brücke (el puente): Sus artistas persiguen un objetivo común: reformar las reglas de creación artística rechazando lo tradicional para dar paso a la libertad de expresión personal. No comparten una estética común; les une su actitud hacia la libertad. Esto les lleva hacia un primitivismo manifestado por el uso de la xilografía. que se transforma en obras pictóricas con líneas muy marcadas y espacios de color plano representando el carácter primmitivo del interior del ser humano, su carácter animal. En un principio la temática fue de paisajes y naturaleza, pero evolucionaron hasta escenas callejeras y ambientes urbanos.\n' +
+            ' - Der Blaue Reiter (el jinete azul): Fundado por Kandinsky y Marc. Al igual que Die Brükce, se interesa por representar el mundo interior. Pero a diferencia de sus predecesores no buscan la estética primitiva ni lo instintivo del ser humano, sino la representación de un mundo más espiritual. Dejan de lado poco a poco lo figurativo para representar el espíritu por medio de la abstracción\n' +
+            '- La última etapa que será la que surja tras la Primera Guerra mundial\n',
+          url: '',
+        },
+        {
+          id: 45,
+          artist: 'James Ensor',
+          name: 'La entrada de Cristo en Bruselas (1888)',
+          style: 'Expresionismo',
+          information: 'Al igual que Munch, tiene un gusto por el colorido de los Impresionistas, aunque sus colores son más estridentes. Este uso del color combinado con la fuerza agresiva de su pincelada, aúnan con los temas provocativos, inspiradoras para el posterior grupo Surrealista.' +
+            '',
+          url: 'https://64.media.tumblr.com/ec277565f6f8d98dfae99623f0a307ca/tumblr_oo52ybL9c61qfcut3o1_1280.jpg',
+        },
+        {
+          id: 46,
+          artist: 'Ernst Kirchner',
+          name: 'Escena callejera en Berlín',
+          style: 'Expresionismo (Die Brucke)',
+          information: 'Sus artistas persiguen un objetivo común: reformar las reglas de creación artística rechazando lo tradicional para dar paso a la libertad de expresión personal. No comparten una estética común; les une su actitud hacia la libertad. Esto les lleva hacia un primitivismo manifestado por el uso de la xilografía. que se transforma en obras pictóricas con líneas muy marcadas y espacios de color plano representando el carácter primmitivo del interior del ser humano, su carácter animal. En un principio la temática fue de paisajes y naturaleza, pero evolucionaron hasta escenas callejeras y ambientes urbanos.' +
+            '',
+          url: 'http://2.bp.blogspot.com/-fFxLZ7XSpfw/T_QcZ-aBpRI/AAAAAAAA_0w/dAsn_L52np0/s640/Kirchner+-+Berlin+Street+Scene+-1913+-+Neue+Galerie,+Nueva+York.jpg',
+        },
+        {
+          id: 47,
+          artist: 'Wassily Kandinsky',
+          name: 'Houses in Murnau on Obermarkt (1908)',
+          style: 'Expresionista (Der Blaue Reiter)',
+          information: 'Der Blaue Reiter (el jinete azul): Fundado por Kandinsky y Marc. Al igual que Die Brükce, se interesa por representar el mundo interior. Pero a diferencia de sus predecesores no buscan la estética primitiva ni lo instintivo del ser humano, sino la representación de un mundo más espiritual. Dejan de lado poco a poco lo figurativo para representar el espíritu por medio de la abstracción\n' +
+            '',
+          url: 'https://www.wassilykandinsky.net/images/works/86.jpg',
+        },
+        {
+          id: 48,
+          artist: 'Franz Marc',
+          name: 'La vaca amarilla (1911)',
+          style: 'Expresionista (Der Blaue Reiter)',
+          information: 'Der Blaue Reiter (el jinete azul): Fundado por Kandinsky y Marc. Al igual que Die Brükce, se interesa por representar el mundo interior. Pero a diferencia de sus predecesores no buscan la estética primitiva ni lo instintivo del ser humano, sino la representación de un mundo más espiritual. Dejan de lado poco a poco lo figurativo para representar el espíritu por medio de la abstracción\n' +
+            '',
+          url: 'https://www.wassilykandinsky.net/images/works/86.jpg',
+        },
+        {
+          id: 49,
+          artist: 'Emil Nolde',
+          name: 'Danza alrededor del becerro de oro',
+          style: 'Expresionismo (última etapa)',
+          information: 'Emil Nolde desarrolla una pintura de puro predominio del uso agresivo del color. Se aprecia un trazo expresivo y primitivo influenciado por el uso de la litografía' +
+            '',
+          url: 'https://i.pinimg.com/originals/9e/74/28/9e74282a2f2e61d8c81deb282010cd21.jpg',
+        },
+        {
+          id: 50,
+          artist: 'Oskar Kokoschka',
+          name: 'La novia del viento (1914)',
+          style: 'Expresionismo (última etapa)',
+          information: 'Uso de las pinceladas enérgicas. Muestra su relación con Alma Mahler' +
+            '',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwva29rb3NjaGthLXZpZW50by5qcGciLCJyZXNpemUsMjAwMCwyMDAwIl19.wq3EXV2fUU60B8wjdjERorRFY20unjWjIcr6-N_2BtQ.jpg',
+        },
+        {
+          id: 52,
+          artist: 'Chaim Soutine',
+          name: 'El conejo despellejado',
+          style: 'Expresionismo (última etapa)',
+          information: 'Comenzó pintando paisajes pero acabo mostrando interés por las naturalezas muertas. Más concretamente por las figuras de animales desollados que provocan al espectador rechazo' +
+            '',
+          url: 'https://imagenes.elpais.com/resizer/oyircRHMV9OdERs8gmApthsnHas=/414x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/OGX5MXO35OSXSYHICTIVACEWBM.jpg',
         },
         /*
         {
