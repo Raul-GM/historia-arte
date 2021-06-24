@@ -186,7 +186,7 @@ export default {
         {
           id: 19,
           artist: 'Henri Matisse',
-          name: 'Lujo, calma y voluptuosidad',
+          name: 'Lujo, calma y voluptuosidad (1904-1905)',
           style: 'Fauvismo',
           information: 'El Fauvismo surgió de una explosición de principios del XX definida como Cage aux fauves (Caja de fieras).' +
             'Matisse se inició en el Neoimpresionismo siguiendo la obra de Seurat y su puntillismo, como se puede apreciar en esta obra. A diferencia de Seurat, las pretensiones puntillistas no eran las de representar la realidad, si no más bien simbólicas. En esta obra se aprecia, tal y como en la obra de Gauguin, cómo transmite las figuras femeninas como sacadas de la imaginación de un niño',
@@ -195,7 +195,7 @@ export default {
         {
           id: 20,
           artist: 'Henri Matisse',
-          name: 'La alegría de vivir',
+          name: 'La alegría de vivir (1905-1906)',
           style: 'Fauvismo',
           information: 'El Fauvismo surgió de una explosición de principios del XX definida como Cage aux fauves (Caja de fieras).' +
             'Tas sus comienzos puntillistas, Matisse presenta una evolución hacia el uso de manchas de color uniformes y el enfrentamiento de colores puros. Se formaliza el Fauvismo, fuertemente influenciado por la obra de Gauguin. Se caracterizaban por extender el color en grandes áreas dotando a la superficie de un caracter plano, pero usando grandes cantidades de color que producían un intenso deslumbramiento. Tratan de expresar sensaciones a través del color'+
@@ -205,7 +205,7 @@ export default {
         {
           id: 21,
           artist: 'Henri Matisse',
-          name: 'Armonía en rojo',
+          name: 'Armonía en rojo (1908)',
           style: 'Fauvismo',
           information: 'El Fauvismo surgió de una explosición de principios del XX definida como Cage aux fauves (Caja de fieras).' +
             'Tas sus comienzos puntillistas, Matisse presenta una evolución hacia el uso de manchas de color uniformes y el enfrentamiento de colores puros. Se formaliza el Fauvismo, fuertemente influenciado por la obra de Gauguin. Se caracterizaban por extender el color en grandes áreas dotando a la superficie de un caracter plano, pero usando grandes cantidades de color que producían un intenso deslumbramiento. Tratan de expresar sensaciones a través del color'+
@@ -215,7 +215,7 @@ export default {
         {
           id: 22,
           artist: 'Henri Matisse',
-          name: 'La danza',
+          name: 'La danza (1909-1910)',
           style: 'Fauvismo',
           information: 'El Fauvismo surgió de una explosición de principios del XX definida como Cage aux fauves (Caja de fieras).' +
             'Tas sus comienzos puntillistas, Matisse presenta una evolución hacia el uso de manchas de color uniformes y el enfrentamiento de colores puros. Se formaliza el Fauvismo, fuertemente influenciado por la obra de Gauguin. Se caracterizaban por extender el color en grandes áreas dotando a la superficie de un caracter plano, pero usando grandes cantidades de color que producían un intenso deslumbramiento. Tratan de expresar sensaciones a través del color'+
@@ -225,7 +225,7 @@ export default {
         {
           id: 23,
           artist: 'Pablo Picasso',
-          name: 'Retrato de Gertrude Stein',
+          name: 'Retrato de Gertrude Stein (1906)',
           style: '-',
           information: 'Los inicios de Pablo Picasso en el cubismo se empiezan a apreciar cuando su obra se vuelve escultórica.'+
             'Con el Retrato de Gertrude Stein, podemos reparar en el rostro de la modelo con cierta reminiscencia a una escultura. Más concretamente con la escultura íbera. Más tarde recibiría influencias también de las máscaras africanas',
@@ -234,7 +234,7 @@ export default {
         {
           id: 24,
           artist: 'Pablo Picasso',
-          name: 'Las señoritas de Aviñón',
+          name: 'Las señoritas de Aviñón (1907)',
           style: 'Proto-cubista',
           information: 'Esta obra de Picasso está considerada como la obra puente que le lleva al cubismo. En ella rompe claramente con la representación figurativa y opta por el uso del color de forma aleatoria.'+
             'Se observa un primitivismo sobre todo en tres de las figuras, cuyos rostros se asemejan a las máscaras Africanas. Se tratan de 5 mujeres prostitutas que devuelven la mirada al espectador y representa la fatalidad de la sexualidad femenina de la época. En realidad se trata de un recuerdo a un amigo que se quitó la vida por amor.',
@@ -265,7 +265,7 @@ export default {
         {
           id: 26,
           artist: 'George Braque',
-          name: 'Puerto de Normandía',
+          name: 'Puerto de Normandía (1909)',
           style: 'Cubismo (analítico?)',
           information: 'George Braque comenzó bajo los ideales del Fauvismo hasta que admiró Las señoritas de Aviñón de Picasso que hizo evolucionar su estilo hasta el cubismo como se ve en su obra Desnudo.\n' +
             'A partir de entonces comenzará a trabajar con paisajes sobre todo, descomponiéndolos en formas geométricas como se aprecia en esta obra de Puerto de Normandía. Los planos se superponen unos a otros haciendo que unos se acerquen al espectador mientras que otros se alejen permitiendo al espectador sentirse cercano a la obra.\n' +
@@ -287,7 +287,7 @@ export default {
         {
           id: 28,
           artist: 'Juan Gris',
-          name: 'Naturaleza muerta ante una ventana: Place Ravignan',
+          name: 'Naturaleza muerta ante una ventana: Place Ravignan (1915)',
           style: 'Cubismo (analítico)',
           information: 'Juan Gris aprendió de Picasso no solo el lenguaje  cubista si no el proceso por el que se llega a ello. De personalidad más técnica y científica, su lenguaje no es tan libremente creativo. Tenderá al cubismo analítico.' +
             'Juan Gris no descartó el uso del color ni la combinación de la perspectiva múltiple como la tradicional',
@@ -296,7 +296,7 @@ export default {
         {
           id: 29,
           artist: 'Juan Gris',
-          name: 'Arlequín con guitarra',
+          name: 'Arlequín con guitarra (1917)',
           style: 'Cubismo analítico',
           information: 'Juan Gris aprendió de Picasso no solo el lenguaje  cubista si no el proceso por el que se llega a ello. De personalidad más técnica y científica, su lenguaje no es tan libremente creativo. Tenderá al cubismo analítico.' +
             'Juan Gris no descartó el uso del color ni la combinación de la perspectiva múltiple como la tradicional.\n' +
@@ -306,7 +306,7 @@ export default {
         {
           id: 30,
           artist: 'Fernand Léger',
-          name: 'Los fumadores',
+          name: 'Los fumadores (1911-1912)',
           style: 'Cubismo',
           information: 'Fernand Léger conocío a Braque y Picasso siguiendo sus pasos pero con un caracter más técnico que estético. Introdujo elementos geométricos en su obra hasta llegar a la abstracción. Y es a través de esa abstracción donde experimentó cómo transmitir la sensación de movilidad y velocidad de la vida moderna e industrial'+
             '',
@@ -315,7 +315,7 @@ export default {
         {
           id: 31,
           artist: 'Fernand Léger',
-          name: 'La escalera',
+          name: 'La escalera (1914)',
           style: 'Cubismo',
           information: 'Fernand Léger conocío a Braque y Picasso siguiendo sus pasos pero con un caracter más técnico que estético. Introdujo elementos geométricos en su obra hasta llegar a la abstracción. Y es a través de esa abstracción donde experimentó cómo transmitir la sensación de movilidad y velocidad de la vida moderna e industrial'+
             '',
@@ -324,7 +324,7 @@ export default {
         {
           id: 32,
           artist: 'Robert Delaunay',
-          name: 'Torre Eiffel',
+          name: 'Torre Eiffel (1911)',
           style: 'Cubismo',
           information: 'Delaunay conoció también a Braque y Picasso y aunque no estaba interesado en la representación de la realidad a través de las formas geométricas y la superposición de planos, sí aprovechó el lenguaje cubista para desarrollar su propia personalidad pictórica' +
             'Delaunay trabajó la creación de formas geométricas a través del color con la intención de transmitir sensación de movimiento y evitar la apariencia de cualquier perspectiva. De esta forma, los espacios coloreados ofrecen otra sensación de espacio más dramático al espectador',
@@ -333,7 +333,7 @@ export default {
         {
           id: 33,
           artist: 'Pablo Picasso',
-          name: 'Cabeza de Fernande Olivier',
+          name: 'Cabeza de Fernande Olivier (1909)',
           style: 'Cubismo Escultórico',
           information: 'Esta obra corresponde al interés por la figura humana de la primera etapa cubista de Picasso. Comparte características con el retrato de Gertrude Stein y las Señoritas de Avignon con sus rostros escultóricos, afrícanos, íberos...'+
             '',
@@ -342,7 +342,7 @@ export default {
         {
           id: 34,
           artist: 'Julio González',
-          name: 'Máscara Acerada',
+          name: 'Máscara Acerada (1929-1930)',
           style: 'Cubismo Escultorico',
           information: 'Julio González fue un pionero en el uso del hierro para esculturas. Conoció a Picasso y su obra ejerció gran influiencia sobre él. En su obra usa un único plano simplificando su propio lenguaje (antes superponía dos planos de chapa). Aeste plano de chapa le aplica modificaciones que originan el rostro'+
             '',
@@ -351,16 +351,7 @@ export default {
         {
           id: 35,
           artist: 'Julio González',
-          name: 'Mujer sentada',
-          style: 'Cubismo Escultorico',
-          information: 'Julio González fue un pionero en el uso del hierro para esculturas. Conoció a Picasso y su obra ejerció gran influiencia sobre él. En su obra usa un único plano simplificando su propio lenguaje (antes superponía dos planos de chapa). Aeste plano de chapa le aplica modificaciones que originan el rostro' +
-            'Gracias a su amistad con Picasso, Julio adpotará el lenguaje surrealista. Su escultura pasará a ser más lineal, basada en elementos alargados construyendo figuras simplificadas acercándose al imaginario surrealista de la mantis religiosa como símil de la mujer.',
-          url: 'https://static4.museoreinasofia.es/sites/default/files/obras/AS10757.jpg',
-        },
-        {
-          id: 36,
-          artist: 'Julio González',
-          name: 'Mujer sentada',
+          name: 'Mujer sentada (1935)',
           style: 'Cubismo Escultorico',
           information: 'Julio González fue un pionero en el uso del hierro para esculturas. Conoció a Picasso y su obra ejerció gran influiencia sobre él. En su obra usa un único plano simplificando su propio lenguaje (antes superponía dos planos de chapa). Aeste plano de chapa le aplica modificaciones que originan el rostro' +
             'Gracias a su amistad con Picasso, Julio adpotará el lenguaje surrealista. Su escultura pasará a ser más lineal, basada en elementos alargados construyendo figuras simplificadas acercándose al imaginario surrealista de la mantis religiosa como símil de la mujer.',
@@ -369,7 +360,7 @@ export default {
         {
           id: 37,
           artist: 'Pablo Gargallo',
-          name: 'Gran Profeta',
+          name: 'Gran Profeta (1933)',
           style: 'Cubismo Escultórico',
           information: 'Pablo Gargallo demostró su pasión por la escultura desde bien pequeño. Comenzó influenciado por el Art Nouveau. Tras conocer al grupo cubista, empieza a desarrollar su propio lenguaje escultórico basándose en la tradición del metal español\n' +
             'Comenzó a realizar finas máscaras de hierro y cobre que conseguían transmitir volumen jugando con la contraposición de las superficies cóncavas y convexas.',
@@ -378,7 +369,7 @@ export default {
         {
           id: 38,
           artist: 'Jaques Lipchitz',
-          name: 'Marinero con guitarra',
+          name: 'Marinero con guitarra (1917)',
           style: 'Cubismo escultórico sintético',
           information: 'El autor lituano adoptó el lenguaje cubista y empezó a realizar escuturas para representar en 3D las obras de Braque y Picasso. Empezó a estilizar las figuras terminando en un cubismo sintético' +
             '',
@@ -386,7 +377,7 @@ export default {
         },
                 {
           id: 39,
-          artist: 'Alexander Archipenko',
+          artist: 'Alexander Archipenko (1914)',
           name: 'Mujer peinándose',
           style: 'Cubismo escultórico',
           information: 'El autor ukraniano analiza la figura humana descompuesta en figuras geométricas utilizando el contraste entre la forma cóncava y convexa. Entre lo sólido y lo hueco. Trabajó la escultura policromada y la escultura móvil' +
@@ -408,7 +399,7 @@ export default {
         {
           id: 41,
           artist: 'Giancomo Balla',
-          name: 'Dinamismo de un perro con correa',
+          name: 'Dinamismo de un perro con correa (1912)',
           style: 'Futurismo',
           information: 'La imagen muestra un perro corriendo donde se presentan unas patas difuminadas dando la sensación de que está corriendo.' +
             '',
@@ -417,7 +408,7 @@ export default {
         {
           id: 42,
           artist: 'Gino Severini',
-          name: 'Expansión de la luz (Centrífuga y Centrípeta)',
+          name: 'Expansión de la luz (Centrífuga y Centrípeta) (1912)',
           style: 'Futurismo',
           information: 'Su obra se caracteriza por el interés del pintor de unir imágenes tomadas de diferentes momentos. Es decir, crear secuencias de movimiento en las que se unen varias situaciones.' +
             'En un primer momento en su obra se distinguen elementos figurativos, pero su evolución se fue hacla la abstracción. Fue un referente en Italia',
@@ -460,7 +451,7 @@ export default {
         {
           id: 46,
           artist: 'Ernst Kirchner',
-          name: 'Escena callejera en Berlín',
+          name: 'Escena callejera en Berlín (1913)',
           style: 'Expresionismo (Die Brucke)',
           information: 'Sus artistas persiguen un objetivo común: reformar las reglas de creación artística rechazando lo tradicional para dar paso a la libertad de expresión personal. No comparten una estética común; les une su actitud hacia la libertad. Esto les lleva hacia un primitivismo manifestado por el uso de la xilografía. que se transforma en obras pictóricas con líneas muy marcadas y espacios de color plano representando el carácter primmitivo del interior del ser humano, su carácter animal. En un principio la temática fue de paisajes y naturaleza, pero evolucionaron hasta escenas callejeras y ambientes urbanos.' +
             '',
@@ -531,7 +522,116 @@ export default {
           url: '',
           title: 'Simbolismo'
         },
-
+        {
+          id: 55,
+          artist: '-',
+          name: 'Fauvismo',
+          style: '',
+          information: 'El Fauvismo está formado por un grupo de pintores que han pasado por una etapa Neoimpresionista, influenciados por la obra de Gauguin. Encabezados por Henry Matisse. Este se inició bajo el ala Neoimpresionista de la mano de George Seurat y su puntillismo Se busca el simbolismo más que el realismo\n' +
+            'Se caracterizan pr extender el color en grandes áreas que dotaban a la superficie de un color plano. A diferencia de Gauguin, aplicaban grandes cantidades de color. Buscan expresar sensaciones a través del color, no representar impresiones',
+          url: '',
+          title: 'Fauvismo'
+        },
+        {
+          id: 56,
+          artist: '-',
+          name: 'Abstracción',
+          style: '',
+          information: '' +
+            '',
+          url: '',
+        },
+        {
+          id: 57,
+          artist: 'Wassily Kandinsky',
+          name: 'Improvisación 9 (1910)',
+          style: 'Abstracción',
+          information: 'Wassily Kandinsy fue uno de los impulsores del grupo expresionista Der Blaue Reiter. A este autor le gustaba el uso del color frente a la línea, llevándole a la abstracción. Este cambo se inición cuando por casualidad, vio una de sus obras boca abajo. Al ver que no tenía ningún sentido desde esa perspectiva, se dio cuenta de las posibilidades que tenía la pintura abstracta' +
+            '',
+          url: 'https://reproarte.com/images/stories/virtuemart/product/kandinsky_wassily/improvisation_9.jpg',
+        },
+        {
+          id: 58,
+          artist: 'Wassily Kandinsky',
+          name: 'Composition VIII (1923)',
+          style: 'Abstracción',
+          information: 'Tras colaborar en la revolución Rusa y pasar como profesor en la Bauhaus, Kandinsky adquirió un nuevo conocimiento, cambiando su estética hacia líneas más geométricas' +
+            '',
+          url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wassily_Kandinsky_Composition_VIII.jpg/1280px-Wassily_Kandinsky_Composition_VIII.jpg',
+        },
+        {
+          id: 59,
+          artist: 'Robert Delaunay',
+          name: 'Ventana (1912)',
+          style: 'Abstracción',
+          information: 'Siguiendo la huella del neoimpresionismo y del Fauvismo, Delaunay desarrollará la pintura del color. Creó lo que se denomina "Cubismo Órfico" que suponía la aportación de elementos cromáticos a las composiciones de base cubista (como un facetado de cristales). Así el autor irá evolucionando hacia la abstracción' +
+            '',
+          url: 'https://artsdot.com/ADC/Art-ImgScreen-1.nsf/O/A-8XYUQD/$FILE/Robert-delaunay-window.Jpg',
+        },
+        {
+          id: 60,
+          artist: 'Paul Klee',
+          name: 'Polifonía (1932)',
+          style: 'Abstracción',
+          information: 'Klee contactó con el grupo de Der Blaue Reiter y siguiendo sus pasos se dirigió a la abstracción. Al igual que Delaunay, desarrollaría una pintura abstracta liminista donde deja entrever su interés y fornación en la música. Abstracción lírica.' +
+            '',
+          url: 'https://i0.wp.com/www.tomasbartolome.com/wp-content/uploads/2016/05/image23.jpg',
+        },
+        {
+          id: 61,
+          artist: 'Paul Klee',
+          name: 'Casa Giratoria (1921)',
+          style: 'Abstracción',
+          information: 'Klee contactó con el grupo de Der Blaue Reiter y siguiendo sus pasos se dirigió a la abstracción. Al igual que Delaunay, desarrollaría una pintura abstracta liminista donde deja entrever su interés y fornación en la música. Abstracción lírica.' +
+            '',
+          url: 'https://uploads3.wikiart.org/images/paul-klee/revolving-house-1921(1).jpg',
+        },
+        {
+          id: 62,
+          artist: 'Piet Mondrian',
+          name: 'Composición en rojo, amarillo y azul (1921)',
+          style: 'Abstracción',
+          information: 'Pasó de una pintura figurativa a una abstracta por medio del postimpresionismo y el Fauvismo. Empez´a completar sus lienzos sólo con figuras geométricas y colores puros (amarillo, azul, rojo, blanco y negro). Influenció al mundo arquitectónico y decorativo. De Stijl' +
+            '',
+          url: 'https://www.meisterdrucke.com/kunstwerke/500px/Piet_Mondrian_-_Composition_with_Red_Yellow_and_Blue_1921_-_(MeisterDrucke-406919).jpg',
+        },
+        {
+          id: 63,
+          artist: 'Kasimir Malevich',
+          name: 'Cuadro negro sobre fondo blanco',
+          style: 'Suprematismo (abstracción)',
+          information: 'Influenciado por el Postimpresionismo, el Fauvismo y el Cubismo, desarrolló la pintura suprematista, que superó a la abstracción. El suprematismo lo inició Malevich y defendía la no representación,si no una abstracción que definía la relaidad al margen de los convencionalismos figurativos porque la realidad también se percibe desde la sensibilidad abstracta.' +
+            '',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvZDE4N2QxOTFkMTgwZDBiZGQxOGJkMGI5X2QxODFkMTgzZDBiZmQxODBkMGI1ZDBiY2QwYjBkMTgyZDBiOGQxODdkMGI1ZDE4MWQwYmFkMGI4ZDBiOV9kMGJhZDB/iMmQwYjBkMGI0ZDE4MGQwYjBkMTgyLV8xOTE1LV9kMGIzZDE4MmQwYjMuanBnIiwicmVzaXplLDgwMCJdfQ.OzXc-V4Bust7Bhzhh7JCCU36rTPQsyLd_ZEkCv0puGA.jpg',
+        },
+        {
+          id: 64,
+          artist: 'Kasimir Malevich',
+          name: 'Circulo negro',
+          style: 'Suprematismo (abstracción)',
+          information: 'Influenciado por el Postimpresionismo, el Fauvismo y el Cubismo, desarrolló la pintura suprematista, que superó a la abstracción. El suprematismo lo inició Malevich y defendía la no representación,si no una abstracción que definía la relaidad al margen de los convencionalismos figurativos porque la realidad también se percibe desde la sensibilidad abstracta.' +
+            '',
+          url: 'https://artsdot.com/ADC/Art.nsf/O/8DP8VE/$File/Kazimir_Severinovich_Malevich-Black_circle.JPG',
+        },
+        {
+          id: 65,
+          artist: '-',
+          name: 'Dadaismo',
+          style: '',
+          information: 'Paralelamente se empezaron a crear dos grupos, uno en Suiza (Hugo Ball, Tristán Tzara, Hans Arp) y otro en Nueva York (Marcel Duschamp y Francis Picabia) con los mismos intereses.\n' +
+            'El Dadaísmo fue un movimiento ideológico que buscaba a través de la provocación, despertar a una población a raíz de la Primera Guerra Mundial. Buscaban eliminar la obra maestra y que fuera la mirada del espectador la que fuese la creadora de la obra de arte.',
+          url: '',
+          title: 'dadaismo'
+        },
+        {
+          id: 66,
+          artist: 'Francis Picabia',
+          name: 'Parada amorosa (1917)',
+          style: 'Dadaísmo',
+          information: 'Picabia fue un pintor ecléctico que comenzó en el impresionismo, después pasó al cubismo, llegó a la abstracción y volvió a la figuración. Sus obras se pueden apreciar una clara exaltación a la máquina y una referencia claramente sexual' +
+            '',
+          url: 'https://2.bp.blogspot.com/-Ca71xx7OuFI/WyzV_u1SzII/AAAAAAABQlk/mATD-n0267MduQZ8l7JdU1oDkTBuu7zgQCLcBGAs/s1600/Imagen029.jpg',
+        },
         /*
         {
           id: 8,
