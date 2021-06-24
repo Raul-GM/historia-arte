@@ -29,23 +29,24 @@ export default {
         {
           id: 1,
           artist: 'Paul Cézanne',
-          name: 'La casa del ahorcado',
+          name: 'La casa del ahorcado (1872-1873)',
           style: 'Postimpresionismo',
-          information: 'Su paleta se hará más luminosa, como vemos en La casa del ahorcado, mientras su pincelada cargada nos muestra ese interés escultórico que el pintor trata de transmitir a su obra. Este será el inicio de su lucha por el equilibrio entre lo visual y lo táctil de la representación pictórica.',
+          information: 'Su paleta se hará más luminosa, como vemos en La casa del ahorcado, mientras su pincelada cargada nos muestra ese interés escultórico que el pintor trata de transmitir a su obra. Este será el inicio de su lucha por el equilibrio entre lo visual y lo táctil de la representación pictórica.\n' +
+            'Su composición tiende al equilibrio donde las horizontales y verticales marcan los ejes de la obra. Aquí se aprecia como los dos troncos de los árboles marcan una línea vertical que corta la diagonal que genera el camino de tierra. Así estructura el espacio del lienzo.',
           url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/La_Maison_du_pendu%2C_Auvers-sur-Oise%2C_par_Paul_C%C3%A9zanne%2C_Yorck.jpg/1200px-La_Maison_du_pendu%2C_Auvers-sur-Oise%2C_par_Paul_C%C3%A9zanne%2C_Yorck.jpg'
         },
         {
           id: 2,
           artist: 'Paul Cézanne',
-          name: 'Naturaleza muerta',
+          name: 'Naturaleza muerta (1879-1880)',
           style: 'Postimpresionismo',
-          information: 'Si nos fijamos, por ejemplo, en esta naturaleza muerta, observamos como las frutas no descansan una encima de otra, ni sobre la mesa, sino que más bien parecen superponerse sobre un plano invisible y vertical que las acerca al espectador. Podemos observar como los unifican, planos sino no que se se superponen, un ejemplo del nuevo lenguaje pictórico sobre Naturaleza muerta (1879-1880)',
+          information: 'Se nota la marca pesadade sus pinceladas paralelas. Si nos fijamos, por ejemplo, en esta naturaleza muerta, observamos como las frutas no descansan una encima de otra, ni sobre la mesa, sino que más bien parecen superponerse sobre un plano invisible y vertical que las acerca al espectador. Podemos observar como los unifican, planos sino no que se se superponen, un ejemplo del nuevo lenguaje pictórico sobre Naturaleza muerta. Cezanne trabaja con la forma y se aleja del sentimiento. Se centra más en la composición y el dibujo y no tanto en la mancha de color, dando importancia al volumen, contorno y forma.',
           url: 'https://64.media.tumblr.com/8e834e10e9c4d09f8aa204a8c345ef9b/tumblr_ng6fjep6Ut1qfcut3o1_1280.jpg',
         },
         {
           id: 3,
           artist: 'Paul Cézanne',
-          name: 'El jarrón azul',
+          name: 'El jarrón azul (1889-1890)',
           style: 'Postimpresionismo',
           information: 'la pincelada cargada que veíamos en el anterior, desaparece; las formas geométricas se ven con más detalle y la simplicidad de líneas es más marcada',
           url: 'https://i.pinimg.com/originals/ac/2b/9c/ac2b9c53d0f341a81ce10eb991ebbf22.jpg',
@@ -53,7 +54,7 @@ export default {
         {
           id: 4,
           artist: 'Paul Cézanne',
-          name: 'Grandes bañistas',
+          name: 'Grandes bañistas (1906)',
           style: 'Postimpresionismo',
           information: 'las formas geométricas se ven con más detalle y la simplicidad de líneas es más marcada, características todas ellas acentuadas en el grupo de mujeres geometrizadas que acaban de darse un baño. Esta pintura más geométrica, de líneas simplificadas, será la que tanto llame la atención de pintores como Braque, Picasso y Derain, que serán el germen del lenguaje cubista que veremos en el siguiente tema.',
           url: 'https://64.media.tumblr.com/c76dba94884d82da365c48886e08a6f0/tumblr_na722r1QLI1qfcut3o1_1280.jpg',
@@ -61,7 +62,7 @@ export default {
         {
           id: 5,
           artist: 'George Seurat',
-          name: 'Los bañistas de Asnières',
+          name: 'Los bañistas de Asnières (1883-1884)',
           style: 'Neoimpresionismo',
           information: 'Las figuras presentan ese hieratismo propio de las obras clásicas, con perfiles marcados, coloreadas por medio de pequeños puntos de color. Mantiene el gusto del color impresionista, aunque su técnica le haga perder en luminosidad.',
           url: 'https://3.bp.blogspot.com/-YLvsHFrEbqE/Vyd--3BVxeI/AAAAAAAAAxw/zGo4TGQNEV41sk6m-4vf7i5xPrKfe6pYACLcB/s1600/Georges_Seurat_004.jpg',
@@ -69,7 +70,7 @@ export default {
         {
           id: 6,
           artist: 'George Seurat',
-          name: 'Una tarde de domingo en la isla de la Grande Jatte',
+          name: 'Una tarde de domingo en la isla de la Grande Jatte (1884-1886)',
           style: 'Neoimpresionismo',
           information: 'Esta obra le llevó varios años de trabajo. Representa una escena cotidiana de la vida parisina, en la que podemos ver de nuevo el hieratismo y la factura puntillista. Cuando se expuso a la crítica se habló de rigidez y se comparó la obra con un teatro de marionetas, ya que las figuras parecen recortadas y pegadas sobre el escenario del paisaje.',
           url: 'https://educacion.ufm.edu/wp-content/uploads/2014/01/Georges_Seurat_031.jpg',
@@ -77,7 +78,7 @@ export default {
         {
           id: 7,
           artist: 'George Seurat',
-          name: 'La parade',
+          name: 'La parade (1889)',
           style: 'Neoimpresionismo',
           information: 'Seurat también fue conocido por sus pinturas sobre el circo, en las que vemos las mismas características ya mencionadas y donde podemos descubrir ese carácter de pintura egipcia que comentamos al principio, como ocurre en La Parade. En esta obra vemos la quietud y la búsqueda de estabilidad que contrasta con el tema cotidiano, de ocio y entretenimiento, un tema movido, propio de la vida moderna, pero que el pintor trata de manera rígida, como si vieran la modernidad a través de ojos egipcios.',
           url: 'https://upload.wikimedia.org/wikipedia/commons/d/d0/Seurat_parade00.jpg',
@@ -85,7 +86,7 @@ export default {
         {
           id: 8,
           artist: 'Paul Gaugin',
-          name: 'Visión después del sermón: Jacob luchando con el ángel',
+          name: 'Visión después del sermón: Jacob luchando con el ángel (1888)',
           style: 'Neoimpresionismo',
           information: 'Émile Bernard le enseñó a Gauguin la técnica del Cloisonné, un antiguo procedimiento de hacer esmalte en la que finas tiras de metal separan los espacios de color. Tomando ideas de esta técnica, Gauguin desarrollará una pintura de colores planos delimitados por los contornos de las figuras aplicado en las obras de esta época. En esta obra vemos también otras de las características de la obra de Gauguin, la búsqueda del primitivismo y la representación de lo visionario. Esta obra representa a las bretonas al salir de la iglesia, después de escuchar el sermón sobre la lucha de Jacob y el ángel, que es lo que vemos en la escena superior derecha. Esta escena, representada sobre un rojo que nos aleja de considerarla una escena realista, nos lleva a reconocer la imagen que estas señoritas puedan estar recreando en su cabeza después de escuchar las palabras del pastor. Lo que representa Gauguin en esta obra no es lo que podemos ver con los ojos de la carne, sino con los del espíritu, es decir, lo que las bretonas identifican con la visión.',
           url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg/1200px-La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg',
@@ -93,7 +94,7 @@ export default {
         {
           id: 9,
           artist: 'Paul Gaugin',
-          name: 'El Cristo amarillo',
+          name: 'El Cristo amarillo (1889)',
           style: 'Neoimpresionismo',
           information: 'muestra ese gusto por llegar a representar de manera muy sencilla, primitiva, casi torpe. Vemos unas mujeres bretonas que supuestamente están al pie del calvario y que más bien es producto de su imaginación. Es una escena transformada, aparentemente real, pero que ocurre en la mente de las mujeres.',
           url: 'https://upload.wikimedia.org/wikipedia/commons/3/35/Gauguin_Il_Cristo_giallo.jpg',
@@ -101,7 +102,7 @@ export default {
         {
           id: 10,
           artist: 'Paul Gaugin',
-          name: 'Mahana no atúa',
+          name: 'Mahana no atúa (1894)',
           style: 'Neoimpresionismo',
           information: 'Esta búsqueda por volver a lo ingenuo, retornar a lo que Gauguin consideraba más puro, lo primitivo, lo no infectado por Occidente, le llevó a realizar diferentes viajes por el continente americano. Residió en Panamá y Martinica, terminando sus días en las Islas Marquesas. Durante este período representó, sobre todo, el ritual, que respondía a ese interés que tenía por buscar lo visionario. Un buen ejemplo es la obra Mahana no atúa, representación de la danza de las mujeres ante Hina, ídolo maorí. Es la representación del Día del Dios de esta comunidad primitiva.',
           url: 'https://www.artehistoria.com/sites/default/files/styles/full_horizontal/public/imagenobra/GAM00334.jpg?itok=FfPyRIpS',
@@ -109,7 +110,7 @@ export default {
         {
           id: 11,
           artist: 'Paul Gaugin',
-          name: 'Cabeza de muchacha',
+          name: 'Cabeza de muchacha (1893-1894)',
           style: 'Neoimpresionismo',
           information: 'Paul Gauguin intentó recuperar la talla reivindicándola como la manera tradicional y primitiva de la elaboración escultórica. Tamién aprendió la técnica de la cerámica',
           url: 'https://www.museothyssen.org/sites/default/files/styles/16x9_social_share/public/imagen/obras/CTB.DEC99.36_cabeza-muchacha.jpg?h=379b870d',
@@ -117,7 +118,7 @@ export default {
         {
           id: 12,
           artist: 'Paul Sérusier',
-          name: 'El talismán',
+          name: 'El talismán (1888)',
           style: 'Neoimpresionismo',
           information: 'Paul Gauguin influyó en la utilización de colores puros en pintores como Van Gogh o Paul Sérusier, que motivarán la formación de los Nabis (escuela de Pont Aven). Sérusier pintó esta obra gracias a las instrucciones de Gauguin, contestando a preguntas como ¿Cómo ve usted los árboles?. Esta sería la primera obra de los Nabis. Se aprecian los colores puros y el cloisonné. Este nuevo grupo es colorista y defensor de la representación de las emociones y las experiencias al margen de la figuración. Al igual que los simbolistas, tratan de representar su percepción interior de lo visible, trascender de lo puramente físico para traspasar la barrera de lo objetivo.',
           url: 'https://3minutosdearte.com/wp-content/uploads/2017/01/S%C3%A9rusier-el-talism%C3%A1n-1888.jpg',
@@ -125,7 +126,7 @@ export default {
         {
           id: 13,
           artist: 'Vincent Van Gogh',
-          name: 'Los comedores de patatas',
+          name: 'Los comedores de patatas (1885)',
           style: 'Neoimpresionismo',
           information: 'Van Gogh no comenzaría a pintar hasta finales del XIX. Fue representante del Postimpresionismo. Su intensa labor pictórica fue debida al apoyo a su hermano Theo y a la mujer de este, Johanna. Se instaló en Bélgica debido a su afán misionero como predicador' + 
             'En sus primeras obras ya se podrá apreciar la intensidad que le caracterizará toda su vida. Una pincelada intensa y un ambiente todavía tenebroso. Su pincelada larga nos recuerda a Cézanne, diferenciándose por la vivacidad con la que la aplica. Vincent pintaba deprisa y aplicando colores puros (recuerdo de la influencia de Gaugin, creando de auras de luz sutles y aplicando pinceladas de forma dinámica. Dibujaba con el color más que con las líneas.',
@@ -134,7 +135,7 @@ export default {
         {
           id: 14,
           artist: 'Vincent Van Gogh',
-          name: 'La Arlesiana. Retrato de Mme Ginoux',
+          name: 'La Arlesiana. Retrato de Mme Ginoux (1888)',
           style: 'Neoimpresionismo',
           information: 'Van Gogh no comenzaría a pintar hasta finales del XIX. Fue representante del Postimpresionismo. Su intensa labor pictórica fue debida al apoyo a su hermano Theo y a la mujer de este, Johanna. Se instaló en Bélgica debido a su afán misionero como predicador' + 
             'Su pincelada larga nos recuerda a Cézanne, diferenciándose por la vivacidad con la que la aplica. Vincent pintaba deprisa y aplicando colores puros (recuerdo de la influencia de Gaugin, creando de auras de luz sutles y aplicando pinceladas de forma dinámica. Dibujaba con el color más que con las líneas.' +
@@ -144,7 +145,7 @@ export default {
         {
           id: 15,
           artist: 'Vincent Van Gogh',
-          name: 'La noche estrellada',
+          name: 'La noche estrellada (1889)',
           style: 'Neoimpresionismo',
           information: 'Van Gogh no comenzaría a pintar hasta finales del XIX. Fue representante del Postimpresionismo. Su intensa labor pictórica fue debida al apoyo a su hermano Theo y a la mujer de este, Johanna. Se instaló en Bélgica debido a su afán misionero como predicador' + 
           'Su pincelada larga nos recuerda a Cézanne, diferenciándose por la vivacidad con la que la aplica. Vincent pintaba deprisa y aplicando colores puros (recuerdo de la influencia de Gaugin, creando de auras de luz sutles y aplicando pinceladas de forma dinámica. Dibujaba con el color más que con las líneas.' +
@@ -154,7 +155,7 @@ export default {
         {
           id: 16,
           artist: 'Gustave Moreau',
-          name: 'La aparición',
+          name: 'La aparición (1876)',
           style: 'Simbolismo',
           information: 'Hacia finales del XIX surge un nuevo grupo revolucionario. Los simbolistas. Su origen radica en la literatura y toma como precursores a Puvis de Chavannes y a Gustave Moreau.  Obras decorativas (fiel al movimiento del Simbolismo). Se rescata la pintura mural con aire misticista'+
             'Gustave Moreau recrea ambientes exóticos y llenos de dramatismo. De fuerte inspiración de temática mitológica y religiosa.' +
@@ -165,7 +166,7 @@ export default {
         {
           id: 17,
           artist: 'Odilon Redon',
-          name: 'Ojos cerrados',
+          name: 'Ojos cerrados (1890)',
           style: 'Simbolismo',
           information: 'Hacia finales del XIX surge un nuevo grupo revolucionario. Los simbolistas. Su origen radica en la literatura y toma como precursores a Puvis de Chavannes y a Gustave Moreau.  Obras decorativas (fiel al movimiento del Simbolismo). Se rescata la pintura mural con aire misticista'+
             'Los simbolistas se preocupan por presentar las escenas tradicionales desde un punto de vista subjetivo, intentando representar el inconsciente. Esto responde a la idea principal del Manifiesto Simbolista de Jean Moréas que dice que no se deben fijar las ideas, sino simbolizarlas hasta tal punto que lleguen al espectador por líneas ocultas que emoconalmente te llevan a la idea original' +
@@ -445,6 +446,7 @@ export default {
             ' - Der Blaue Reiter (el jinete azul): Fundado por Kandinsky y Marc. Al igual que Die Brükce, se interesa por representar el mundo interior. Pero a diferencia de sus predecesores no buscan la estética primitiva ni lo instintivo del ser humano, sino la representación de un mundo más espiritual. Dejan de lado poco a poco lo figurativo para representar el espíritu por medio de la abstracción\n' +
             '- La última etapa que será la que surja tras la Primera Guerra mundial\n',
           url: '',
+          title: 'Expresionismo'
         },
         {
           id: 45,
@@ -509,6 +511,27 @@ export default {
             '',
           url: 'https://imagenes.elpais.com/resizer/oyircRHMV9OdERs8gmApthsnHas=/414x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/OGX5MXO35OSXSYHICTIVACEWBM.jpg',
         },
+        {
+          id: 53,
+          artist: '-',
+          name: 'Neoimpresionismo',
+          style: '',
+          information: 'Fue fundado por George Seurat. Su formación como dibujante le llevara a desarrollar composiciones donde prima la estabilidad, el equilibrio de contención de las formas y las figuras estáticas. Siguiendo los pasos de Cezanne, se alejaba de la espontaneidad impresionista trabajand con una pincelada controlada.\n' +
+            'Al contrario que Cezanne, no se caracterizaba por las pinceladas paralelas, si no que desarrolla el divisionismo, con el que representaba formas por medio de pequeños puntos de color con el que el pintor intentaba crear una mezcla óptica de pigmentos en la retina del espectador (puntillismo)',
+          url: '',
+          title: 'Neoimpresionismo'
+        },
+        {
+          id: 54,
+          artist: '-',
+          name: 'Simbolismo',
+          style: '',
+          information: 'Movimiento revolucionario de finals del XIX cuyo origen se encuentra en la literatura. Sus obras se caracterizan por ser muy decorativas. Búsqueda de representar las escenas tradicionales desde un punto de vista subjetivo, como tratando de representar el inconsciente. Tratan de no fijar las ideas de forma directa, si no de simbolizarlas de tal forma que llegue al espectador a través de líneas ocultas.' +
+            '',
+          url: '',
+          title: 'Simbolismo'
+        },
+
         /*
         {
           id: 8,
