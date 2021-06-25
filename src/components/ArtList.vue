@@ -632,6 +632,33 @@ export default {
             '',
           url: 'https://2.bp.blogspot.com/-Ca71xx7OuFI/WyzV_u1SzII/AAAAAAABQlk/mATD-n0267MduQZ8l7JdU1oDkTBuu7zgQCLcBGAs/s1600/Imagen029.jpg',
         },
+        {
+          id: 67,
+          artist: 'Hans Arp',
+          name: 'Torso y cabeza de flor (1924)',
+          style: 'Dadaísmo',
+          information: 'Hans Arp, fimdadpr del grupo dadaísta en Colonia, comenzó creando composiciones por medio de papeles y cartones que más tarde trasladaría a la pintura y a la escultura. Se trata de formas orgánicas, abstractas que van siempre acompañadas por títulos que denotan figuración. En este Torso con cabeza de flor, nos lleva a buscar el torso' +
+            '',
+          url: 'https://imagenes.elpais.com/resizer/vmpWzVVmz-hruGslXzIKMS2POVo=/414x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/A5G5KBCRHIRJDIKC7UI7RKGAAM.jpg',
+        },
+        {
+          id: 68,
+          artist: 'Marcel Duchamp',
+          name: 'Desnudo bajando la escalera (1912)',
+          style: 'Futurismo/Cubismo',
+          information: 'Marcel Ducham se inicio en el Futurismo y Cubsmo.' +
+            '',
+          url: 'https://theartwolf.com/wp-content/uploads/2021/05/Marcel_Duchamp_-_Nude-descending-a-staircase-no2_-_1912_-_Oil_on_canvas_-_Philadelphia_Museum_of_Art.jpg',
+        },
+        {
+          id: 69,
+          artist: 'Marcel Duchamp',
+          name: 'Fuente (1917)',
+          style: 'Dadaísmo',
+          information: 'Duchamp desarrolló lo que llamó ready-made. Se trata de objetos ya hechos de la vida cotidiana que adquieren un rango artístico al ser expuestos en galerías. No hay una búsquedaa de llamada de atención respecto a la belleza o a la estética de estos objetos, sino que descontextualizando su uso y su espacio introduciéndolos en galerías de arte, trataba de hacer considerar al espectador la gran cantidad de convenciones que hay, como la valoración de una obra como artística\n' +
+            'Eso es lo que quiso representar con su "Fuente". Duchamp envió un urinario firmado por "R. Mutt" para ser expuesto en la exposición de la Sociedad de Artistas Independientes. Esta sociedad trató de crear un espacio expositivo en el que ninguna obra fuera rechazada. Cualquier objeto expuesto en una galería o museo es considerado arte sólo por ocupar un espacio en esa galería o museo',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvbGEtZnVlbnRlLWR1Y2hhbXAuanBnIiwicmVzaXplLDgwMCJdfQ.rA5MRNPJ_4w8tLL0ydGqjcgOxqO3nAtCz_iLj7DXrHc.jpg',
+        },
         /*
         {
           id: 8,
