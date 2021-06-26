@@ -907,9 +907,283 @@ export default {
             '',
           url: 'https://static4.museoreinasofia.es/sites/default/files/obras/AD01557.jpg',
         },
+        {
+          id: 97,
+          artist: '-',
+          name: 'Informalismo',
+          style: '',
+          information: 'El Informalismo nace en europa a finales de los 40 como tendencia pictórica abstracta, instintiva y espontánea. Supone una ruptura con las vanguardias históricas y se desarrolla en paralelo al Expresionismo Abstracto de Estados Unidos. Utilizan un lenguaje abstracto, preeminencia del gesto, atracción por todo tipo de materiales y se le da importancia al automatismo surrealista.\n' +
+            'La personalidad del artista se plasma a través de las técnicas y materiales empleados, del gesto y del azar. Existe una gran vinculación con la filosofía existencial.',
+          url: '',
+          title: 'Informalismo'
+        },
+        {
+          id: 98,
+          artist: 'Wols',
+          name: 'Composition (1947)',
+          style: 'Informalismo',
+          information: 'Influido por el surrealismo, parte de la figuración para llegar a soluciones donde elcolor y la forma se plasman impulsivamente. Tanto la pincelada como la materia cobran importancia creando obras con relieve. Utiliza manchas de color y por ello se le considera el padre del Tachismo' +
+            '',
+          url: 'https://uploads1.wikiart.org/images/wols/composition-1947.jpg!Large.jpg',
+        },
+        {
+          id: 99,
+          artist: 'Jean Fautrier',
+          name: 'L`arbre vert (1942)',
+          style: 'Informalismo',
+          information: 'Jean Fautrier introduce densas texturas matéricas en sus obras llamándolas "superficies construidas". Combinación del cromatismo apagado con referencias a cuerpos y elemntos naturales.' +
+            '',
+          url: '',
+        },
+        {
+          id: 100,
+          artist: 'Jean Dubuffet',
+          name: 'Dhôtel nuancé d`abricot (1947)',
+          style: 'Informalismo',
+          information: 'Se puede apreciar en su obra la provocación del Dadaismo y del automatismo surrealista. Glorificación del arte realizado por pacientes mentales, niños o delincuentes. Este Art Brut es el arte producido por personas que trabajan al margen de las normas estéticas y no son profesionales. Sus obras muestran personajes pueriles, crueles y morbosos utilizando diferentes texturas materiales.' +
+            '',
+          url: 'https://www.centrepompidou.fr/media/picture/da/d4/dad4072462fcffef1cc3112f0c20ab02/thumb_large.jpg',
+        },
+        {
+          id: 101,
+          artist: 'Hans Hartung',
+          name: 'Composition (1952)',
+          style: 'Informalismo',
+          information: 'Hartung incorpora la caligrafía a la pintura, desarrollando una pintura de acción gestual del signo caligráfico. Su obra influyó a la abstracción lírica de los 60-70' +
+            '',
+          url: 'https://assets.phillips.com/image/upload/t_Website_LotDetailMainImage/v1/auctions/UK010716/172_001.jpg',
+        },
+        {
+          id: 102,
+          artist: 'Alberto Burri',
+          name: 'Legno e rosso 3 (1956)',
+          style: 'Informalismo',
+          information: 'Su obra la trabaja sobre tela de arpllera a la que oncorpora distintos elementos tomados de la relidad, como chapas, plásticos, maderas parcialmente quemadas... Es un renacer del collage en todo su esplendor material como medio a la representacion de sentimientos y vivencias subjetivos.' +
+            '',
+          url: 'https://i.pinimg.com/originals/9b/64/78/9b6478dd54083707e1c051263d2de57e.jpg',
+        },
+        {
+          id: 103,
+          artist: 'Manolo Millares',
+          name: 'Cuadro 173 (1962)',
+          style: 'Informalismo',
+          information: 'Al igual que Burri, realizaba sus obras sobre tela de arpillera incorporando sacos, cuerdas, maderas y objetos de deshecho. Pinturas en blanco, rojo o negro que eran aplicadas en capas chorreantes' +
+            '',
+          url: 'https://lamecanicaceleste.files.wordpress.com/2020/06/image038.jpg',
+        },
+        {
+          id: 104,
+          artist: 'Antoni Tápies',
+          name: 'Pintura (1955)',
+          style: 'Informalismo',
+          information: 'Para el autor es importante el sustrato material de la obra, creando cuadros en los que trabaja como si fuera un muro con arena y cemento al que incorpora huellas informales, escritos, cruces y huellas de manos y pisadas. Uso de colores sobrios incorporados desde las propias calidades de los materiales usados.' +
+            '',
+          url: 'https://catalogo.artium.eus/sites/default/files/imagenes/artistas/TapiesAntoni/imagen069.jpg',
+        },
+        {
+          id: 105,
+          artist: 'Antonio Saura',
+          name: 'Grito Nº7 (1959)',
+          style: 'Informalismo',
+          information: 'Empieza experimentando en el surrealismo y la abstracción hasta que empieza con sus pinturas con trazos poderosamente gestuales en blanco, begr, grises y tierras a partir de la estructura de la figura humana' +
+            '',
+          url: 'https://static1.museoreinasofia.es/sites/default/files/obras/AS05695.jpg',
+        },
+        {
+          id: 106,
+          artist: 'Karel Appel (Grupo COBRA)',
+          name: 'Hip Hip Hoorah! (1949)',
+          style: 'Informalismo',
+          information: ' Su objetivo es alcanzar una pintura pura, capaz de transformar el impulso vital de la creación en improvisación pictórica. Sus obras tienen un aire primitivista y una violencia deliberadas. Aunque se acerca a la abstracción, tiene temas y referentes reconocibles.' +
+            '',
+          url: 'https://i.pinimg.com/originals/91/02/72/9102727766055fb76632e6299cf8dbed.jpg',
+        },
+        {
+          id: 107,
+          artist: 'Asger Jorn (Grupo COBRA)',
+          name: 'Prosit Neujahr (1958)',
+          style: 'Informalismo',
+          information: 'Plantea una deformación extrema y expresionista de la figura humana. Esta deformación esquizofrénica le sirve para rebelarse contra lo normalizado y le sirve para asentar las bases de su investigación sobre las capas inconscientes de la creatividad' +
+            '',
+          url: 'https://i.pinimg.com/originals/fe/d3/97/fed3979aa038b1a47a5c1c1354e8b2aa.png',
+        },
+        {
+          id: 108,
+          artist: 'Pierre Alechinsky (Grupo COBRA)',
+          name: 'La Nuit (1952)',
+          style: 'Informalismo',
+          information: 'Tiene un estilo vigoroso y un trazo expresivo próximo a la abstracción. Inventa una iconografía informal más allá de lo figurativo trabajando desde la gestualidad usando materiales más fluidos y de rápido secado.' +
+            '',
+          url: 'http://www.artnet.com/WebServices/images/ll00144lldv5mJFgU7S62CfDrCWvaHBOcOP9F/pierre-alechinsky-la-nuit.jpg',
+        },
+        {
+          id: 109,
+          artist: '-',
+          name: 'Pop Art',
+          style: '',
+          information: 'El término hace referencia a la expresión Popular Art para referirse a un amplio repertorio de imágenes provenientes de la cultura de masas elaboradas y difundidas por la televisión, el cine, la publicidad o el cómic.\n' +
+            'Sus antecedentes artísticos son la síntesis del realismo y surrealismo en la tradición norteamericana (Edward Hopper) y las técnicas que empieza a explotar el Neo Dadá. Ls trabajos de Ready made de Duchamp introducen la inclusión del objeto banal y cotidiano al discurso artístico como propio objeto de arte.',
+          url: '',
+        },
+        {
+          id: 110,
+          artist: 'Robert Rauschenberg',
+          name: 'Monogram (1955-1959)',
+          style: 'Expresionismo Abstracto => Pop Art',
+          information: 'Trabaja combinando materiales de diversa procedencia para realizar composiciones artísticas innovadoras buscando la asociación de pintura y objeto (assemblages)' +
+            '',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvbW9ub2dyYW1hLXJhdXNjaGVtYmVyZy5qcGciLCJyZXNpemUsODAwIl19.RysuQ2yqIHzE94A7AqH1y4iLzDsDzSf2fA3Mf7wFx4E.jpg',
+        },
+        {
+          id: 111,
+          artist: 'Jasper Johns',
+          name: 'Flag (1954)',
+          style: 'Pop Art',
+          information: 'De referencias dadaístas, sus obras muestran una imagen de un objeto trivial y cotidiano para criticar el cunsumo de bienes materiales y espirituales. Sus obras más conocidas son las American Flags' +
+            '',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvYmFuZGVyYS1qYXNwZXIuanBnIiwicmVzaXplLDgwMCJdfQ.UEVyJHqVutNmWlljsK3ORc_x-F52WcrU-ITTc6E6yk8.jpg',
+        },
+        {
+          id: 112,
+          artist: 'Richard Hamilton',
+          name: 'Just what is it that makes today’s homes so different, so appealing? (1956)',
+          style: 'Pop Art',
+          information: 'Considerada la primera obra de Pop Art de la historia del arte. Mediante un collage con diferentes imágenes sacadas de la industria del momento en las que aparecen un hombre y una mujer desnudos y muy estilizados realiza una crítica al consumismo de la época.' +
+            '',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvaGFtaWx0b24uanBnIiwicmVzaXplLDgwMCJdfQ.czZObNYKAobTob6_80t2xaoeQXfOuWfLkPTOJo452o8.jpg',
+        },
+        {
+          id: 113,
+          artist: 'Claes Oldenburg',
+          name: 'Clothespin (1976)',
+          style: 'Pop Art',
+          information: 'Realiza instalaciones en el espacio público de esculturas gigantescas que replican los objetos cotidianos de consumo. De esta forma, estos objetos pierden su cotidiandad y aparecen desnaturalizados ante el espectador.' +
+            '',
+          url: 'https://i.pinimg.com/originals/52/b4/73/52b4731595267d362b608d5225003104.jpg',
+        },
+        {
+          id: 114,
+          artist: 'Claes Oldenburg',
+          name: 'Soft Toiler (1966)',
+          style: 'Pop Art',
+          information: 'Se trata de una Soft Sculpture, que son esculturas blandas sdonde el espectador puede tocar y disfrutar de la obra de arte y dejarse llevar por su sensación placentera.' +
+            '',
+          url: 'https://whitneymedia.org/assets/artwork/425/146494.jpeg',
+        },
+        {
+          id: 115,
+          artist: 'Roy Lichtensteiin',
+          name: 'Whaam! (1963)',
+          style: 'Pop Art',
+          information: 'Los cuadros de este autor senormes cuadros realizados a mano a partir de imágenes tomadas del cómic utilizando la técnica del tramado y los colores brillantes de su impresión original. Sus temas y composiciones aparecen como triviales y desindividualizadas.' +
+            '',
+          url: 'https://assets.catawiki.nl/assets/2018/10/19/0/7/e/07e37591-8a40-430a-a4cc-a14847ecb702.jpg',
+        },
+        {
+          id: 116,
+          artist: 'Andy Warhol',
+          name: 'Marilyn Monroe (1967)',
+          style: 'Pop Art',
+          information: 'Warhol es uno de los artistas más conocidos del siglo XX. Su trabajo se integra en el modelo productivo de la cadena de montaje, eligiendo modelos figurativos (objetos cotidianos de consumo o personajes de fama mundial) y transformándolos en obras de arte a partir del uso masivo de seriación (serigrafía)' +
+            '',
+          url: 'https://1.bp.blogspot.com/-HYtIaWzfDIc/TfnbpPwF0II/AAAAAAAAA1U/-gUGfl6KHMk/s1600/andy_warhol_marilyn_monroe.jpg',
+        },
+        {
+          id: 117,
+          artist: 'Tom Wesselmann',
+          name: 'Great American Nude nº92 (1967)',
+          style: 'Pop Art',
+          information: 'Sus obras de grandes desnudos amercanos fueron realizados al principio como collages pero acabó pintándolos con óleo y pintura acrílica. Las obras fueron ganando en tamaño hasta alcanzar dimensiones tales que acabarían siendo enormes murales en los que introducía elementos cotidianos del consumo como televisiones, teléfonos, radiadores, mesas o ventanas. Para que el espectador pudiera disfrutar en este caso del tema, sólo se podía mirar la obra de frente.' +
+            '',
+          url: 'https://www.tomwesselmannestate.org/wp-content/uploads/2016/04/GAN92.jpeg',
+        },
+        {
+          id: 118,
+          artist: 'James Rosenquist',
+          name: 'Untitled #3',
+          style: 'Pop Art',
+          information: 'Rosenquist comenzó pintando carteles publicitarios de colores fluorescentes. Aplicando el lenguaje publicitario consiguió su fama internacional. Sus obras de gigantesco tamaño y por la intensidad fosforescente de su puntura  tiene un complejo entramado óptico y mecánico que hace ver a lo artificial como la única verdad.' +
+            '',
+          url: 'https://www.galeriedada.com/img_big/james-rosenquist-untitled-number-3-00003719.jpg',
+        },
+        {
+          id: 119,
+          artist: '-',
+          name: 'Hiperrealismo',
+          style: '',
+          information: 'Nació en Estados Unidos a finales de los sesenta y fue denominada como fotorrealismo, que es la pintura basada en el uso de las fotografías para reunir la información visual y a partir de estas, proceder a la creación de una pintura de apariencia fotográfica.\n' +
+            'Esta idea de pasar de la fotografía a la pintura deja de lado cualquier forma de subjetividad, fijando un fragmento de la realidad de forma exacta y objetiva.\n' +
+            'Es un movimiento que evolucionó desde el Pop Art como una opción contrapuesta al Expresionismo Abstracto. Usaban también las imágenes estereotipadas del consumismo norteamericano. Existen diferentes temáticas pero no existe ni la ironía ni la nostalgia de la forma de vida americana propia del Pop Art.\n' +
+            'Del Pop Art también toma la técnica impersonal y mecánica utilizada en la realización de sus obras usando técnicas como la proyección de diapositivas y transparencias sobre el lienzo, pintando encima de una imagen proyectada o mediante el sistema de transferencia de cuadrícula. Se debía hacer desaparecer la pincelada, empleando con forma meticulosa el pincel o recurriendo al aerógrafo.',
+          url: '',
+        },
+        {
+          id: 120,
+          artist: 'Malcom Morley',
+          name: 'Onsettant Moie (1974)',
+          style: 'Hiperrealismo',
+          information: 'Este artista destacaba por agrandar imágenes de revistas o postales a través de una cuadrícula. En un primer momento su iconografía se basa en las memorias de la guerra y posteriormente en las estrellas del deporte' +
+            '',
+          url: 'https://uploads5.wikiart.org/images/malcolm-morley/onsettant-moie-1974.jpg!Large.jpg',
+        },
+        {
+          id: 121,
+          artist: 'Richard Estes',
+          name: 'Six Views of Edo: Shinjuko III (1989)',
+          style: 'Hiperrealismo',
+          information: 'Es un artista reconocido por sus pinturas de paisajes urbanos como cines, bares, establecimientos comerciales y en especial el coche. Parte de la fotografía, destacando especialmente ne los reflejos de los cristales y metales cromados.' +
+            '',
+          url: 'https://d32dm0rphc51dk.cloudfront.net/wbj_TAW5yTynsblUj-tnuA/large.jpg',
+        },
+        {
+          id: 122,
+          artist: 'Chuck Close',
+          name: 'Mark (1979)',
+          style: 'Hiperrealismo',
+          information: 'Realiza pinturas de gran formato del rostro humano con una precisión asombrosa, consiguiendo casi un análisis entomológico del sujeto. El uso icónico del rostro humano casi parece una imagen de fotomatón ampliada\n' +
+            'Al principio usaba el blanco y el negro para, posteriormente, ir incorporando el color creando una retícula puntillista que se puede contemplar de forma diferente en función del ángulo de visión. A partir de los 80, incorpora la información computerizada a sus obras sustituyendo al a fotografía.',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvd29yazA3NS16b29tLmpwZyIsInJlc2l6ZSw4MDAiXX0.y-qF2ciGWRy2TjOEErTypCkjGA6XsrsvUCO8ruGWRx0.jpg',
+        },
+        {
+          id: 123,
+          artist: 'Duane Hanson',
+          name: 'Supermarket Lady',
+          style: 'Hiperrealismo',
+          information: 'Tanto Duane Hanson como John de Andrea realizan esculturas hiperrealistas. Ambos trabajan a partir de moldes de figuras humanas hechas en poliester o fibra de vidrio, a los que pintan, visten o desnudan creando una serie de personajes arquetípicos de la sociedad contemporánea. En este caso, el autor realiza una crítica a la sociedad de consumo.' +
+            '',
+          url: 'http://1.bp.blogspot.com/-WdDPdHl1klM/UclhZ5xToJI/AAAAAAABoY4/lk7qCBpnesk/s1600/duane-hanson-supermarket-lady.jpg',
+        },
+        {
+          id: 124,
+          artist: '-',
+          name: '',
+          style: 'Abstracción Post-pictórica',
+          information: 'Térnmino para referirse a un grupo de artistas que pretendían superar el Expresionismo Abstracto sin que ello significara posicionarse en la pintura figurativa. Sustituyeron la pincelada gestual expresiva por las áreas geométricas definidas y claras de color.' +
+            '',
+          url: '',
+          title: 'Abstracción Post-pictórica'
+        },
+        {
+          id: 125,
+          artist: 'Piet Mondrian',
+          name: 'Broadway Boogie Woogie',
+          style: 'Abstracción Post-pictórica',
+          information: 'Se evidencia el uso de las superficies geométricas de Color' +
+            '',
+          url: 'https://images-na.ssl-images-amazon.com/images/I/61fD4Nd1eML._AC_SX522_.jpg',
+        },
+        {
+          id: 126,
+          artist: 'Max Bill',
+          name: 'Radiation of Pink',
+          style: 'Abstracción Post-pictórica',
+          information: 'Define el espacio de la abstracción a partir del espacio, color, luz y movimiento en una combinación de elementos constructivos a paritr de superficies geométricas de colores planos.' +
+            '',
+          url: 'https://uploads1.wikiart.org/images/max-bill/radiation-of-pink-1973.jpg',
+        },
         /*
         {
-          id: 8,
+          id: 1,
           artist: '',
           name: '',
           style: '',
