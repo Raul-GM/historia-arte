@@ -659,6 +659,254 @@ export default {
             'Eso es lo que quiso representar con su "Fuente". Duchamp envió un urinario firmado por "R. Mutt" para ser expuesto en la exposición de la Sociedad de Artistas Independientes. Esta sociedad trató de crear un espacio expositivo en el que ninguna obra fuera rechazada. Cualquier objeto expuesto en una galería o museo es considerado arte sólo por ocupar un espacio en esa galería o museo',
           url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvbGEtZnVlbnRlLWR1Y2hhbXAuanBnIiwicmVzaXplLDgwMCJdfQ.rA5MRNPJ_4w8tLL0ydGqjcgOxqO3nAtCz_iLj7DXrHc.jpg',
         },
+        {
+          id: 70,
+          artist: 'Marcel Duchamp',
+          name: 'La novia puesta al desnudo por sus célibes, incluso (1915-1923)',
+          style: 'Dadaísmo',
+          information: 'Es la obra más ambiciosa de Duchamp. También conocida como el gran vidrio. Es una obra realizada sobre un espejo dividida en dos partes, la parte superior está dedicada a la mujer, mientras que la inferior representa el mundo del hombre. Juntos representan las tensiones del deseo amoroso como maquinarioa que nos mueve.' +
+            '',
+          url: '',
+        },
+        {
+          id: 71,
+          artist: 'Giorgio de Chirico',
+          name: 'El enigma de un día (1914)',
+          style: 'Realismo/Pintura Metafísica',
+          information: 'Influenciado por los simbolistas llevó a desarrollar la pintura metafísica. Sus pinturas, de influencia Renacentista tratan de imágines arquitectónicas con un aire de misterio casi mágico que influirá en los pintores Surrealistas' +
+            '',
+          url: 'http://4.bp.blogspot.com/-Cy4w2e8B0eM/VPHNeY3md5I/AAAAAAAB4N8/O4-QFTxwJJQ/s1600/untitled.pngenigma.png',
+        },
+        {
+          id: 72,
+          artist: 'Giorgio de Chirico',
+          name: 'Turing Spring (1914)',
+          style: 'Realismo/Pintura Metafísica',
+          information: 'Influenciado por los simbolistas llevó a desarrollar la pintura metafísica. Sus pinturas, de influencia Renacentista tratan de imágines arquitectónicas con un aire de misterio casi mágico que influirá en los pintores Surrealistas' +
+            'Se denomina pintura metafísica porque nos hace reflexionar sobre quiénes somos, qué hacemos aquí y hacia dónde nos dirigimos. Tiene un tono onírico y de desolación',
+          url: 'https://uploads7.wikiart.org/images/giorgio-de-chirico/turin-spring-1914.jpg!Large.jpg',
+        },
+        {
+          id: 73,
+          artist: '-',
+          name: 'Surrealismo',
+          style: '',
+          information: 'El movimieto Dadá se disuelve tras las diferencias ente Tzara y André Bretón. Este último empezará a dar los pasos hacia el Surrealismo. Si el Dadaísmo supuso una ruptura, este movimiento quiere establecer un nuevo orden\n' +
+            'Los artistas de este movimiento tienen un estilo común, el automatismo. Este automatismo surgió de la escritura como medio de llegar al pensamiento fuera de todo control de la razón y del dictamen moral y estético. Su intención es dejar fluir el subconsciente. Los pintores y escultores tratarán de acercarse a esta esfera del pensamiento a través del mundo de los sueños. También trabajó con la oscilación, el decollage y la decalcomanía.\n' +
+            '',
+          url: '',
+          title: 'Surrealismo'
+        },
+        {
+          id: 74,
+          artist: 'Max Ernst',
+          name: 'El jardín de Francia (1962)',
+          style: 'Surrealismo',
+          information: 'Comenzó en el Dadaísmo. Fue el inventor de una de las técnicas más automáticas del estilo, el frottage. Consistía en tomar el objeto que se quería representar, ponerlo debajo de una hoja y con un lapiz frotar el papel hasta conseguir la textura y la forma del objeto. Así se conseguía representar sin ningún tipo de condicionamiento racional o estético. Esa figura podía pasarse a una superficie en dos dimensiones o a una escultura.\n' +
+            '',
+          url: 'https://wahooart.com/Art.nsf/O/8XYK5D/$File/Max-Ernst-The-Garden-of-France.JPG',
+        },
+        {
+          id: 75,
+          artist: 'Max Ernst',
+          name: 'Edipo Rey (1921)',
+          style: 'Surrealismo',
+          information: 'Comenzó en el Dadaísmo. Fue el inventor de una de las técnicas más automáticas del estilo, el frottage. Consistía en tomar el objeto que se quería representar, ponerlo debajo de una hoja y con un lapiz frotar el papel hasta conseguir la textura y la forma del objeto. Así se conseguía representar sin ningún tipo de condicionamiento racional o estético. Esa figura podía pasarse a una superficie en dos dimensiones o a una escultura.\n' +
+            'Su obra nos recuerda a la de Dalí por la unión de elementos heterogéneos en una misma obra.',
+          url: 'https://elcastillodekafka.files.wordpress.com/2012/10/max-ernst-edipo-rey-1921.jpg',
+        },
+        {
+          id: 76,
+          artist: 'Joan Miró',
+          name: 'Carnaval de Arlequín (1924-1925)',
+          style: 'Surrealismo',
+          information: 'Aunque Joan Miró no formó parte del grupo surrealista, se interesó en transformar la pintora como lenguaje de pensamiento poético.\n' +
+            '',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvbWlyYzNiM19jYXJuYXZhbC5qcGciLCJyZXNpemUsODAwIl19.Haxj8-9ZQWpf7JhwMdCsPB6OSxOvK_KmuXeOejoJjFc.jpg',
+        },
+        {
+          id: 77,
+          artist: 'Joan Miró',
+          name: 'La mancha roja (1925)',
+          style: 'Surrealismo',
+          information: 'Aunque Joan Miró no formó parte del grupo surrealista, se interesó en transformar la pintora como lenguaje de pensamiento poético.\n' +
+            'Evolucionó hasta simplificar las composiciones. Son las pinturas de sueño, donde no trabaja con el automatismo, sino que trabaja con dichas composiciones en su estudio y de forma consciente abandona toda relación espacial buscando la poesía pictórica.',
+          url: 'https://i.pinimg.com/474x/6d/d3/03/6dd303e7b87808a98aa34b899e04a9b0.jpg',
+        },
+        {
+          id: 78,
+          artist: 'Joan Miró',
+          name: 'Personaje delante del sol (1968)',
+          style: 'Surrealismo',
+          information: 'Aunque Joan Miró no formó parte del grupo surrealista, se interesó en transformar la pintora como lenguaje de pensamiento poético.\n' +
+            'En sus últimas etapas desarrolló una pintura catalogada como dibujo infantil donde libera su imaginación para mostrarnos su lenguaje simbólico basado en su propia gramática creando diferentes símbolos.',
+          url: 'https://visitmuseum.gencat.cat/media/cache/1140x684/uploads/objects/photos/56ab953852d29_personatge-davant-del-sol-joan-miro-1968.jpeg',
+        },
+        {
+          id: 79,
+          artist: 'Salvador Dalí',
+          name: 'Rostro del gran masturbador (1929)',
+          style: 'Surrealismo',
+          information: 'Adoptó el lenguaje surrealista tras conocer el Postimpresionismo, el Cubismo y el Futurismo. En sus obras se aprecian una composición de elementos heterogéneos como Max Ernst junto con un ambiente propio de la obra de Chirico.' +
+            'En esta obra representa su relación con su mujer. Podemos ver elementos variados como insectos, un autoretrato del pintor, la playa...',
+          url: 'https://images-na.ssl-images-amazon.com/images/I/41UDak6CquL._AC_.jpg',
+        },
+        {
+          id: 80,
+          artist: 'Georgia O`Keeffe',
+          name: 'Summer Days',
+          style: 'Realismos/Precisionismo',
+          information: 'Pintura figurativa muy precisa. También representa un mensaje metafísico. Paisaje con elementos reconocibles que acaba convirtiendose en una pared de trofeo. Colores que contrastan mucho. Busca transcender sobre nuestro paso sobre el mundo.' +
+            '',
+          url: 'https://www.georgiaokeeffe.net/images/paintings/summer-days.jpg',
+        },
+        {
+          id: 81,
+          artist: 'Salvador Dalí',
+          name: 'La persistencia de la memoria (1931)',
+          style: 'Surrealismo',
+          information: 'Representación de un mundo onírico, del mundo de los sueños. Planteamiento paranóico-crítico. Es figurativo, las figuras son reconcibles pero las leyes de la física se saltan al ser un mundo onírico. Esta obra habla del tiempo con unos relojes licuados y otro del que salen hormigas. Podemos ver la piel varada del gran masturbador.\n' +
+            '',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvbnljLTItMjY4LmpwZyIsInJlc2l6ZSw2MDAsNjAwIl19.d8RQGol_J1Zdb7_rISS5XuharJRmbii-BY7A0iZv5ck.jpg',
+        },
+        {
+          id: 82,
+          artist: 'Salvador Dalí',
+          name: 'Cristo de San Juan de la Cruz (1951)',
+          style: 'Surrealismo',
+          information: 'A partir de la Segunda Guerra Mundial, Dalí empieza a tener una fama importante. En esta época introduce representaciones religiosas por esa búsqueda de lo intangible.' +
+            '',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvNjAwNzMzN2ZkZjlmYi5qcGciLCJyZXNpemUsMjAwMCwyMDAwIl19.0o4gk4RPWr-VETkvQpYkOfqWr51k_sGmgFrj3Ny-vBo.jpg',
+        },
+        {
+          id: 83,
+          artist: 'René Magritte',
+          name: 'La traición de las imágenes (1929)',
+          style: 'Surrealismo',
+          information: 'Magritte no dejaba rienda suelta al automatismo, si no que buscaba una pintura meditada. En esta obra trataba la pintura con una condición de artificio, de imitación de los objetos tridimensionales en las dos dimensiones.' +
+            '',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvbW9tYV9tYWdyaXR0ZV90cmVhY2hlcnlvZmltYWdlc18uanBnIiwicmVzaXplLDgwMCJdfQ.W3hb8VpjRH6knd1ItQydoUBCgoGcr_P2jD6uziZV47w.jpg',
+        },
+        {
+          id: 84,
+          artist: 'Oskar Schlemmer',
+          name: 'Danzas en la Bauhaus (1927-1929)',
+          style: 'Expresionismo',
+          information: 'Concibe el teatro como una sintesis de tres elementos: el hombre en el espacio, la luz en movimiento y la arquitectura. En esta obra relacionan la arquitectura de Gropius con los trabajos de Klee y Kandisnky convirtiendo estas danzas una obra de arte total donde integran música, coreografía y vestuario.' +
+            '',
+          url: '',
+        },
+        {
+          id: 85,
+          artist: '-',
+          name: 'Expresionismo Abstracto',
+          style: '',
+          information: 'Expresionismo abstracto puede considerarse una etiqueta para denominar el lenguaje de una serie de artistas de Nueva York tras la II Guerra Mundial. Este grupo de artistas de personalidades distintas defienden la libertad individual, la materialidad del cuadro como superficie y el carácter expresivo del arte\n' +
+            'Con influencias del Surrealismo de Dalí y Ernst, del Cubismo europeo, de la pintura realista americana y la pintura mural de los artistas mexicanos. Se pueden distinguir dos corrientes:' +
+            ' - Action Painting: Es una técnica pictórica que intent expresar movimiento, velocidad y energía a partir de la materia, el gesto o el color. El pintor se mueve y actúa en relación al soporte pictórico, salpicando con pintura la superficie de manera espontánea y enérgica (influencia del automatismo surrealista)\n' +
+            ' - Color-Field: El color se convierte en un sujeto en sí mismo. Se trata de pintar o teñir grandes espacios de color liso y sólido creando así superficias lisas y uniformes. Evolucionará más tarde a la Abstracción Post-pictórica',
+          url: '',
+          title: 'Expresionismo Abstracto'
+        },
+        {
+          id: 86,
+          artist: 'Arshile Gorky',
+          name: 'Garden in Sochi (1941)',
+          style: 'Expresionismo Abstracto',
+          information: 'Sus obras se centraron en vivencias personales a través de figuras biomorfas, distorsionadas y amenazantes que transmitía la angustia vital que padecía' +
+            '',
+          url: 'https://www.moma.org/media/W1siZiIsIjIwNDMyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=bbaea9808bd5485f',
+        },
+        {
+          id: 87,
+          artist: 'William Baziotes',
+          name: 'Dwarf (1947)',
+          style: 'Expresionismo Abstracto',
+          information: 'Su obra tiene más elementos surrealistas que abstractos con una pincelada que no es ni gestual ni expresionista. La representación de las formas morfológicas y biológicas suspendidas en el espacio pictórico las realiza sirviéndose del automatismo surrealista' +
+            '',
+          url: '',
+        },
+        {
+          id: 88,
+          artist: 'Hans Hoffmann',
+          name: 'Art Like Love is Dedication (1965)',
+          style: 'Expresionismo Abstracto',
+          information: 'Profesor de entre otros, Pollock y Rothko. Sintetizó el color y la forma del Fauvismo y del Cubismo.' +
+            '',
+          url: 'https://uploads7.wikiart.org/images/hans-hofmann/art-like-love-is-dedication-1965.jpg!Large.jpg',
+        },
+        {
+          id: 89,
+          artist: 'Jackson Pollock',
+          name: 'Convergence',
+          style: 'Expresionismo Abstracto (Action Painting)',
+          information: 'Representante del Action Painting. Desarrolló la técnica del Dripping que consistía en extender un lienzo sobre el suelo y moviéndose alrededor de él, dejaba caer gotas o chorros de pintura fluidas desde un recipiente con el fonde perforado. Así el acto de pintar se convertía en una actividad de todo el cuerpo.' +
+            '',
+          url: 'https://totenart.com/noticias/wp-content/uploads/2019/01/totenart-pollock-convergence.jpg',
+        },
+        {
+          id: 90,
+          artist: 'Willem de Kooning',
+          name: 'Woman I (1952)',
+          style: 'Expresionismo Abstracto (Action Painting)',
+          information: 'En sus obras trabaja las abstracción, gestualidad y violencia con unas formas biomórficas que sugerían la figura humana. En esta obra se centra en la figura femenina con una pintura entre figurativa y gestual. Trabajaba alrededor del cuadro en constante movimiento con pinceladas cargadas de pntura y colores aplicados de forma salvaje' +
+            '',
+          url: 'http://2.bp.blogspot.com/-gJ64wb9DVIg/UXPR6vyTRdI/AAAAAAAAAvo/3za5h6qIyw0/s1600/MAIN_Woman,_I_1950_52.jpg',
+        },
+        {
+          id: 91,
+          artist: 'Franz Kline',
+          name: 'Mahoning (1947)',
+          style: 'Expresionismo Abstracto (Action Painting)',
+          information: 'Es un pintor de acción cuya pincelada expresiva y violenta de color negro sobre fondo blanco le hicieron reconocible y reconocido. Antes de cada pintura realizaba muchos estudios y bocetos previos, su obra conservaba un carácter inmediato, dinámico y espontáneo' +
+            '',
+          url: 'https://whitneymedia.org/assets/artwork/1997/168639.jpeg',
+        },
+        {
+          id: 92,
+          artist: 'Robert Motherwell',
+          name: 'Elegía a la República Española (1965)',
+          style: 'Expresionismo Abstracto (Action Painting)',
+          information: 'Se convirtió e ensayista del movmiento Expresionsta Abstracto. Su obra utiliza la pintura negra como elemento base diluyéndola con aguarrás para crear efecto de sombra. Especial importancia del acto físico de pintar sobre un lienzo de grandes dimensones que intenta superar los límites del marco.\n' +
+            'Estudia la tradición dramática de la pintura española y su situación política',
+          url: 'https://static4.museoreinasofia.es/sites/default/files/obras/AD01740.jpg',
+        },
+        {
+          id: 93,
+          artist: 'Clifford Still',
+          name: 'Sin título (1964)',
+          style: 'Expresionismo Abstracto (Color-Field)',
+          information: 'Composición a base de grandes planos de color. Se interesó por la verticalidad en lienzos de grandes formatos teñidos por manchas de colores contrastados. Sustituyó los títulos por números para intentar no influenciar en las obras.' +
+            '',
+          url: 'https://cms.guggenheim-bilbao.eus/uploads/2012/05/Still_C_Sin-titulo-Untitled_1964-880x1024.jpg',
+        },
+        {
+          id: 94,
+          artist: 'Mark Rothko',
+          name: '(sin título) (1955)',
+          style: 'Expresionismo Abstracto (Color-Field)',
+          information: 'Sus obras se tratan de pinturas de grandes dimensiones que presentan composiciones formadas por rectángulos de varios colores que se suceden paralelamente sobre lienzos verticales con bordes ligeramente irregulres en las zonas de separación entre colores. El color es el único protagonista y lleva al espectador que la contempla a una sensación de contemplación epiritual.\n' +
+            'Su paleta de colores fue oscureciéndose con el paso de los años a medida que aumentaba su depresión.',
+          url: 'https://mytaleiteachdotcom.files.wordpress.com/2013/02/rothko-obra.jpg',
+        },
+        {
+          id: 95,
+          artist: 'Barnett Newman',
+          name: 'Onement I (1948)',
+          style: 'Expresionismo Abstracto (Color-Field)',
+          information: 'Sus cuadros están divididos en bandas verticales de color, de forma racional y sin contenido emocional. En sus composiciones, un campo de color puro y liso es atravesado por una o dos líneas finas verticales (zip) creando un efecto dramático y místico\n' +
+            'El autor alcanzó su madured con este Onement I en el que se aprecia su línea vertical que se mantuvo como un rasgo de su obra.Exploró el impacto que causaba el enorme tamaño de sus cuadros superando el campo de visión del espectador.',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvMjdmODUyMjFhYWNmMzI2ODUzYWE2YmVjNzI2Njc1NWIuanBnIiwicmVzaXplLDIwMDAsMjAwMCJdfQ.5mzQeAtHMJMqXhZdmtuBZFObuwQ_YmVcx4GdSX5tE0Q.jpg',
+        },
+        {
+          id: 96,
+          artist: 'Adolph Gottlieb',
+          name: 'Eclipse (1952)',
+          style: 'Expresionismo Abstracto (Color-Field)',
+          information: 'En su obra, el color es pintad mediante pinceladas gestuales y se sistancia en formas concretas que se transforman en asociaciones de símbolos casi caligráficos. Con el tiempo realizará una serie de paisajes imaginarios en los que la línea del horizonte separa las dos zonas del cuadro.' +
+            '',
+          url: 'https://static4.museoreinasofia.es/sites/default/files/obras/AD01557.jpg',
+        },
         /*
         {
           id: 8,
