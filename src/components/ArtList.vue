@@ -1330,6 +1330,257 @@ export default {
             '',
           url: '',
         },
+        {
+          id: 143,
+          artist: '-',
+          name: 'Minimal Art',
+          style: '',
+          information: 'Tendencia escultórica de los 60 en Estados Unidos. Se trata de una serie de objetos de contenido mínimo con un origen no artístico (elementos industriales o tomados de la naturaleza). Era una reacción tanto a los excesos gestuales y subjetivos del Expresionismo Abstracto como a las nuevas expresiones del Pop art y el Hiperrealismo. Parte de la base de Van der Rohe de menos es más.\n' +
+            'Se imponía una práctica artística abstracta cuyo potencial expresivo se limitaba a formas geométricas elementales, creando esculturas a partir de estos objetos y del espacio que los rodeaba. Este concepto rompe con el de la tradicional escultura como pieza individual y ubicada con independencia del espacio que le rodea\n' +
+            'A la vez, se deshace de cualquier ornamento superfluo que dificulte la percepción de las características de la obra. De esta manera el espectador está obligado a percibir aspectos y características funcionales del espacio. Al tener la sensación de no haber nada que ver, el espectador debe hacer un esfuerzo y reaizar un recorrido por la obra para entender lo que el artista le ofrece.',
+          url: '',
+          title: 'Minimal Art'
+        },
+        {
+          id: 144,
+          artist: 'Robert Morris',
+          name: 'Untitled (1965)',
+          style: 'Minimal Art',
+          information: 'El artista presenta un conjunto de piezas que recuerda a un juegode construcción gigante. Esto le sugiere al espectador la posibilidad mental de jugar con dichas estructuras, multiplicándose las posibilidades perceptivas.' +
+            '',
+          url: 'https://smarthistory.org/wp-content/uploads/2018/08/Robert-Morris-L-Beams-thumb-570x350.png',
+        },
+        {
+          id: 145,
+          artist: 'Donald Judd',
+          name: 'Untitled (10 cajas de acero) (1969)',
+          style: 'Minimal Art',
+          information: 'Judd plantea una serie de cajas y cubos de metal idénticos y repetidos que limitan un espacio interior, un espacio exterior y la relación con el espacio circundante.' +
+            '',
+          url: 'https://www.tate.org.uk/art/images/work/T/T03/T03087_9.jpg',
+        },
+        {
+          id: 146,
+          artist: 'Carl André',
+          name: '43 Roaring forty (1968)',
+          style: 'Minimal Art',
+          information: 'Plantea construcciones a partir de piezas repetidas, sobretodo láminas cuadradas o rectangulares metálicas estableciendo una relación entre el número de piezas y el material del que están hechas. Su lienco es el suelo, que se convierte en el espacio expositivo donde distribuir los signos. El espectador se ve obligado a recorrer y repensar el espacio donde se ubica cada obra, e incluso a pisarla.' +
+            '',
+          url: 'https://i.pinimg.com/originals/bc/5d/2b/bc5d2b85bff69df83e50e50dbdf43d2d.jpg',
+        },
+        {
+          id: 147,
+          artist: 'Dan Flavin',
+          name: 'Ultraviolet Light Room (1968)',
+          style: 'Minimal Art',
+          information: 'En sus trabajos usa tubos de luz fluorescentes incorporando así la luz eléctrica a la escultura. Las sencillas compsociones de diferente tamaño destacan por la energía y el color de los mismos de tal forma que los espacios donde se ubican quedan distorsionados y crean diferentes ambientes. Pretende transformar la atmósfera donde se instalaban. El propio espacio es la obra en si' +
+            '',
+          url: 'http://www.rudedo.be/amarant08/wp-content/uploads/2016/02/Flavin23.jpg',
+        },
+        {
+          id: 148,
+          artist: 'James Turrell',
+          name: 'Rondo (Blue) (1969)',
+          style: 'Minimal Art',
+          information: 'La línea de trabajo de Turrel converge con la de Dan Flavin. Su objetivo es modificar los espacios a través de la luz. No trabaja con la luz, sino que su propio trabajo es la luz. Crea espacios de meditación, intimidad y reflexión donde la experiencia del espectador es la base de su obra.' +
+            '',
+          url: 'https://uploads5.wikiart.org/00210/images/james-turrell/rondo-image-at-total1-1.jpg!Large.jpg',
+        },
+        {
+          id: 149,
+          artist: 'Eva Hesse',
+          name: 'Untitled (1970)',
+          style: 'Minimal Art',
+          information: 'Se trata de una abstracción excéntrica. Pone énfasis en lo exótico, excéntrico, vitalista y sensual. Hesse utiliza materiales extraños, flexibles y formas y gamas cromáticas indeterminadas. Con una fuerte influencia surrealista.' +
+            '',
+          url: 'https://i2.wp.com/lebastart.com/wp-content/uploads/2017/10/eva-hesse-untitled-rope-piece.jpg?fit=820%2C597',
+        },
+        {
+          id: 150,
+          artist: 'Robert Morris',
+          name: 'Untitled (brown felt) (1973)',
+          style: 'Process Art/Anti-form',
+          information: 'Robert Morris evoluciona desde el Minimal Art hasta la reivindicación del uso de materiales no rígidos en la experiencia escultórica que abrían camino hacia lo impeciso e imprevisible en el resultado final de la obra.' +
+            '',
+          url: 'https://www.guggenheim.org/wp-content/uploads/1973/01/91.3802_ph_web-1.jpg',
+        },
+        {
+          id: 151,
+          artist: '-',
+          name: 'Land Art',
+          style: '',
+          information: 'Los artistas que formaban parte del Anti-Form defendían la necesidad de utilizar nuevos materiales para expresar sus planteamientos artísticos. Algunos de ellos empezarn a utilizar materiales tomados de la naturaleza (piedras, troncos...) y/o utilizar el paisaje natural como objeto de trabajo manipulándolo o alterándolo con intención artística.' +
+            '',
+          url: '',
+          title: 'Land Art'
+        },
+        {
+          id: 152,
+          artist: 'Robert Smithson',
+          name: 'Spiral Jetty (1970)',
+          style: 'Land Art',
+          information: 'Smithson se interesó sobretodo en la transformación de espacios naturales en obras de carácter artístico. Sus intervenciones efímeras necesitaban ser documentadas. Spiral Jetty es una esperal de tierra y pedras creada en las aguas del Great Salt Lake de Utah. La espiral corresponde al minimalismo así como recuerda a las formas iconográficas místicas de la prehistoria.' +
+            '',
+          url: 'https://masdearte.com/media/n_spiraljetty.jpg',
+        },
+        {
+          id: 153,
+          artist: 'Michael Heizer',
+          name: 'Double Negative (1969-1970)',
+          style: 'Land Art',
+          information: 'Este artista empezó a trabajar en lugares desérticos desplazando tierra y usando materiales del terreno. Realizó una gran cantidad de obras geométricas ya desaparecidas por la erosión del terreno. En este Double Negative, crea una gigantesca fosa en forma de cruz vaciando y desplazando tierra para conseguirla' +
+            '',
+          url: 'https://i.pinimg.com/originals/97/66/36/97663655597859345e06b5e41a2c8d81.jpg',
+        },
+        {
+          id: 154,
+          artist: 'Walter de María',
+          name: 'The Lighting Field (1977)',
+          style: 'Land Art',
+          information: 'Trabajó tanto en obras efímeras como en otras de caracter permanente. En The Lighting Field dispuso 400 postes de acero con función de pararrayos colocados formando un rectángulo en el desierto de Nuevo México creando un potencial espectáculo de rayos cuando el tiempo lo permite.' +
+            '',
+          url: 'https://cdn.kastatic.org/ka-perseus-images/f710ad86d546a698a3a5bd2a5d84319a75ba40b8.png',
+        },
+        {
+          id: 155,
+          artist: 'Christo',
+          name: 'Wrapped Reichstag (1971-1995)',
+          style: 'Land Art',
+          information: 'Christo interviene el espacio público envolviendo y/o empaquetando lugares con el fin de modificar y transformar la experiencia visual sobre los mismos.' +
+            '',
+          url: 'https://picnic.media/wp-content/uploads/2019/10/a0acb261455367c89fa8d7b439f1dac7-1050x700.jpg',
+        },
+        {
+          id: 156,
+          artist: '-',
+          name: 'Performance Art',
+          style: '',
+          information: 'El Performance Art es el concepto genérico usado para todos los comportamientos de arte de acción (teatralizado) en los que el papel del público, en principio, se limita a la observación.' +
+            '- Happening: Deudores del Dadaísmo. Se basa en improvisar, provocar y estimular la participación espontánea del público asistente. Se suelen ejecutar en lugares públicos. Sin la participación del público la obra no estaría completa.\n' +
+            '   En este estilo destaca el Grupo Gutai, formado en Japón, realizó numerosas acciones de críticas a la guerra y a la sociedad capitalista de posguerra. La violencia de sus actos influyó en otros grupos como el Fluxus. El Fluxus es un movimiento artístico que engloba la música, la literatura y las artes plásticas.' +
+            '- En el Body Art, el cuerpo del artista es el lugar y el medio de expresión artística realizandose acciones (públicas o privadas) sobre él mismo',
+          url: '',
+          title: 'Performance Art'
+        },
+        {
+          id: 157,
+          artist: 'Allan Kaprow',
+          name: 'Yard (1967)',
+          style: 'Happening',
+          information: 'Artista Pop y alumno de John Cage, Allan Kaprow realizaba sus trabajos con situaciones prefijadas pero  no de un desarrollo continuo e inalterable. La acción-inacción improvisada del público marcaba el desarrollo de la actuación. La separación entre arte-vida y espectador-artista se volvía difusa' +
+            '',
+          url: 'https://masdearte.com/media/reb_accion2.jpg',
+        },
+        {
+          id: 158,
+          artist: 'Yoko Ono',
+          name: 'Cut Piece (1965)',
+          style: 'Happening',
+          information: 'Perteneciente al movimiento Fluxus, en esta obre define el espíritu de la intervención espontánea del público al invitarle a cortarle la ropa con unas tijeras' +
+            '',
+          url: 'https://revistamirall.com/wp-content/uploads/2017/07/cut-me-bitch.jpg',
+        },
+        {
+          id: 159,
+          artist: 'Dennis Oppenheim',
+          name: 'Reading Position for Second Degree Burn (1970)',
+          style: 'Body Art',
+          information: 'Trabaja con su cuerpo o con cuerpos ajenos en acciones relacionadas con el dolor y color pictórico. En esta acción el artista se expone al sol durante varias horas con un libro abierto sobre su pecho. Al final se nota la diferencia del tono de la piel. Con el tiempo abandonó el uso del cuerpo para sus acciones.' +
+            '',
+          url: 'https://uploads5.wikiart.org/images/dennis-oppenheim/reading-position-for-second-degree-burn-1970.jpg!Large.jpg',
+        },
+        {
+          id: 160,
+          artist: 'Chris Burden',
+          name: 'Shoot (1971)',
+          style: 'Body Art',
+          information: 'El artista realizó una gran cantidad de controvertidas acciones en las que ponía en primer término la idea del riesgo y la autolesión como método de denuncia social. En este Shoot permitió que un amigo le disparara en el brazo a una corta distancia' +
+            '',
+          url: 'http://www.ahmagazine.es/wp-content/uploads/2015/05/tumblr_n2o2movjQi1qdrgo9o1_12801.jpg',
+        },
+        {
+          id: 161,
+          artist: '-',
+          name: 'Arte Póvera',
+          style: '',
+          information: 'El Arte Póvera pretende ir en contra de la imaginería ensalzada del Pop Art y de las obras frías e industriales del Minimal. En contra del uso de materiales industriales y de la tecnología, apuesta por el uso de materiales perdurables y pobres cuya reutilización o transformación expresan la espontaneidad, libertad y creatividad del artista. Este uso de materiales humildes, la ocupación del espacio y la participación del público alejan el objeto artístico de su comercialización.' +
+            '',
+          url: '',
+          title: 'Arte Póvera'
+        },
+        {
+          id: 162,
+          artist: 'Mario Merz',
+          name: 'Iglú (1968)',
+          style: 'Arte Póvera',
+          information: 'Es conocido por sus esculturas iglús. Estas estructuras hemisféricas están realizadas con materiales de diversa procedencia (en este caso de piedra y metal) que identifica con viviendas nómadas y efímeras. Intenta buscar la obra de arte total con el contraste de elementos naturales y espacios artificiales.' +
+            '',
+          url: 'https://krollermuller.nl/media/cache/collection_item_detail_small/media/collectionitempage/tmsImage/igloo-di-pietra-mario-merz-48826-copyright-kroller-muller-museum.jpg',
+        },
+        {
+          id: 163,
+          artist: 'Michelangelo Pistoletto',
+          name: 'Venere Degli Stracci',
+          style: 'Arte Póvera',
+          information: 'Realizó numerosas intervenciones como esta en la que se colocaba una escultura clásica de venus rodeada de trapos y ropa usada intentando representar desde la ironía los límites entre la belleza arminica y los deshechos.' +
+            '',
+          url: 'http://analisidellopera.it/wp-content/uploads/2019/09/Pistoletto_Venere_degli_stracci.jpg',
+        },
+        {
+          id: 164,
+          artist: 'Joseph Beuys',
+          name: 'Como se explican los cuadros a una liebre muerta (1968)',
+          style: 'Escultura Social',
+          information: 'El hecho de que su avión fuera derribado y un grupo de nómadas le salvaran la vida usando grasa animal y fieltro hizo que usara estos materiales en su obra artística. En est performance que realiza ritualizada y simbólica se transforma en una escultura viviente. Empapado en miel y pan de oro y con una liebre muerta en sus brazos, recorre el espacio explicándole los cuadros a una liebre muerta' +
+            '',
+          url: 'https://2.bp.blogspot.com/_cOhtz9jGWSY/S-EKcVXNW8I/AAAAAAAAJSE/8P1Z8iGwAFM/s1600/beuys.jpg',
+        },
+        {
+          id: 165,
+          artist: 'Joseph Beuys',
+          name: 'Fat Chair (1963)',
+          style: 'Escultura Social',
+          information: 'Beuys trabaja con materiales extraños aplicados a las prácticas artísticas que le sirvieron para ampliar y socializar el concepto de arte. Además de grasa animal y fieltro, usó botellas, hilos de cobre, animales disecados, cajas, archivadores, platos o vitrinas. La diferencia con el ready made es que los materiales usados los extrae de su vida personal. Los objetos escultura que él crea hacen que el arte se refiera a la totalidad de la gente y no solo a los artistas.' +
+            'En este caso usa grasa animal y alambre en una silla.',
+          url: 'https://jessesartspace.files.wordpress.com/2016/11/160c92a9cf55cb52e409c776fee8f78a.jpg?w=640',
+        },
+        {
+          id: 166,
+          artist: '-',
+          name: 'Arte Conceptual',
+          style: '',
+          information: 'Con el arte Conceptual se culmina el proceso de desmaterialización de la obra de arte. Se realiza un desplazamiento del objeto artístico hasta la idea, el concepto. La teoría y el proceso se colocan en primer término en detrimento de la obra objetual terminada. Es por esto que la idea o el concepto es el aspecto más importante de la obra.\n' +
+            'Duchamp es un antecedente directo del Conceptual a través del ready made cuestionando el papel del autor poniendo en primer lugar el concepto. Las ideas del Minimal Art intentan desmitificar el objeto a favor del concepto. El arte reflexiona sobre su propia naturaleza. El arte conceptual surgió de la obra más teorica de los artistas minimalistas',
+          url: '',
+          title: 'Arte Conceptual'
+        },
+        {
+          id: 167,
+          artist: 'Joseph Kosuth',
+          name: 'One and three chairs (1965)',
+          style: 'Arte Conceptual (lingüístico)',
+          information: 'Entiende el arte como una actividad más que como una praxis. One and three chairs se puede observar la instalación de una silla, una fotografía de esa silla a tamaño real y un panel con la definición silla obtenida del diccionario. Se pone de manifiesto la limitación informativa que poseen tanto el objeto real como su reproducción visual como su definición lingüística. Se ponen de manifiesto las artes plásticas, la poesía y la linguística.' +
+            '',
+          url: 'https://www.researchgate.net/profile/David-Lopez-Rubino/publication/308795808/figure/fig1/AS:413179877314561@1475521167386/Joseph-Kosuth-One-and-three-chairs-1965-Siendo-cierto-que-cualquier-imagen-puede.png',
+        },
+        {
+          id: 168,
+          artist: 'Lawrence Weiner',
+          name: 'To See and be Seen (1972)',
+          style: 'Arte Conceptual (lingüístico)',
+          information: 'Este artista basa su práctica de escultor en el lenguaje. Considera las palabras como arte. Palabras objeto sin contexto ni consideraciones literarias.' +
+            '',
+          url: 'https://uploads0.wikiart.org/images/lawrence-weiner/to-see-and-be-seen-1972.jpg',
+        },
+        {
+          id: 169,
+          artist: 'On Kawara',
+          name: 'June 19, 1967 (1967)',
+          style: 'Arte Conceptual (empírico medial)',
+          information: 'Este autor desarrolla desde el 4 de enero de 1966 una monumental serie de pinturas bajo el título de Today' +
+            '',
+          url: 'https://uploads5.wikiart.org/images/on-kawara/june-19-1967-from-today-series-no-108-1967.jpg!Large.jpg',
+        },
         /*
         {
           id: 1,
