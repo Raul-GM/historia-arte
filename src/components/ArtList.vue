@@ -1158,8 +1158,9 @@ export default {
           artist: '-',
           name: '',
           style: 'Abstracción Post-pictórica',
-          information: 'Térnmino para referirse a un grupo de artistas que pretendían superar el Expresionismo Abstracto sin que ello significara posicionarse en la pintura figurativa. Sustituyeron la pincelada gestual expresiva por las áreas geométricas definidas y claras de color.' +
-            '',
+          information: 'Térnmino para referirse a un grupo de artistas que pretendían superar el Expresionismo Abstracto sin que ello significara posicionarse en la pintura figurativa. Sustituyeron la pincelada gestual expresiva por las áreas geométricas definidas y claras de color. Dentro de la Abstracción post-pictórica podemos identificar dos tendencias:' +
+            '- Colour Field: Se caracteriza por amplios campos de color liso aplicados en los cuadros mediante una finísima capa, eliminando cualquier ilusión espacial, dando lugar a obras de gran formato.' +
+            '- Hard edge: El color se aplica en formas geométricas claramente definidas y delimitadas entre sí por unos contornos muy pronunciados, produciendo la figuración plástica del color en el borde del cuadro.',
           url: '',
           title: 'Abstracción Post-pictórica'
         },
@@ -1180,6 +1181,154 @@ export default {
           information: 'Define el espacio de la abstracción a partir del espacio, color, luz y movimiento en una combinación de elementos constructivos a paritr de superficies geométricas de colores planos.' +
             '',
           url: 'https://uploads1.wikiart.org/images/max-bill/radiation-of-pink-1973.jpg',
+        },
+        {
+          id: 127,
+          artist: 'Ad Reinhardt',
+          name: 'Abstract Painting, Red (1952)',
+          style: 'Abstracción Post-pictórica',
+          information: 'Presenta espacios de color simétricos en los que intenta llevar al máximo la expresividad cromática' +
+            '',
+          url: 'https://www.moma.org/media/W1siZiIsIjE3OTUyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=b20788ae2192cb02',
+        },
+        {
+          id: 128,
+          artist: 'Keneth Noland',
+          name: 'Turnsole (1961)',
+          style: 'Abstracción Post-pictórica (Colour field)',
+          information: 'Noland dispone en sus cuadros mezclas luminosas de color ordenadas en el lienzo en formatos geométricos (rectángulos, cuadrados o círculos). Noland deja que la tela se coloree superficialmente eliminando cualquier atisbo de jesto o pincelada. Esta técnica se llama soak satin.' +
+            '',
+          url: 'https://m.media-amazon.com/images/I/41sm41QhwxL._AC_.jpg',
+        },
+        {
+          id: 129,
+          artist: 'Morris Louis',
+          name: 'Beta Lambda (1961)',
+          style: 'Abstracción Post-pictórica (Colour field)',
+          information: 'Louis utilizaba también la técnica del derrame de color mediante pintura acrílica muy diluida y vertida sobre la tela sin preparar. Las capas de color las aplica de forma sucesiva' +
+            '',
+          url: 'https://deplatayexacto.files.wordpress.com/2010/11/beta-lambda-morris-louis-1961.jpg?w=640',
+        },
+        {
+          id: 130,
+          artist: 'Ellsworth Kelly',
+          name: 'Mediterranee (1952)',
+          style: 'Abstracción Post-pictórica (Hard Edge)',
+          information: 'Kelly trabaja a menudo con un solo color, en cuadros muy definidos o juntando cuadros monocromos. La formación geométrica de cada cuadro se coloca en primer plano' +
+            '',
+          url: 'https://www.tate.org.uk/art/images/work/L/L02/L02465_9.jpg',
+        },
+        {
+          id: 131,
+          artist: 'Frank Stella',
+          name: 'Empress of India (1965)',
+          style: 'Abstracción Post-pictórica (Hard Edge)',
+          information: 'Enfatizaba la pintura como objeto físico. Para él la pintura es una superficie plana con pintura en ella. Rompe con el formato de cuadro tradicional de tal forma que las formas geométricas creadas en la superficie de este, determinan la forma física exterior del cuadro (Shaped canvas)' +
+            '',
+          url: 'https://uploads5.wikiart.org/images/frank-stella/empress-of-india-1965.jpg!Large.jpg',
+        },
+        {
+          id: 132,
+          artist: '-',
+          name: 'Supports-surfaces',
+          style: '',
+          information: 'Movimiento pictórico que surge en Francia, llamado también Nuevo Reduccionismo. Los artistas declaran que el objeto de la pintura es la propia pintura, sin apelar a los sentimientos, artista o incluso a la historia del arte. Son obras inexpresivas y neutras. Cuestiona los principios elemntales de la pintura. Se cuestionan la función del bastidor tradicional' +
+            '',
+          url: '',
+          title: 'Supports-surfaces'
+        },
+        {
+          id: 133,
+          artist: 'Claude Viallat',
+          name: 'Untitled Nº56 (1996)',
+          style: 'Supports-surfaces',
+          information: 'Pintaba sobre tejidos y telas reciclados de forma repetitiva y neutra el mismo motivo pictórico en forma de ameba y mancha de camuflaje.' +
+            '',
+          url: 'https://uploads8.wikiart.org/images/claude-viallat/untitled-2007-126-2007.jpg!Large.jpg',
+        },
+        {
+          id: 134,
+          artist: '-',
+          name: 'Arte cinético',
+          style: '',
+          information: 'Es el arte que implica movimiento cuyo interés no radica en el movimiento representado, si no en el movimiento mismo como parte sustancial de la obra artística. Su origen se centra en los manifiestos futuristas. ' +
+            '',
+          url: '',
+          title: 'Arte cinético'
+        },
+        {
+          id: 135,
+          artist: 'Moholy-Nagy',
+          name: 'Licht-Raum-Modulator (1922-1930)',
+          style: 'Arte cinético',
+          information: 'Plantea la importancia de la luz en sus construcciones conéticas. La luz abarca el ambiente que rodea a la máquina envolviendo el entorno. Contribuyó a la reflexión sobre el papel del espectador delante de una pieza de arte cinético, donde esta tiene que funcionar de forma activa integrando toda la información que le ofrece la obra.' +
+            '',
+          url: 'http://www.artnet.com/WebServices/images/ll04417lldqpYGFg8GECfDrCWvaHBOcXUaC/l%C3%A1szl%C3%B3-moholy-nagy-licht-raum-modulator-(+-wire-sculpture;-2-works).jpg',
+        },
+        {
+          id: 136,
+          artist: 'Alexander Calder',
+          name: 'Mobile Rouge Triomphant (1963)',
+          style: 'Arte cinético',
+          information: 'Introdujo la idea de la escultura móvil (obras donde el aire se convertía en el motor del movimiento de la misma). Sus obras estaban formadas por planchas metálicas suspendidas por varillas del mismo material que permitía su movimiento libre en cualquier dirección y pintadas con colores primarios. Al principio fue de dimensiones reducidas y posteriormente fueron ganando tamaño hasta ocupar el espacio público.' +
+            '',
+          url: 'https://arthur.io/img/art/000173449bc51017a/alexander-calder/rouge-triomphant/large/alexander-calder--rouge-triomphant.jpg',
+        },
+        {
+          id: 137,
+          artist: 'Jean Tinguely',
+          name: 'Méta-Matic Nº. 6 (1959)',
+          style: 'Arte cinético',
+          information: 'Creó toda una serie de máquinas escultóricas (Meta-Matic) que se movían gracias a motores eléctricos. Su intención era irónica, mostrar máquinas inútiles haciendo un trabajo constante en clara referencia al sistema de producción en cadena del sistema capitalista. También diseño una máquina que mediante un brazo mecánico dibujaba garabatos en un papel.' +
+            '',
+          url: 'https://uploads4.wikiart.org/images/jean-tinguely/m-ta-matic-no-6-1959.jpg',
+        },
+        {
+          id: 138,
+          artist: '-',
+          name: 'Op Art',
+          style: '',
+          information: 'Existen dos corrientes en el Op Art: una estática que trabaja a nivel bidimensional del cuadro y una cinética que a partir de las investigaciones constructivistas operan en las tres dimensiones del espacio a partir de la modulación física de la luz.\n' +
+            'La finalidad de este movimiento es producir la ilusión de vibración o movimiento en la superficie del cuadro. A diferencia del Arte cinético, estas obras no tienen un movimiento real. Fueron rápidamente aceptadas por el público e influyeron en la publicidad, moda y artes gráficas de los 60 (psicodelia)\n' +
+            'El movimiento nace en Europa a partir de una exposición cuyos artistas investigan acerca de la ilusión óptica',
+          url: '',
+          title: 'Op Art'
+        },
+        {
+          id: 139,
+          artist: 'Josef Albers',
+          name: 'White Line Square IV (1966)',
+          style: 'Op Art',
+          information: 'Albers trabaja en el proceso de reducción de color y forma usando la figura del cuadrado. Gracias a este, el color "vibra" libremente en correspondencia con el color vecino' +
+            '',
+          url: 'https://www.tate.org.uk/art/images/work/P/P01/P01786_9.jpg',
+        },
+        {
+          id: 140,
+          artist: 'Victor Vasarely',
+          name: 'Zebra (1937)',
+          style: 'Op Art',
+          information: 'Comienza sus investigaciones perceptivas trbajando con la vibración que origina en el ojo del espectador a partir de estructuras regulares blancas y negras. Se crea una ilusión de proyección tridimensional que da al cuadro una sensación de profundidad que no está basada en la perspectiva tradicional.' +
+            '',
+          url: 'https://uploads5.wikiart.org/images/victor-vasarely/zebra-1937.jpg',
+        },
+        {
+          id: 141,
+          artist: 'Bridget Riley',
+          name: 'Fall (1963)',
+          style: 'Op Art',
+          information: 'Uso de planos seriados ondulados que producen un efecto cinético inmediato superponiéndose dos efectos simultáneos de movimiento.' +
+            '',
+          url: 'https://lh3.googleusercontent.com/proxy/-E27Z-Q257sQe92XUtnGHQRZYSS1i-x6_QfqEWziViOcvOucE7tJiujQnm5FP86BqKtko7kqVXRVF3O-xLeMK4xIkDqd3Gt4ICUB6vACworUqDRP6hriv3YC9z8DhqhkZGJ7UisPemhBhTgqKp4',
+        },
+        {
+          id: 142,
+          artist: 'Jesús Rafel Soto',
+          name: 'Horizontal Movement (1963)',
+          style: 'Op Art',
+          information: 'Su trabajo se centra en una búsqueda del movimiento que le lleva a desafiar las posibilidades perspectivas del ojo. En su obra sitúa hilos de nylon, varillas metálicas o formas bidimensionales superpuestas delante de un cuadro de rayas verticales u horizontales creando un efecto de cambio perceptivo en el espectador dependiendo de su situación en relación al cuadro. De esta forma involucra al espectador en sus obras' +
+            '',
+          url: '',
         },
         /*
         {
