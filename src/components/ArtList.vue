@@ -1581,9 +1581,475 @@ export default {
             '',
           url: 'https://uploads5.wikiart.org/images/on-kawara/june-19-1967-from-today-series-no-108-1967.jpg!Large.jpg',
         },
+        {
+          id: 170,
+          artist: '-',
+          name: 'Neoexpresionismo',
+          style: '',
+          information: 'La posmodernidad se refiere a la tendencia de la cultura, el arte y la filosofía que surgió en los 80. Se asocia al culto a lo individual desinterés por las utopías y rechazo al racionalismo. Hay una defensa de la hibridación, la diversidad, la cultura popular y se cuestionan los textos y las verdades universales.\n' +
+            'Los pintores neoexpresionistas se caracterizan por su agresividad gestual, por los temas descarnados, los grandes formatos y la figuración expresiva. Surge como reacción a las tendencias formalistas del Minimal Art, Arte Conceptual, etc',
+          url: '',
+          title: 'Neoexpresionismo'
+        },
+        {
+          id: 171,
+          artist: 'Georg Baselitz',
+          name: 'Weg vom Fenster (1982)',
+          style: 'Neoexpresinismo',
+          information: 'Baselitz pinta motivos figurativos con un lenguaje cercano a la abstracción cuyo autor denomina ornamento. Representa figuras cabeza abajo que se han convertido en su sello de identidad. Intenta que el espectador asuma el arte como una forma de oposición a las convenciones sociales y políticas imperantes.' +
+            '',
+          url: 'https://www.fondationbeyeler.ch/fileadmin/museumplus/multimedia/68199.jpg',
+        },
+        {
+          id: 172,
+          artist: 'Markus Lüpertz',
+          name: 'Clitunno (1990)',
+          style: 'Neoexpresionismo',
+          information: 'PRetende buscar un lenguaje que define como concreción de lo abstracto. Juega co la geometría y la gestualidad.' +
+            '',
+          url: 'https://media.mutualart.com/Images/2018_03/13/08/085547834/4bd80ec5-bcc2-4c85-9c41-03625bce1207_570.Jpeg',
+        },
+        {
+          id: 173,
+          artist: 'Gerhard Richter',
+          name: 'Chromatic Abstractions (1990)',
+          style: 'Neoexpresionismo',
+          information: 'Es un autor con una obra muy extensa y en la que ha experimentado con todo tipo de lenguajes. Su idea es despersonalizar el arte creando fotografías a través de la plástica. En sus pinturas abstractas amplía el efecto del rastro del pincel siguiendo esquemas geométricos Intenta mostrar la inexistencia de diferencias entre la figuración y la abstracción intercambiando ambos lenguajes constantemente\n' +
+            '',
+          url: 'https://i1.wp.com/revistaestilo.org/wp-content/uploads/2020/06/gerhard-richter-chromatic-abstractions-abstract-painting-1990.jpg?fit=970%2C705&ssl=1',
+        },
+        {
+          id: 174,
+          artist: 'Sigmar Polke',
+          name: 'Girlfriends (1965-1966)',
+          style: 'Neoexpresionismo',
+          information: 'Sus pinturas son de diversas técnicas y soportes en las que plantea la crítica social como temática ya sea de la reciente historia alemana como en el consumo desmesurado de las imágenes pop por parte de la sociedad occidental.' +
+            '',
+          url: 'https://uploads1.wikiart.org/00288/images/sigmar-polke/girlfriends-freundinnen-1965-66.jpg!Large.jpg',
+        },
+        {
+          id: 175,
+          artist: 'A.R. Penck',
+          name: 'Ur-End (1970)',
+          style: 'Neoexpresionismo',
+          information: 'Penck llena sus pinturas de figuras esquemáticas y primitivas y de pictogramas simples realizando una suerte de jeroglíficos universalmente comprendibles. Sus esculturas totémicas policromadas evoca los mismos tema y utiliza materiales de diversa procedencia como botellas, cartón, latas, madera, alambre...' +
+            '',
+          url: 'https://i.pinimg.com/originals/2f/2b/2c/2f2b2c2b509be68dd206bc45c9ba6e97.jpg',
+        },
+        {
+          id: 176,
+          artist: 'Jörg Immendorff',
+          name: 'Café Desutschland IV (1978)',
+          style: 'Neoexpresionismo',
+          information: 'La obra de este autor tiene un gran contienido crítico al sistema capitalista e imperialesta. Sus enormes cuadros recrea situaciones que muestra esa dualidad política que sugría Alemani mediante un imaginario simbólico repleto de personajes.' +
+            '',
+          url: 'https://srv.deutschlandradio.de/media/thumbs/e/e17cdc4dfc062568c6c3839d1415ac6ev2_max_460x345_b3535db83dc50e27c1bb1392364c95a2.jpg?key=ae77a0',
+        },
+        {
+          id: 177,
+          artist: 'Anselm Kiefer',
+          name: 'Velimir Chlebnikov (2004)',
+          style: 'Neoexpresionismo',
+          information: 'Este artista trabaja una pintura de enorme formato con gruesas capas de color combinadas con madera, alambre, plomo, ceniza, vidrio, paja, material de desecho y ramas de árboles. Sus cuadros destacan por sus colores sombríos. Unos assemblages en los que conviven pintura, materia y fotografía junto con un trazo expresivo y violento. Su concepción de la pintura es más literaria y folosófica mostrando interés por el paso del tiempo, el olvido y el desperdicio. Las capas superpuestas de sus obras forman una supericie densa y empastada pero permitiendo ver los diferentes estratos' +
+            '',
+          url: 'https://d32dm0rphc51dk.cloudfront.net/FDTH8uH5Utwjw9arYlh4hQ/large.jpg',
+        },
+        {
+          id: 178,
+          artist: 'Robert Combas',
+          name: 'Composition aux trois pieds avec chaussures (1994)',
+          style: 'Neoexpresionismo (figurativo)',
+          information: 'Es el padre de la Figuración Libre. Su obra reivindica lo instintivo, satírico y la cultura popular. Realiza obras que son una especie de cómics de grandes dimensiones que proporciona un fresco de la sociedad contemporánea  con un componente claramente autobiográfico. Figuras humanas en entornos violentos y casi orgiásticos mezcladas con motivos deudores de la propia historia del arte con la intención de involucrar al espectador.' +
+            '',
+          url: 'http://www.artnet.fr/WebServices/images/ll00236lldXZ0GFgpeECfDrCWvaHBOcVCmD/robert-combas-composition-aux-trois-pieds-avec-chaussures.jpg',
+        },
+        {
+          id: 179,
+          artist: 'Jean-Michel Alberola',
+          name: 'Labros (1982)',
+          style: 'Neoexpresionismo (figurativo)',
+          information: 'Al contrario que Combas, Alberola se implica en la renovación de la pintura volviendo la mirada a la Historia del Arte reivindicando la misma. Usando una figuración culta impregna sus obras con reflexiones sobre la historia de la pintura, los motivos religiosos católicos y guiños a las culturas africanas' +
+            '',
+          url: 'http://www.artnet.com/WebServices/images/ll00172lld0pYGFgVNECfDrCWvaHBOc7vaC/jean-michel-alberola-labros.jpg',
+        },
+        {
+          id: 180,
+          artist: 'José Manuel Broto',
+          name: 'Los Prodigios II (1989)',
+          style: 'Neoexpresionismo abstracto',
+          information: 'Broto plantea una abstracción que combina formas abstractas con referencias formales a objetos geométricos, formas orgánicas o signos matemáticos, musicales o linüísticos. Realiza un trazo gestual con una gran expresividad acentuada por el uso de pintura de intensos colores que chorrea y gotea por el cuadro.\n' +
+            'En su cuadro crea tensión entre la forma y el color utilizando veladuras mediante la superposición de finas capas de pintura acrílica muy líquida',
+          url: 'https://static.arteinformado.com/resources/app/docs/organizacion/28/127828/obras/ad00148.jpg',
+        },
+        {
+          id: 181,
+          artist: 'Xavier Grau',
+          name: 'Pelikan II (1996)',
+          style: 'Neoexpresionismo abstracto',
+          information: 'Sus obras parecen desprender una atmósfera de caos y destrucción pero hay diferentes niveles de lectura y se pueden ver una sucesión de colores enérgicos, movimiento y una efervescencia luminosa. En sus paisajes abstractos las figuras deambulan entre arquitecturas y escenografías sensuales resueltas mediante manchas de color espontáneas.' +
+            '',
+          url: 'https://static1.museoreinasofia.es/sites/default/files/obras/AD02075.jpg',
+        },
+        {
+          id: 182,
+          artist: 'Miquel Barceló',
+          name: 'La gran cena española (1985)',
+          style: 'Neoexpresionismo figurativo',
+          information: 'En sus pinturas trata los problemas tradicionales de la pintura como la perspectiva y la luz, interesándose por la figuración tanto animal como humana, pintada de manera expresionista, descuidada y violenta. Sus motivos están extraídos de la naturaleza mediterránea y africana.' +
+            '',
+          url: 'http://3.bp.blogspot.com/-6LrxeFTVbgE/UujkDQKHkSI/AAAAAAAANCk/x9Vf54ToA7o/s1600/cena+espa%25C3%25B1ola+barcelo.jpg',
+        },
+        {
+          id: 183,
+          artist: 'José María Sicilia',
+          name: 'Plaza de la Bastilla (1984)',
+          style: 'Neoexpresionismo figurativo',
+          information: 'En un primer momento crea obras de gran formato cuyos elementos figurativos son de uso doméstico, como tijeras o aspiradoras. Se puede apreciar sus trazos gestuales enérgicos y la aplicación de materia pictórica. Con el tiempo su pintura virará a la abstracción radical.' +
+            '',
+          url: 'https://static5.museoreinasofia.es/sites/default/files/obras/AS08737.jpg',
+        },
+        {
+          id: 184,
+          artist: 'Ferrán García Sevilla',
+          name: 'Tata 13',
+          style: 'Neoexpresionismo figurativo',
+          information: 'Pasa del arte conceptual a la pintura expresiva donde reinan las figuras antropomorfas resueltas mediante grafismos primitivos y signos fragmentados y repetidos, de sus propias vivencias, sensaciones y obsesiones.' +
+            '',
+          url: 'https://static5.museoreinasofia.es/sites/default/files/obras/AD00149.jpg',
+        },
+        {
+          id: 185,
+          artist: '-',
+          name: 'Transvanguardia',
+          style: '',
+          information: 'En Italia el movimiento pictórico de la Transvanguardia se enmarca dentro del neoexpresionismo de los 80. Se trataba de un grupo dispar de artistas que les unía la idea de recuperar la pintura como medio expresivo y superar las experiencias ideologizadas.\n' +
+            'Valoran la pintura en la que prime el trabajo manual del artsta y su propia subjetividad e intuición frente a la impersonalidad y la objetividad planteadas por el Pop Art y el Minimal Art o el Conceptual Art. Retoman la figuración, el gesto y el signo.',
+          url: '',
+          title: 'Transvanguardia'
+        },
+        {
+          id: 186,
+          artist: 'Sandro Chia',
+          name: 'Nicht for Richt (1984)',
+          style: 'Transvanguardia',
+          information: 'Chia comienza como artista conceptual hasta que reivindica el retorno a la pintura y al análisis y la reutilización de la obra de artistas del pasado y la incorporación irónica de temas mitológicos. Incorpora a menudo figuras humanas con aspecto de héroes clásicos en un escenario colorido, expresivo y teatral. En cambio, el héroe parece desmitificado y se le priva de cualquier épica.' +
+            '',
+          url: 'https://i.pinimg.com/originals/62/6b/a1/626ba116e593faf13934d8c072654b12.jpg',
+        },
+        {
+          id: 187,
+          artist: 'Mimmo Paladino',
+          name: 'Sonata (1985)',
+          style: 'Transvanguardia',
+          information: 'Paladino expone que el arte es nómada porque atraviesa fonteras geográficas y temporales. Sus obras son deudoras de la mitología clásica y de los formatos y técnicas tradicionales. Mezcla objetos del presente con figuras arquetípicas representadas con trazos violentos y colores intensos. Con el tiempo crea esculturas de madera, bronce y piedra para dar vida a estos personajes' +
+            '',
+          url: 'http://2.bp.blogspot.com/-pIwr66HG7cI/VJGMrb1wzGI/AAAAAAABLUc/mmolAHFQJZ4/s1600/lacma_sonata%2B1985.jpg',
+        },
+        {
+          id: 188,
+          artist: 'Enzo Cucchi',
+          name: 'Vitebsk-Harar (1984)',
+          style: 'Transvanguardia',
+          information: 'Introduce en sus obras figuras que remiten a la mitología y la tradición de las culturas arcaicas de Italia. Pinta y dibuja con una intensidad y una expresividad poderosas. Incorpora en ocasiones textos poéticos de su propia cosecha a sus obras. Usa óleo, carboncillo y collage.' +
+            '',
+          url: 'https://www.castellodirivoli.org/wp-content/uploads/2012/02/cucchi-Vitebsk.jpg',
+        },
+        {
+          id: 189,
+          artist: 'Francesco Clemente',
+          name: 'Moon (1980)',
+          style: 'Transvanguardia',
+          information: 'Su obra se basa en una relectura del retrato narcisista, la sexualidad y la autodestrucción, dando como resultado una pintura irreverente. Su iconografía se basa en su experiencia en la India.' +
+            '',
+          url: 'https://www.moma.org/media/W1siZiIsIjIzNDQzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=d1ef7a26b8e642ca',
+        },
+        {
+          id: 190,
+          artist: 'Nicola de Maria',
+          name: 'Testa Rosa (1989)',
+          style: 'Transvanguardia',
+          information: 'A diferencia de otros artistas de este movimiento, realiza obras abstractas, laberínticas compuestas por formas irregulares y de colores estridentes. Sus obras son pintadas en paredes o muros otorgando una sensación de espacio irreal y onírico.' +
+            '',
+          url: 'https://i.pinimg.com/originals/06/f0/10/06f0103cd486b4a4accdd792231b2483.jpg',
+        },
+        {
+          id: 191,
+          artist: '-',
+          name: 'Graffiti',
+          style: '',
+          information: 'Desde finales de los 60 se empezó a extender por los barrios marginales de las grandes ciudades de norteamérica el fenómeno de cubrir las paredes de espacios públicos con dibujos, garabatos, imágenes tomadas del cómic, mensajes o firmas. Convivían las intenciones reivindicativas con otras menos politizadas. Utilizaban el spray para sus obras.\n' +
+            'La exposicion Post-Graffiti en una sala de arte de Nueva York fue determinante para el reconocimiento de este estilo por parte del mundo contemporáneo.',
+          url: '',
+          title: 'Graffiti'
+        },
+        {
+          id: 192,
+          artist: 'Jean Michek Basquiat',
+          name: 'Profit I (1982)',
+          style: 'Graffiti',
+          information: 'Con una carrera artística meteórica (murió a los 27) pasó de los comienzos más marginales a tener relación artística con Warhol. Comenzó formando mensajes crípticos bajo el pseudónimo de SAMO pero pronto sintió una atracción por el dominio gestual de algunos artistas del Expresionismo Abstracto.\n' +
+            'Basquiat afirmó que sus obras eran pinturas que estaban entre la abstracción gestual y la figuración expresiva más que en el propio grafiti. Su obra combina agresividad, humor, ironía con imágenes pobladas de elementos relacionados con la simbología primitiva. Sus textos e imágenes mezclan temas que abarcan desde el vudú hasta los retratos expresivos de héroes afroamericános de la música y el deporte de la época.',
+          url: 'https://uploads0.wikiart.org/images/jean-michel-basquiat/profit-i.jpg!Large.jpg',
+        },
+        {
+          id: 193,
+          artist: 'Keith Haring',
+          name: 'The Tree of Monkeys (1984)',
+          style: 'Graffiti',
+          information: 'Haring comenzó como accionista conceptual expresado en sus dibujos a tiza en el metro de nueva york. Utilizaba colores básicos muy saturados y líneas y contornos marcados y definidos. Sus temas iban desde la libertad sexual al activismo social y político. Su iconografía presenta personajes danzantes, mujeres embarazadas, hombres-animales, perros aulladores, máscaras tribales, etc. Con un estilo esquemático simplificado y lineal, llevó su obra a multitud de soportes que vendía en su tienda.' +
+            '',
+          url: 'https://uploads2.wikiart.org/00159/images/keith-haring/formatfactorykeith-haring2.jpg!Large.jpg',
+        },
+        {
+          id: 194,
+          artist: 'Kenny Scharf',
+          name: 'Hannah Barbaric Paradise (1981)',
+          style: 'Graffiti',
+          information: 'Mediante su obra de colores estridentes, imágenes simplificadas y blandas quería minimizar la distancia entre el arte y la cultura popular. Sus personajes son extraídos de los dibujos animados, el comic o la mitología llenando cualquier superficie.' +
+            '',
+          url: 'https://uploads3.wikiart.org/images/kenny-scharf/hannah-barbaric-paradise-1981.jpg',
+        },
+        {
+          id: 195,
+          artist: '-',
+          name: 'Apropiacionismo',
+          style: '',
+          information: 'El apropiacionismo convivió en EE.UU. con el Neoexpresionismo y es una tendenci también dispuesta a superar los límites impuestos por la teoría y la racionalidad. En este caso se reivindica la imagen, su lugar en el mundo mediático y su potencialidad narrativa.\n' +
+            'La pintura se entendía como un proceso en el que se presentaban todo un mundo de imágenes cuyo origen era la apropiación de otras imágenes. Las imágenes resultantes eliminaban todo el significado de las originales para otorgarles uno nuevo. Su intención no era representar la realidad, si no rehacerla a partir de imágenes preexistentes.',
+          url: '',
+          title: 'Apropiacionismo'
+        },
+        {
+          id: 196,
+          artist: 'Richard Prince',
+          name: 'Untitled Cowboy (1989)',
+          style: 'Apropiacionismo',
+          information: 'Comienza realizando collages con fotografías para acabar en la refotografía (fotografía de una fotografía) para intentar borrar la distancia entre arte y realidad y entre realidad y ficción\n' +
+            'Su obra Untitled Cowboy es una refotografía de un anuncio de Marlboro. Este tipo de obras suscitaron la controversia acerca de la autoría, la autenticidad y los derechos de autoría de la misma.',
+          url: 'https://www.zoomescuela.com/wp-content/uploads/2020/09/time-100-influential-photos-richard-prince-untitled-cowboy-82.jpg',
+        },
+        {
+          id: 197,
+          artist: 'Sherrie Levine',
+          name: 'Fountain (Buddha) (1996)',
+          style: 'Apropiacionismo',
+          information: 'La artista llevó más lejos el trabajo de retrografía apropiándose directamente del trabajo de otros artistas y presentándolo sin modificación ni reinterpretación alguno. Al apropiarse sólo de obras de hombres, se deja ver una reflexión crítica sobre el tema de género en el mundo del arte.\n' +
+            'Cuestiona y desmitifica la importancia de la creación original. También se dedic a versionar obras capitales de artistas masculinos del siglo XX.',
+          url: 'https://www.thebroad.org/sites/default/files/art/levine_fountain_buddha.jpg',
+        },
+        {
+          id: 198,
+          artist: 'Robert Longo',
+          name: 'Raphael and Barbara (1998)',
+          style: 'Apropiacionismo',
+          information: 'Se interesó por las imágenes del cine y la televisión. Se apropió de imágenes de ambos medios y se sirvió del dibujo para convertirlas en fotogramas bidimensionales "congelados" de gran formato. Su serie Men in the Cities aparecen hombres vestidos de traje y corbata en posiciones contorsionadas como si estuvieran siendo disparados. Compone una especie de coreografía dramatizada del instante de sus muertes.' +
+            '',
+          url: 'https://assets.phillips.com/image/upload/t_Website_LotDetailMainImage/v1/auctions/NY030212/204_001.jpg',
+        },
+        {
+          id: 199,
+          artist: 'Jeff Koons',
+          name: 'St Johns the Baptist (1996)',
+          style: 'Apropiacionismo',
+          information: 'Su obra no trata de simular objetos de consumo, si no que pretende reproducir la capacidad seductora que estos ejercen sobre el público. Se posiciona entre la frontera entre el arte y el comercio. Crea obras que entiende y comprende la mayoría del público pero se encuentran fuera de su poder adquisitivo. Tiene un estilo muy cercano a lo Kitsch.' +
+            '',
+          url: 'https://2.bp.blogspot.com/-7RMkqN8cy4E/VAi7ADVG1fI/AAAAAAAAFK8/xwiTFjBx_No/s1600/Koonsb.jpg',
+        },
+        {
+          id: 200,
+          artist: '-',
+          name: 'Arte NeoGeo o Neobjetual',
+          style: '',
+          information: 'A mediados de los 80 comenzó un abndono de las propuestas neoexpresionistas. Los artistas alemanes fueron los primeros en abandonar los postulados expresionistas. Los NeoGeos o Neoabstractos reinterpretaron la Abstracción Geométrica\n' +
+            'Los artistas neobjetuales trabajan con objetos "atravesados por la historia" y ponen énfasis en lo cotidiano, lo irónico y lo subjetivo',
+          url: '',
+          title: 'Arte NeoGeo o Neobjetual'
+        },
+        {
+          id: 201,
+          artist: 'Reinhard Mucha',
+          name: 'Hagen Vorhalle (1983)',
+          style: 'Arte Neogeo o Neobjetual',
+          information: 'Mucha crea instalacones y monumentos reutilizando muebles encontrados que una vez concluida la intervención los devuelve a donde los ha sacado. Pone en cuestión los elementos de la forma y la función de los objetos planteando también cuestiones de propiedad. Multitud de referencias autobiográficas y viajes  en ferrocarril muy presentes en su obra.' +
+            '',
+          url: 'https://galerie-graesslin.de/media/img/exhibitions/Hagen-Vorhalle-2_1983.jpg',
+        },
+        {
+          id: 202,
+          artist: 'Tony Cragg',
+          name: 'Britain Seen From the North (1981)',
+          style: 'Arte Neogeo o Neobjetual',
+          information: 'Realiza obra con materiales de construcción, consumo y objetos domésticos deshechados. Planea las esculturas amontonando, rompiendo o aplastando los materiales. En Britain Seen From the North recrea la forma de la isla de Gran Bretaña vista desde el norte donde se encuentra una figura, quizás el propio autor, donde ve al país como un extranjero.' +
+            '',
+          url: 'https://www.tate.org.uk/art/images/work/T/T03/T03347_10.jpg',
+        },
+        {
+          id: 203,
+          artist: 'Christian Boltanski',
+          name: 'Rezerve: La Fete de Pourim (1988)',
+          style: 'Arte Neogeo o Neobjetual',
+          information: 'Incorpora la dimensión simbólica al objeto. Utiliza materiales usados como testimonios de la memoria, la vida y la biografía personal (carpetas, fotografías, cartas...). Con ello recrea vidas individuales imaginadas o imaginarias. Usa cajas de galletas de metal oxidado que dispone de diferente forma en función del lugar expositivo y son contenedores de recuerdos individualizados mediante una fotografía de archivo anónima.' +
+            '',
+          url: 'https://media.mutualart.com/Images/2013_05/14/09/092418936/776a8633-0f80-48cd-bba2-792b1ec76c96_570.Jpeg',
+        },
+        {
+          id: 204,
+          artist: 'Rosemarie Trockel',
+          name: 'Living Means to Play Some Records (2002)',
+          style: 'Arte Neogeo o Neobjetual',
+          information: 'Reinterpreta el ready made confrontando el trabajo manual y artesanal y el conceptual. Utiliza la ironía para mostrar su mensaje cuestionando el concepto de autoría y la representación de la mujer en la sociedad moderna. Anticipa las cuestiones de género.' +
+            '',
+          url: 'https://i.pinimg.com/originals/f6/61/01/f66101ff0e9f7714140630c42266e6fc.jpg',
+        },
+        {
+          id: 205,
+          artist: 'Louise Bourgeis',
+          name: 'Maman (1999)',
+          style: 'Arte Neogeo o Neobjetual',
+          information: 'Se dedicó a a crear esculturas e instalaciones transgresoras atraída por nuevos materiales e influenciada por los movimientos feministas. Sus obras se mueven entre la sexualidad, la fertilidad y la identidad de género. Sus obras están a medio camino entre lo formal y lo informe con tintes autobiográficos.' +
+            '',
+          url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bilbao_-_Guggenheim_28.jpg/1200px-Bilbao_-_Guggenheim_28.jpg',
+        },
+        {
+          id: 206,
+          artist: 'Juan Muñoz',
+          name: 'Plaza (Madrid) (1996)',
+          style: 'Arte Neogeo o Neobjetual',
+          information: 'Juan Muñoz comenzó a trabajar en instalaciones llenas de figuras de un tamaño algo más pequeño que el original que interaccionaban entre ellas y se relacionaban con el espacio circundante. Sus figuras son monocromáticas (gris plomo o color cera) que llegan a incomodar al espectador por su universalidad y su falta de interés por sí mismas. Crea situaciones en las que sus escenografías son de caráter narrativo y obliga al espectador a relacionarse y participar en la propia obra.' +
+            '',
+          url: 'https://static1.museoreinasofia.es/sites/default/files/obras/AD00608.jpg',
+        },
+        {
+          id: 207,
+          artist: 'Jaume Plensa',
+          name: 'Julia',
+          style: 'Arte Neogeo o Neobjetual',
+          information: 'Comenzó trabajando con el hierro hasta empezar con sus célebres cabezas translúcidas a gran escala, realizadas en rejilla de acero inoxidable que parecen desvanecerse ante el espectador. Sus obras se suelen exponer en el espacio público.' +
+            '',
+          url: 'https://www.revistadearte.com/wp-content/uploads/2018/12/Julia-Jaume-Plensa-Plaza-de-Col%C3%B3n-en-Madrid-20-dic-2018.jpg',
+        },
+        {
+          id: 208,
+          artist: 'Anish Kapoor',
+          name: 'Cloud Gate',
+          style: 'Arte Neogeo o Neobjetual',
+          information: 'Empezó con trabajos abstractos realizados con pigmentos que recreaban espacios ambiguos a medio camino entre la pintura y la escultura. Ha investigado tanto con la ausencia del reflejo de la luz, en sus obras con pigmentos y en las esculturas de superficies pulidas que acentúan la sensación inversa. En este Cloud Gate ofrece al espectador otra forma de admirar el Skyline de Chicago.' +
+            '',
+          url: 'https://www.ecured.cu/images/b/b4/CloudGate.jpg',
+        },
+        {
+          id: 209,
+          artist: '-',
+          name: 'Arte Neoconceptual',
+          style: '',
+          information: 'Es un movimiento que se produce paralelamente al Arte Neogeo o Neobjetual. Se interesan en la recuperación del código pero en un sentido diferente al del Arte Conceptual. Toma referencias de Kosuth, Weiner o Kawara (Arte Conceptual) y de Wharhol (Pop Art). Esto les llevó a la crítica social y a cuestionar la obra de arte como mercancía. Este grupo podría ser considerado como activistas posmodernos.\n' +
+            'Algunos de los artistas pasaron de ser productores de objetos de arte a manipuladores de signos artísticos. Esto obliga al espectador a ser un lector activo de mensajes. Mensajes dirigidos a la crítica de las representaciones, los estereotipos, la sexualidad o los roles sociales.',
+          url: '',
+          title: 'Arte Neoconceptual'
+        },
+        {
+          id: 210,
+          artist: 'Barbara Kruger',
+          name: 'Untitled (We don`t need another hero) (1987)',
+          style: 'Arte Neoconceptual',
+          information: 'Con una influencia previa en el diseño gráfico, presenta fotografías en blanco y negro a las que superpone frases y textos decorativos y agresivos con letras sobre fondo blanco o blancas sobre fondo rojo. Sus mensajes son claros y directos dirigidos a fomentar la igualdad de género, a luchar contra los estereotipos y a reivindicar el papel femenino tanto en el mundo social como en el artístico.\n' +
+            'Más adelante trata temas que van desde el racismo hasta el sexo, el aborto o la libertad religiosa.',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwva3J1Z2VyXzIuanBnIiwicmVzaXplLDgwMCJdfQ.P0xcsjf89Q5qKrDNCCYVod853PBrHzlbNwwDPA87Ccc.jpg',
+        },
+        {
+          id: 211,
+          artist: 'Jenny Hozler',
+          name: 'Projections (2009)',
+          style: 'Arte Neoconceptual',
+          information: 'Se sirve de estrategias publicitarias para proyectar textos en el espacio público en los que formula denuncias, críticas y demandas sociales. Recurre a la ironía y a la supuesta banalidad para reformular diferentes problemas sociales.' +
+            '',
+          url: 'https://4.bp.blogspot.com/-h5Y4yMEu9WQ/WfrwP8f2AJI/AAAAAAAAkmc/KKwy09RUmVkN8Rb-33zHkGRwGHtRBlu2wCLcBGAs/s1600/JENNY-HOLZER-14.jpg',
+        },
+        {
+          id: 212,
+          artist: 'Adrian Piper',
+          name: 'Catalysis IV (1971)',
+          style: 'Arte Neoconceptual',
+          information: 'Sus trabajos conceptuales intentan plantear desde su posición de artista afroamericana, las situaciones raciales de la época, la construcción de la identidad o la xenofobia.\n' +
+            'En Catalysis IV se introduce un pañuelo blanco en la boca dejando que sobresalga parte del mismo y toma un transporte público obligando al resto de pasajeros a afrontar una situación anormal concebida como protesta. Sus obras actúan como un catalizador que desafía el orden social',
+          url: '',
+        },
+        {
+          id: 213,
+          artist: 'Damien Hirst',
+          name: 'The Physical Impossibility of Death in the Mind of Someone Living (1991)',
+          style: 'Arte Neoconceptual',
+          information: 'Hirst es uno de los artistas más influyentes del mundo. En sus obras presenta animales suspendidos en formol dentro de una vitrina. En esta expone un tiburón tigre.' +
+            '',
+          url: 'https://www.plataformadeartecontemporaneo.com/pac/wp-content/uploads/2012/04/Hirst-The-Physical-Impossibility-of-Death-in-the-Mind-of-Someone-Living-1991.jpg',
+        },
+        {
+          id: 214,
+          artist: 'Gillian Wearing',
+          name: 'I`m Desperate (1992-1993)',
+          style: 'Arte Neoconceptual',
+          information: 'Utiliza la fotografía y el vídeo para grabar confesiones de la gent común, mostrando las diferencias entre la vida pública y la privada y entre la experiencia individual y la colectiva.' +
+            '',
+          url: 'https://www.tate.org.uk/art/images/work/P/P78/P78348_9.jpg',
+        },
+        {
+          id: 215,
+          artist: 'Tracey Emin',
+          name: 'I Have Ever Slept With (1963-1995)',
+          style: 'Arte Neoconceptual',
+          information: 'Presenta un gusto por la notoriedad y el escandalo del grupo YBA, pero se interesa por mostrar su propia intimidad. Su obra consiste en una tienda de campaña adornada con los nombres de todas las personas con quienes alguna vez durmió, ya sean familiares, amigos o gente con quien mantuvo relaciones sexuales.' +
+            '',
+          url: 'https://upload.wikimedia.org/wikipedia/en/b/b9/Emin-Tent-Exterior.jpg',
+        },
+        {
+          id: 216,
+          artist: 'Liam Gillick',
+          name: 'Annlee You Proposes (2001)',
+          style: 'Arte Neoconceptual',
+          information: 'Desarrolló sus primeras obras con un método de trabajo con el que cuestionaba desde los problemas que plantea la arquitectura hasta los procedimientos de recopilación de noticias. Su trabajo es reconocido por el uso de pantallas, construcciones y plataformas translúcidas de diferentes colores que funcionan como metáforas de lugares de discusión. En este caso, el artista incluye su obra en la tradición conceptual de presentar el arte como una actividad para la comunicación y el intercambio de ideas.' +
+            '',
+          url: 'https://www.tate.org.uk/art/images/work/T/T07/T07901_10.jpg',
+        },
+        {
+          id: 217,
+          artist: 'Cildo Meireles',
+          name: 'Abajur (1997-2010)',
+          style: 'Arte Neoconceptual',
+          information: 'Sus objetos o instalaciones conducen a la ampliación de la experiencia sensorial del espectador. En sus obras y esculturas ofrece un ambiente rico en cuanto a la percepción del tiempo y del espacio. Cuestiona desde los asuntos políticos y sociales de su país hasta los generados por el propo arte.' +
+            '',
+          url: 'https://lh3.googleusercontent.com/9SAy3xT4Ihq_8-sKGi7ThzBy9FDJyD4h1lOwFMSMXGUoVoSQWJO0pT2ng6iE_2O_vA=s1200',
+        },
+        {
+          id: 218,
+          artist: '-',
+          name: 'Arte activista, político y alternativo',
+          style: '',
+          information: 'En el contexto mundial de líderes conservadores como Ronald Reagan y Margaret Thatcher se inicia un movimiento de arte postmoderno activista. Sus raíces se encuentran en el arte político de los años 60 y 70. Este nuevo arte activista no dirigía sus mensajes tanto a la lucha de clases, el belicismo o al racismo como a la crítica de las representaciones, los estereotipos étnicos, la sexualidad y los roles sociales. En norteamérica hay un mensaje contra la implicación de Estados Unidos en la Guerra de Vietnam.' +
+            '',
+          url: '',
+          title: 'Arte activista, político y alternativo',
+        },
+        {
+          id: 219,
+          artist: 'Martha Rosler',
+          name: 'First Lady (1967-1972)',
+          style: 'Arte activista, político y alternativo',
+          information: 'Emplea técnicas de fotografía, fotomontaje y video. Las series de Bringing the War Home, consta de una serie de montajes fotográficos que pretende llevar la guerra al espacio doméstico. Para ello combina imágenes procedentes de diferentes medios como la publicidad en revistas para mujeres, la pornografía y las imágenes documentales de la guerra. Difunde su obra a través de folletos y periódicos.' +
+            '',
+          url: 'https://www.moma.org/media/W1siZiIsIjIzNDI3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg?sha=a8abb56ecfe2fedds',
+        },
+        {
+          id: 220,
+          artist: 'Nancy Spero',
+          name: 'Paz, helicóptero y Cristo colgado (1968)',
+          style: 'Arte activista, político y alternativo',
+          information: 'Nancy Spero se interesó por los movimientos antibelicistas desde el arte y por el papel de la mujer en la sociedad del momento hasta que la reivindicación de la mujer en el arte y la política pasa a ser su único objetivo.' +
+            '',
+          url: 'http://2.bp.blogspot.com/_sD9yQTE5QZQ/SwL2BMCBlQI/AAAAAAAAHnM/sP9Cdd2--lw/w1200-h630-p-k-no-nu/Spero8.jpg',
+        },
         /*
         {
-          id: 1,
+          id: 2,
           artist: '',
           name: '',
           style: '',
