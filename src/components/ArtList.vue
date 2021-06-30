@@ -1905,7 +1905,7 @@ export default {
           id: 205,
           artist: 'Louise Bourgeis',
           name: 'Maman (1999)',
-          style: 'Arte Neogeo o Neobjetual',
+          style: 'Arte Neogeo o Neobjetual/Arte de género',
           information: 'Se dedicó a a crear esculturas e instalaciones transgresoras atraída por nuevos materiales e influenciada por los movimientos feministas. Sus obras se mueven entre la sexualidad, la fertilidad y la identidad de género. Sus obras están a medio camino entre lo formal y lo informe con tintes autobiográficos.' +
             '',
           url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bilbao_-_Guggenheim_28.jpg/1200px-Bilbao_-_Guggenheim_28.jpg',
@@ -2046,6 +2046,178 @@ export default {
           information: 'Nancy Spero se interesó por los movimientos antibelicistas desde el arte y por el papel de la mujer en la sociedad del momento hasta que la reivindicación de la mujer en el arte y la política pasa a ser su único objetivo.' +
             '',
           url: 'http://2.bp.blogspot.com/_sD9yQTE5QZQ/SwL2BMCBlQI/AAAAAAAAHnM/sP9Cdd2--lw/w1200-h630-p-k-no-nu/Spero8.jpg',
+        },
+        {
+          id: 221,
+          artist: 'Alfredo Jaar',
+          name: 'The Eyes of Gutete Emerita (1996)',
+          style: 'Arte activista, político y alternativo',
+          information: 'Forma parte de su Proyecto Ruanda, que busca hacer reflexionar al espectador sobre el genocidio acaecido en ese país. Los ojos de Gutete Emerita, muestra la mirada de una víctima del conflicto de Ruanda. Los pone ante los ojos de un testigo del asesinato de su propia familia y nos está mirando a nosotros. Esa interpelación nos hace cómplices de lo que ha vivido.' +
+            '',
+          url: 'https://revistacolibri.com.ar/wp-content/uploads/2018/08/the-visual-politics-of-rwanda.jpg',
+        },
+        {
+          id: 222   ,
+          artist: 'Krysztof Wodiczko',
+          name: 'Hirshhorn Museum (1988)',
+          style: 'Arte activista, político y alternativo',
+          information: 'Wodiczko ha realizado numerosas proyecciones de video o fotogradías de escala enorme sobre los muros de edificios y monumentos de todo el mundo. Con estas proyecciones invita a reflexionaar sobre las contradicciones del propio lugar. Él mismo lo denomina arte público crítico\n' +
+            'Esta obra es un videomapping que habla de algunos dirigentes evangelistas americanos que por un lado defienden el derecho a llevar armas y a defenderse pero a la vez llevan la palabra de Dios y sirven de amplificadores de ella. Convierte este edificio en una especie de persona. Existe una dualidad ya que a pesar de ser una religión y llevar la palabra de Dios muchas veces se alía con el poder para dirgir o defender matanzas a unas minorías.',
+          url: 'https://news.artnet.com/app/news-upload/2018/01/Wodiczko-Hirshhorn-Museum-1024x773.jpg',
+        },
+        {
+          id: 223,
+          artist: 'Félix González-Torres',
+          name: 'Sin Título (Cama) (1991)',
+          style: 'Arte activista, político y alternativo/Arte de género (masculino)',
+          information: 'Artista visual de origen cubano que realiza instalaciones mínimas, efímeras y técnicamente sencillas en las que invita a reflexionar sobre la construcción de la memoria colectiva y personal. En esta obra, colocó en vallas publicitarias de NY la imagen de su cama vacía con el rastro de dos cuerpos ausentes tras la muerte de su propia pareja por SIDA. Su trabajo a pesar de ser muy autobiográfico, es un reflejo de lo problemas de la sociedad.' +
+            '',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvNWM2N2ZiNTVjYWU1My5qcGciLCJyZXNpemUsODAwIl19.3GTpyAxmA0JptGCBi5t5GiBlwRbrCRDc5OHDH5q-Bs8.jpg',
+        },
+        {
+          id: 224,
+          artist: 'Guerrilla Girls',
+          name: 'Billboard for the Public Art Fund (1989)',
+          style: 'Arte activista, político y alternativo',
+          information: 'Este colectivo de mujeres artistas anónimas lleva trabajando desde 1985 en el activismo feminista. Denuncian la discriminación de la mujer y la corrupción del arte, el cine, la política y la cultura. Mediante talleres, ruedas de prensa, conferencias, performances, siempre cubiertas con una máscara de Gorila.' +
+            '',
+          url: 'https://www.tate.org.uk/art/images/work/P/P78/P78793_10.jpg',
+        },
+        {
+          id: 225,
+          artist: 'Santiago Sierra',
+          name: '3000 huecos de 180x50x50cm cada uno (1992)',
+          style: 'Arte activista, político y alternativo',
+          information: 'Trabaja la crítica social y política de una forma muy cruda. Utiliza estrategias espectaculares y controvertidas, pero muy eficaces. En sus acciones roza el límite de lo aceptable, llegando a convertir una sinagoga en una cámara de gas o tatuar una línea de 2,5 metros sobre 6 personas remuneradas.\n' +
+            'En este casó, contrató a inmigrantes del estrecho para cavar 3000 tumbas que luego se quedaban vacías. Cavaron 3000 tumbas, un número correspondiente al número de personas que perdieron la vida en el estrecho en una serie de años. Es tan interesante el resultado final como el propio proceso.',
+          url: '',
+        },
+        {
+          id: 226,
+          artist: 'Kara Walker',
+          name: 'Grub for Sharks: A concession to the Negro Populance (2004)',
+          style: 'Arte activista, político y alternativo',
+          information: 'Explora en su obra la identidad de raza, género, la sexualidad y la violencia. En esta obra nos muestra tras una aparente ingenuidad de piezas recortadas y pegadas sobre la pared, los momentos más olvidados y duros de la esclavitud. Temas como el abuso (algunos de ellos sexuales) o la violencia eran elementos más que cotidianos para ese colectivo.' +
+            '',
+          url: 'https://www.tate.org.uk/art/images/work/T/T12/T12906_294055_10.jpg',
+        },
+        {
+          id: 227,
+          artist: 'Nikki de Saint Phalle',
+          name: 'Hon-en Katedral (1996)',
+          style: 'Arte de género (femenino)',
+          information: 'Es una de las obras más emblématicas del redescubrimiento femenino. Se trata del cuerpo de mujer más grande representado en la Historia del arte Contemporáneo. Ese cuerpo se encuentra tendido y con las piernas abiertas pudiéndose acceder a su interior por la vagina y recorrer los diferentes espacios.' +
+            '',
+          url: 'https://womennart.files.wordpress.com/2018/08/imagen2-hon1.jpg?w=584',
+        },
+        {
+          id: 228,
+          artist: 'Judy Chicago',
+          name: 'Dinner Party (1979)',
+          style: 'Arte de género (femenino)',
+          information: 'Instalación que consistía en la recreación de una cena imaginaria para mujeres célebres. La mesa tiene forma de triángulo. El nombre de las invitadas aoarecen en las 999 baldosas y en los 39 manteles. En cada mantel hay una copa, un cubierto y un plato con vaginas de formas diferentes.' +
+            '',
+          url: 'https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvNWU2MzgyY2EyNWZkNS5qcGciLCJyZXNpemUsODAwIl19.5_nsLnMuygEoRj__qVUwkvIaiKZPawtblHweDm71YMk.jpg',
+        },
+        {
+          id: 229,
+          artist: 'Mary Kelly',
+          name: 'Post-Partum Document. Document IV (1976)',
+          style: 'Arte de género (femenino)',
+          information: 'Esta obra aborda la relación madre/hijo en el contexto de las teorías psicoanalíticas del desarrollo evolutivo de Jaques Lacan' +
+            '',
+          url: 'https://www.researchgate.net/publication/290233114/figure/fig5/AS:669036182511624@1536522064334/Mary-Kelly-Post-partum-Document-Documentation-IV-Transitional-objects-diary-and.png',
+        },
+        {
+          id: 230,
+          artist: 'Sophie Calle',
+          name: 'Les Dormeurs (1979)',
+          style: 'Arte de género (femenino)',
+          information: 'Transfiere actos y vivencias íntimas y personales a diferentes registros impersonales (textos, fotografías o películas). En esta obra invita a personajes anónimos que encuentra en las calles de París a dormir en su propia cama transcribiendo sus impresiones y conversaciones de forma fría, sin emoción alguna.' +
+            '',
+          url: 'http://www.artnet.com/WebServices/images/ll00161lldjQ5GFgVNECfDrCWvaHBOcvSDE/sophie-calle-les-dormeurs---patrick-x-(in-9-parts).jpg',
+        },
+        {
+          id: 231,
+          artist: 'Cindy Sherman',
+          name: 'Sex Pictures. Sex Dolls. Untitled #250 (1999)',
+          style: 'Arte de género (femenino)',
+          information: 'En sus primeras obras trata de reglejar los estereotipos femeninos de la época. En posteriores trabajos se presenta a sí misma como objeto de voyeurismo. Arte obsceno y abyecto con un potente mensaje' +
+            '',
+          url: 'https://robtownsendgm.files.wordpress.com/2016/04/untitled-250.jpg',
+        },
+        {
+          id: 232,
+          artist: 'Zoé Leonard',
+          name: 'Vagina I (1992)',
+          style: 'Arte de género (femenino)',
+          information: 'Utiliza fotografías en blanco y negro para denunciar el papel femenino en la sociedad occidental. En esta Vagina I se apropia de de la obra de Coubert para colgar imágenes de vaginas entre retratos pictóricos de damas de la alta sociedad del XVII colgados en un palacio barroco. Pretende mostrar la "verdadera" exhibición del cuerpo femenino frente a las representaciones tradicionales.' +
+            '',
+          url: 'data:image/jpeg;base64,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',
+        },
+        {
+          id: 233,
+          artist: 'Tania Burguera',
+          name: 'El Peso de la Culpa (1997)',
+          style: 'Arte de género (femenino)',
+          information: 'Encarna la actitud feminista política reacia a las prácticas intimistas. En esta acción, la artista comió tierra ligada con agua y sal llevando un carnero muerto colgando al cuello, enteramente desnuda delante de una bandera cubana hecha con cabello humano por ella misma.' +
+            '',
+          url: 'https://d32dm0rphc51dk.cloudfront.net/7pM9pEOFOrjEkQXjn7MZJw/large.jpg',
+        },
+        {
+          id: 234,
+          artist: 'Robert Gober',
+          name: 'Untitled (leg) (1989-1990)',
+          style: 'Arte de género (masculino)',
+          information: 'Crea escultura reproduciendo objetos domésticos y familiares como modelo (puertas, urinarios, lavabos...). Sus obras son meticulosas y artesanalmente realizadas. No sólo reproduce estos objetos sino que establece conexiones entre ellos y el cuerpo humano a través de los nombres de las piezas.\n' +
+            'Más adelante empieza a trabajar directamente con partes de anatomía humana, piernas o torsos modelados en yeso, cera y pelo natural. Al colocarlos colgando del techo o entrando en las paredes acentúa la sensación de violencia y de exclusión.',
+          url: 'https://www.moma.org/media/W1siZiIsIjY2MjE0Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d.jpg?sha=3b66416006226fc2',
+        },
+        {
+          id: 235,
+          artist: 'Mathew Barney',
+          name: 'Cremaster (1994-1997)',
+          style: 'Arte de género (masculino)',
+          information: 'Se interesa por la anatomía y los cuerpos representando seres inexistentes, a medio camino entre lo masculino y lo femenino o entre lo biológico y lo mecánico. En sus videos-performances se transforma en animal mitológico o se traviste de mujer en un ambiente complejo y extraño.' +
+            '',
+          url: 'https://www.alejandradeargos.com/images/Matthew_Barney/15_Cremaster_2.jpg',
+        },
+        {
+          id: 236,
+          artist: '-',
+          name: 'Arte Relacional',
+          style: '',
+          information: 'Término acuñado para distinguir el arte de los 90 del producido anteriormente. Estos años, la sociedad se enfrentaba a tres coyunturas: la caída del muro de Berlín, la rápida y masiva implantación de los ordenadores y la aparición de internet y los desarrollos propios y cuestionamientos sociales de la propia práctica artística.\n' +
+            'Las relaciones personales sufrían de crisis y aislamiento, por lo que la imperiosa respuesta de algunos artistas consistió en generar propuestas que tenían como rpemisa las relaciones humanas, el encuentro, la proximidad y la interacción. Lo relacional está ligado a la acción, por eso se encuentra una hibridación entre las artes plásticas, la música y la danza, cine o teatro.',
+          url: '',
+          title: 'Arte Relacional',
+        },
+        {
+          id: 237,
+          artist: 'Rirkrit Tiravanija',
+          name: 'Pad Thai ())1990)',
+          style: 'Arte Relacional',
+          information: 'Este artista realica instalaciones donde invita a los espectadores a compartir la experiencia de comer, cocinar, leer o escuchar música. En este caso invita al público a participar de la comida tradicional tailandesa sirviendo comida a todos los asistentes. Pretende crear la estructura para el intercambio, la interacción y la socialización' +
+            '',
+          url: 'http://www.zoilus.com/rirkritTiravanija.jpg',
+        },
+        {
+          id: 238,
+          artist: 'Vanessa Beecroft',
+          name: 'VB46 (2011)',
+          style: 'Arte Relacional',
+          information: 'Trabaja en el arte de acción implicando a modelos femeninos medio desnudos con el público participando. Así incita a la provocación y el voyeurismo mostrando mujeres cosificadas, desnudas y unificadas a través de un hilo conductor que permanecen inmóviles e inaccesibles mientras los espectadores las observan. Cada acción intenta que contenga elementos y problemátias socio políticas específicas del lugar donde se realiza la obra. Los vídeos y las fotografías de la preparación de sus acciones sirven tanto de documentación como de obra autónoma' +
+            '',
+          url: 'https://i.pinimg.com/originals/c5/56/2d/c5562d46d98c329cb665c307c8ab5b26.jpg',
+        },
+        {
+          id: 239,
+          artist: 'Maurizio Cattelan',
+          name: 'La Nona Ora (1999)',
+          style: 'Arte Relacional',
+          information: 'Su trabajo se burla del orden social establecido a través del humor negro y la ironía, con lo que consigue establecer relaciones de complicidad con el espectador. En La Nona Ora, la escultura realista del Papa Juan Pablo II es aplastada por un meteorito. Delante de la figura aparecen unos cristales rotos que simbolizan la fragilidad de la vida' +
+            '',
+          url: 'https://farmacon.files.wordpress.com/2015/09/la-nona-ora.jpg',
         },
         /*
         {
