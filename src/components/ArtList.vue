@@ -1418,7 +1418,7 @@ export default {
           id: 152,
           artist: 'Robert Smithson',
           name: 'Spiral Jetty (1970)',
-          style: 'Land Art',
+          style: 'Land Art/Arte Urbano',
           information: 'Smithson se interesó sobretodo en la transformación de espacios naturales en obras de carácter artístico. Sus intervenciones efímeras necesitaban ser documentadas. Spiral Jetty es una esperal de tierra y pedras creada en las aguas del Great Salt Lake de Utah. La espiral corresponde al minimalismo así como recuerda a las formas iconográficas místicas de la prehistoria.' +
             '',
           url: 'https://masdearte.com/media/n_spiraljetty.jpg',
@@ -2195,7 +2195,7 @@ export default {
         {
           id: 237,
           artist: 'Rirkrit Tiravanija',
-          name: 'Pad Thai ())1990)',
+          name: 'Pad Thai (1990)',
           style: 'Arte Relacional',
           information: 'Este artista realica instalaciones donde invita a los espectadores a compartir la experiencia de comer, cocinar, leer o escuchar música. En este caso invita al público a participar de la comida tradicional tailandesa sirviendo comida a todos los asistentes. Pretende crear la estructura para el intercambio, la interacción y la socialización' +
             '',
@@ -2218,6 +2218,391 @@ export default {
           information: 'Su trabajo se burla del orden social establecido a través del humor negro y la ironía, con lo que consigue establecer relaciones de complicidad con el espectador. En La Nona Ora, la escultura realista del Papa Juan Pablo II es aplastada por un meteorito. Delante de la figura aparecen unos cristales rotos que simbolizan la fragilidad de la vida' +
             '',
           url: 'https://farmacon.files.wordpress.com/2015/09/la-nona-ora.jpg',
+        },
+        {
+          id: 240,
+          artist: '-',
+          name: 'Neofotografía',
+          style: '',
+          information: 'La fotografía supuso una revolución en el mundo de arte, ya que fue el único medio camaz de enfrentar los conceptos que habían sustentado gran parte del discurso artístico: la unicidad y la originalidad del arte. La inmovilidad de la foto provoca una confusión perversa entre lo real y lo viviente.' +
+            '',
+          url: '',
+          title: 'Neofotografía'
+        },
+        {
+          id: 241,
+          artist: 'Andreas Gursky',
+          name: 'Library (1999)',
+          style: 'Neofotografía',
+          information: 'Utiliza grandes formatos con una composición rigurosa y una sofisticación cromática que usa para establecer un diálogo con motivos y géneros extraídos de la historia de la pintura. En su obra juega con la repetición mediante la acumulación de ojetos similares que mantienen un orden implícito. Con la llegada de la manipulación digital, crea mundos inventados que el espectador es capaz de reconocer.' +
+            '',
+          url: 'https://www.guggenheim.org/wp-content/uploads/1999/01/99.5305_ph_web-1.jpg',
+        },
+        {
+          id: 242,
+          artist: 'Thomas Ruff',
+          name: 'Girl with flower shirt (1987)',
+          style: 'Neofotografía',
+          information: 'Utiliza una cámar de gran formato para realizar una serie de retratos a los que es imposible realizar un acercamiento sensible y emocional del espectador. En sus imágenes adopta una estética fría, una mirada neutral pero técnicamente impecables con un grandioso nivel de detalle y usando la manipulación digital para eliminar lo superfluo.' +
+            '',
+          url: 'https://www.we-find-wildness.com/wp-content/uploads/2011/07/01.jpg',
+        },
+        {
+          id: 243,
+          artist: 'Thomas Struth',
+          name: 'Crosby Street, Soho, New York (1978)',
+          style: 'Neofotografía',
+          information: 'Empezó fotograiando paisajes urbanos sin seres humanos, objetivos, imperonales y distantes. A partir de los 90, comienza a retratar el interior de museos y ampliar las fotos a gran formato. Hace uso de una composición, un encuadre y un punto de vista eminentemente pictóricos.' +
+            '',
+          url: 'https://www.hoyesarte.com/wp-content/uploads/2019/10/Struth_Crosby-Street.jpg',
+        },
+        {
+          id: 244,
+          artist: 'Nan Goldin',
+          name: '¿?',
+          style: 'Neofotografía',
+          information: 'Planteo un discurso corporal con una narración de la vida sentimental y sexual de ambientes marginales con dosis de violencia y ternura a partes iguales. Ante sus imágenes el espectador se siente como un voyeur invitado a entrar en la vida sentimental y sexual de personajes con toda su crudeza' +
+            '',
+          url: 'https://video-images.vice.com/_uncategorized/1522074420881-1.jpeg',
+        },
+        {
+          id: 245,
+          artist: 'Jeff Wall',
+          name: 'A Sudden Gust of Wind (1993)',
+          style: 'Neofotografía',
+          information: 'Utiliza cajas de luz de gran formato iluminadas por tubos fluorescentes que a modo de paneles de publicidad, muestran paisajes y escenas urbanas aparentemente banales aunque con una fuerte carga de crítica social (como violencia urbana, conflictos de género o raza). Sus composiciones son planificadas y cuidadas hasta el más mínimo detalle, como si de una escena cinematográfica se tratara.' +
+            '',
+          url: 'https://albedomedia.com/wp-content/uploads/una-imagen-mil-palabras-jeff-wall-sudden-gust-wind-after-hokusai-1993/una-imagen-mil-palabras-jeff-wall-sudden-gust-wind-after-hokusai-1993-01-web-1280x790.jpg',
+        },
+        {
+          id: 246,
+          artist: 'Tracey Moffatt',
+          name: 'Something More (1989)',
+          style: 'Neofotografía',
+          information: 'Es una artista australiana aborigen. Sus trabajos tienen un alto contenido autobiográfico y se centra en el desarraigo y la discriminación de su comunidad de origen, la propia identidad racial, las relaciones de poder y la posición de la mujer.' +
+            '',
+          url: 'https://www.deutscherandhackett.com/sites/default/files/styles/width_2000/public/lot/image/TRACEY%20MOFFATT%2C%20SOMETHING%20MORE%2C%201989-17552.jpg?itok=ydtNOlxy',
+        },
+        {
+          id: 247,
+          artist: 'Rineke Dijkstra',
+          name: '',
+          style: 'Neofotografía',
+          information: 'Especializada en el retrato, realiza composiciones clásicas, austeras y puntos de vista prácticamente idénticos. Documenta los momentos importanto de tránsito en la vidas de las personas.' +
+            '',
+          url: 'https://i.pinimg.com/236x/58/a5/f5/58a5f540e436cf95adf1a3655fe5680d--beach-portraits-body-photography.jpg',
+        },
+        {
+          id: 248,
+          artist: 'Pierre Gonnord',
+          name: 'Senén (2009)',
+          style: 'Neofotografía',
+          information: 'Este fotógrafo francés se ha especializado en realizar retratos en primer plano de personajes marginados o marginales: desde vagabundos a presos o miembros de tribus urbanas.' +
+            '',
+          url: 'https://centrodearte.alcobendas.org/uploads/20160613/SENEN_Gonnord_ampliada.png',
+        },
+        {
+          id: 249,
+          artist: 'Yasumasa Morimura',
+          name: 'Exchange of devouring (2004)',
+          style: 'Neofotografía',
+          information: 'Se le reconoce por sus fotografías escenigficadas en las que se sirve de la apropiación de imágenes clásicas del arte occidental para reinterpretarlas dándoles un nuevo significado. El propio artista es convenientemente transformado y es el protagonista de su obra dual y ambigua.' +
+            '',
+          url: 'https://d32dm0rphc51dk.cloudfront.net/-Va7e6MN_hEd-eL0xnlnyQ/large.jpg',
+        },
+        {
+          id: 250,
+          artist: 'Vik Muniz',
+          name: 'Che (Frijoles Negros), a la manera de Alberto Korda (2000)',
+          style: 'Neofotografía',
+          information: 'El artista brasileño se sirve del apropiacionismo para recrear composiciones a partir de obras de arte clásicas o imágenes icónicas con alimentos de chocolate o desperdicios a las que luego fotografía.' +
+            '',
+          url: 'https://www.plataformadeartecontemporaneo.com/pac/wp-content/uploads/2014/02/10..-Che_Frijoles_negros_segun_Alberto_Korda.jpg',
+        },
+        {
+          id: 251,
+          artist: 'Joan Fontcuberta',
+          name: 'Sputnik (1997)',
+          style: 'Neofotografía',
+          information: 'Su trabajo se centra en cuestionar la verdad que se otorga a las imágenes fotográficas como reflejo fiel de la realidad. La fotografía es una ficción que se presenta y se da por hecho como verdadera.' +
+            '',
+          url: 'https://www.juanmagonzalez.com/fontcuberta/images/1997/work_fontcuberta_sputnik_01_1926.jpg',
+        },
+        {
+          id: 252,
+          artist: 'Chema Madox',
+          name: 'Sin título (1992)',
+          style: 'Neofotografía',
+          information: 'Crea en el espectador la necesidad de reflexionar y crear nuevas miradas y pensamientos sobre imágnees y objetos enmarcados dentro de una poética visual surrealista. Poesía visual' +
+            '',
+          url: 'https://static3.museoreinasofia.es/sites/default/files/obras/DE01692.jpg',
+        },
+        {
+          id: 253,
+          artist: 'Roni Horn',
+          name: 'From Still Water (1999)',
+          style: 'Neofotografía',
+          information: 'Su trabajo sigue una vía personal desde Islandia. En él, le lleva a explorar la naturaleza múltiples de las cosas. Su obra es sutil y requiere la inmersión del espectador al mundo que plantea' +
+            '',
+          url: 'https://www.timothytaylor.com/site/assets/files/17601/t002159-image.jpg',
+        },
+        {
+          id: 254,
+          artist: 'Wolfgang Tillmas',
+          name: 'Lady Gaga (1997)',
+          style: 'Neofotografía',
+          information: 'En sus exposiciones mezcla imágenes obtenidas mediante una cámara fotográfica con otras procedentes de fotocopiadoras o cualquier otro medio de reproducción gráfica. Sus temas van desde retratos hasta bodegones y paisajes en los que trabaja con un color sucio y realista.' +
+            '',
+          url: 'https://pbs.twimg.com/media/DSjSmubWkAAGnd4.jpg',
+        },
+        {
+          id: 255,
+          artist: '-',
+          name: 'Videoarte y Videoinstalación',
+          style: '',
+          information: 'El videoarte se popularizó a partir de los años 60 debio a una sociedad dominada por los medios de comunicación. La imagen del movimiento llegó a la mayoría de familias por medio de la televisión. La relevancia de los medios no está en ser transmisores neutros de mensajeso información, si no en el impacto que ocasionan en nuestra reación con los otros y con el mundo que nos rodea.\n' +
+            'En sus orígenes había dos tipos de prácticas de videoarte, los documentales rodados porperiodistas alternativos y los vídeos artísticos. El origen del Videoarte se encuentra cuando rodó la comitiva del Papa que llegó a su país. Las virtudes del videoarte son su inmediatez, su bajo coste y su espontaneidad.\n' +
+            'En este movimiento se unen varias artistas que comienzan a tratar temas de idantidad de género, cuestionando el papel de la mujer en el cine, la televisión o la industria pornográfica y reivindicando su papel en el arte y la sociedad.',
+          url: '',
+          title: 'Videoarte y Videoinstalación'
+        },
+        {
+          id: 256,
+          artist: 'John Baldessari',
+          name: 'I`m making art (1971)',
+          style: 'Videoarte',
+          information: 'Esta obra, aunque rudimentariamente rodada es rigurosa en su concepto. El artista repite delante de la cámara, de forma monótona durante 18 minutos, la frase I`m making art' +
+            '',
+          url: 'https://www.vdb.org/sites/default/files/clip_images/IAMMAKINGA.jpg',
+        },
+        {
+          id: 257,
+          artist: 'Vito Aconci',
+          name: 'Theme Song (1973)',
+          style: 'Videoarte',
+          information: 'Sus trabajos experimentales, como este Theme Song, son vídeoperformances narcisistas en los que el autor se graba a sí mismo mirando a la cámara intentando atrapar al espectador en su discurso. En este caso, tumbado en el suelo mientras se fuma un cigarrillo no para de repetir "te quiero dentro de mí"' +
+            '',
+          url: 'https://www.xibtmagazine.com/wp-content/uploads/2017/11/2.jpg',
+        },
+        {
+          id: 258,
+          artist: 'Bruce Nauman',
+          name: 'Wall/Floor positions (1968)',
+          style: 'Videoarte',
+          information: 'Videoarte performativo en el artista te invita a introducirse en el estudio mientras el cuerpo de este se convierte en material escultórico que dialoga con el espacio.' +
+            '',
+          url: 'https://img.macba.cat/public/styles/obra_ficha/public/imagenes/obras/2878_001_l.jpg?itok=mSp1RTde&timestamp=1577371535',
+        },
+        {
+          id: 259,
+          artist: 'Joan Jonas',
+          name: 'Disturbances',
+          style: 'Videoarte',
+          information: 'Enfoca la cámara sobre sí misma alterando la perspectiva convencional y creando una personal escenografía feminista. En este caso se muestra a una muejr nadando en silencio por debajo del reflejo de otra mujer.' +
+            '',
+          url: 'https://images.mubicdn.net/images/film/113581/cache-90513-1445946266/image-w1280.jpg?size=800x',
+        },
+        {
+          id: 260,
+          artist: 'Dara Birnbaum',
+          name: 'Technology/Transformation: Wonder Woman',
+          style: 'Videoarte',
+          information: 'La artista manipula imágenes para poner en manifiesto la cara oculta del discurso oficial en relación al papel femenino. En esta obra, se dedica a deconstruir el mito de ama de casa cimentado en la serie de Wonder Woman.' +
+            '',
+          url: '',
+        },
+        {
+          id: 261,
+          artist: 'Gary Hill',
+          name: 'Remembering Paralinguay (2000)',
+          style: 'Videoinstalación',
+          information: 'Gary Hill es uno de los primeros videoartistas y uno de los precursores de la videoinstalación. En este caso trabaja con el reconocimiento del espacio fuera del monitor. En las instalaciones, la manipulación del tiempo y del espacio se multiplican al disponer de diferentes monitores o superficies donde proyectar y varias cintas o fuentes de imágenes y contenido.\n' +
+            'Es donde el papel del espectador se reconvierte siendo no solo el observador si no el observado. Incluso en algunas experiencias se convierte en el sujeto de la obra',
+          url: 'http://garyhill.com/wp-content/uploads/2017/09/Remembering-Paralinguay_4-800x600.jpg',
+        },
+        {
+          id: 262,
+          artist: 'Bill Viola',
+          name: 'The Messenger (1996)',
+          style: 'Videoinstalación',
+          information: 'Es considerada como una de las figuras más influyentes del videoarte. Con una temática que abarca desde la esperitualidad hasta la trascendencia de la condición humana, empleando proyecciones d gran formato y un altísimo sonido que envuelven al espectador. En sus obras consigue que tanto la imagen como el sonido tengan la misma importancia.' +
+            '',
+          url: 'https://www.guggenheim.org/wp-content/uploads/1996/01/2000.60_ph_web-1.jpg',
+        },
+        {
+          id: 263,
+          artist: 'Tony Oursler',
+          name: 'Switch Director (2011)',
+          style: 'Videoinstalación',
+          information: 'Oursler se interesa por la identidad del espectador, realizando instalaciones que incluyen esculturas realizadas con objetos cotidianos y proyecciones de caras que interpelan al espectador, sobre diferentes soportes, a veces sobre óvalos o cabezas cosidas que funcionan a modo de pantalla' +
+            '',
+          url: 'https://malagaslowguide.com/wp-content/uploads/2016/01/oursler-switch-director.jpg',
+        },
+        {
+          id: 264,
+          artist: 'Mona Hatoum',
+          name: 'Corps étranger (1994)',
+          style: 'Videoinstalación',
+          information: 'Hatoum se introdujo una cámara diminuta en el cuerpo y proyectó el interior del mismo en una estructura parecida a un globo ocular situado en el sueño de una estancia por la que el público podía moverse libremente' +
+            '',
+          url: 'https://img.culturacolectiva.com/content/2013/12/Mona-Hatoum.jpeg',
+        },
+        {
+          id: 265,
+          artist: 'Pippilotti Rist',
+          name: 'Ever Is Over All (1997)',
+          style: 'Videoinstalación',
+          information: 'La artista ha abundado en el tema de la identidad feminina. Su obra desborda color e intensidad lo que provoca un efecto de extrañeza y ambigüedad en el espectador' +
+            '',
+          url: 'https://i.ytimg.com/vi/IDydC2EYVDo/maxresdefault.jpg',
+        },
+        {
+          id: 266,
+          artist: 'Marina Abramovic',
+          name: 'Balkan Baroque (1997)',
+          style: 'Videoinstalación',
+          information: 'Utiliza un video en tres canales proyectados en sendas pantallas tratando el conflicto bélico de los Balcanes. La instalación es completada con elementos tomados de lo real como huesos de vaca, fregaderos de cobre, bañera llena de agua negra, cubos, jabón, cepillos, vestidos manchados de sangre....' +
+            '',
+          url: 'https://i1.wp.com/www.dilettantearmy.com/wp-content/uploads/2013/08/Balkan-Baroque.jpg',
+        },
+        {
+          id: 267,
+          artist: 'Shirin Neshat',
+          name: 'Turbulent (1998)',
+          style: 'Videoinstalación',
+          information: 'Cuestiona las desiguales relaciones culturales y religiosas entre hobres y mujeres en su país natal, IRán. Enfrenta dos proyecciones en paredes opuestas, en una de ellas un hombre canta para un público masculino entusiasta, en la otra una mujer hace o mismo, de espaldas, envuelta en su chador hacia un auditorio vacío. Se aprecia la dualidad en estas proyecciones coordinadas al mismo tiempo, luz-oscuridad, blanco-negro, masculino-femenino.' +
+            '',
+          url: 'https://proyector.info/wp-content/uploads/2020/03/Shirin-Neshat-Turbulent-1998.jpg',
+        },
+        {
+          id: 268,
+          artist: '-',
+          name: 'Arte Sonoro',
+          style: '',
+          information: 'Se refiere a aquellas obras artísticas que utilizan el sonido como vehículo principal de expresión. La mayoría de las obras son intermedia, utilizan diferentes lenguajes artísticos que interactúan y aportan una dimensión temporal a la experiencia plástica\n' +
+            'Existen numerosas manifestaciones de arte sonoro como la poesía fonética, performances sonoras, radio-arte, etc. Manifestaciones estrictas de música contemporánea quedarían fuera de este apartado',
+          url: '',
+          title: 'Arte Sonoro'
+        },
+        {
+          id: 269,
+          artist: 'Rolf Julius',
+          name: 'Small music - Les Bains-Douches (2015)',
+          style: 'Arte Sonoro',
+          information: 'Su método consiste en grabar sonidos cotidianos para colocarlos en contextos y escenarios inusuales intentando crear un espacio pictórico. El sonido se utiliza para cambiar la percepción del espectador. Consigue que el sonido se introduzca dentro de él.' +
+            '',
+          url: 'https://ilinfernodotcom.files.wordpress.com/2015/02/rolf_julius-1203878708.jpg',
+        },
+        {
+          id: 270,
+          artist: 'Llorenç Barber',
+          name: 'Campanario en Pontevedra (2015)',
+          style: 'Arte Sonoro',
+          information: 'En su propuesta de música plurifocal y sus Conciertos de ciudad pone en servicio de la obra todas las camnpanas del municipio. La idea es ir generando una situación perceptiva en la ciudad haciendo que esas campanas suene, por lo que es como si la ciudad sonora. En este caso la percepción del espectador es modificada. En este caso las campanas son más reducidas y podríamos hablar de una simbiosis entre la escultura y el sonido' +
+            '',
+          url: 'https://4.bp.blogspot.com/-w6gzAab4j10/UFit2f_vreI/AAAAAAAAA-o/6PIyS4U97uQ/s280/LLORENC_BARBER_1.jpg',
+        },
+        {
+          id: 271,
+          artist: 'Christina Kubish',
+          name: 'Electrical Walks (2009)',
+          style: 'Arte Sonoro',
+          information: 'En sus instalaciones busca generar sonidos y música en lugares u objetos donde los espectadores no esperarían encontrarlos. Esta obra se trata de caminatas públicas en la que los participantes se les dan unos auriculares wireless y un mapa que permiten percibir las diferentes cualidades acústicas de los campos electromagnéticos por donde pasan y por consiguiente, dibujar diferentes rutas donde se encuentran los sonidos más interesantes.' +
+            '',
+          url: 'https://espaciosonante.files.wordpress.com/2018/09/2006birmingham.jpg?w=860',
+        },
+        {
+          id: 272,
+          artist: 'Susan Philipsz',
+          name: 'Lowlands (2008/2010)',
+          style: 'Arte Sonoro',
+          information: 'Construye ambientes mediante la utilización del sonido trabajando a partir de la memoria y las emociones que los sonidos producen en cada espectador. Invitando a la reflexión, la contemplación y la introspección. Esta instalación la realiza en un río de Escocia. La pieza consiste en una grabación propia cantando una canción tradicional escocesa reproducida en los altavoces a lo largo del río, fundiéndose con los sonidos ambientales. El sonido envuelve al espectador en una sensación onírica y fantasmal.' +
+            '',
+          url: 'https://www.tate.org.uk/sites/default/files/styles/width-340/public/images/susan_philipsz_lowlands_0.jpg',
+        },
+        {
+          id: 273,
+          artist: '-',
+          name: 'Art Net',
+          style: '',
+          information: 'Es un término que se refiere a a aquellas prácticas artísticas creadas específicamente para difundirse por la red. Es una forma de arte interactivo habilitada por los soportes digitales y las prácticas comunicativas generadas por ellos' +
+            '',
+          url: '',
+          title: 'Art Net'
+        },
+        {
+          id: 274,
+          artist: '-',
+          name: '',
+          style: 'Nuevas Realidades Multiculturales',
+          information: 'Con internet y la conexión globalizada e hiperinformada nos hace estar muy interesados en ver cómo en otras culturas resuelven los mismos problemas que nosotros, nos ofrecen nuevos puntos de vista, etc en las artes plásticas. El mestizaje cultural y la hibridación van posibilitando diferentes formas de arte.\n' +
+            '',
+          url: '',
+          title: 'Nuevas Realidades Multiculturales'
+        },
+        {
+          id: 275,
+          artist: 'Jimmie Durham',
+          name: 'Malinche (1988)',
+          style: 'Nuevas Realidades Multiculturales',
+          information: 'Artista nativo norteamericano crea obras escultóricas con motivos norteamericanos. Una mezcla de elementos dispares con esa mezcla de la cultura nativa norteamircana con algo más occidental' +
+            '',
+          url: 'https://s3.amazonaws.com/files.collageplatform.com.prod/image_cache/swiper_thumbnails/5ee8d205bd3ab4ab008b4568/1f1133167737a5662ae515095488eceb.jpg',
+        },
+        {
+          id: 276,
+          artist: 'Kcho',
+          name: 'R.E.C. (Rectifying the Course) (2006)',
+          style: 'Nuevas Realidades Multiculturales',
+          information: 'Realiza piezas escultóricas basadas en los balseros cubanos que huían a Miami. Introduce diferentes formas de ver y percibir.' +
+            '',
+          url: 'https://i.pinimg.com/originals/b1/b2/63/b1b263d40922b51cdeb031bcc47c66f1.jpg',
+        },
+        {
+          id: 278,
+          artist: 'Guillermo Kuitca',
+          name: 'Untitled (1992)',
+          style: 'Nuevas Realidades Multiculturales',
+          information: 'Diferentes texturas sobre colchones que crean diferentes elementos perceptivos sobre colchones de skay' +
+            '',
+          url: 'http://1.bp.blogspot.com/-XJG5hwup5C4/T2KvtwhhqlI/AAAAAAAAAQo/MTDV0ZCpkXg/s1600/P1000815.JPG',
+        },
+        {
+          id: 279,
+          artist: 'Mariko Mori',
+          name: 'Oneness (2011)',
+          style: 'Nuevas Realidades Multiculturales',
+          information: 'Genera diferentes formas de crear esculturas o espacios donde el espectador puede introducirse o interactuar pero con formas muy japonesas. Como sacadas del manga.' +
+            '',
+          url: 'http://3.bp.blogspot.com/_kJdTIlO-GNA/R4p1zMvGv7I/AAAAAAAAB7E/rf41p4oNQ3k/s400/MarikoMori30.jpg',
+        },
+        {
+          id: 280,
+          artist: 'Cai Guo-Qiang',
+          name: 'Herencia (2013)',
+          style: 'Nuevas Realidades Multiculturales',
+          information: 'Una sucesión de lobos disecados se estrellan contra un cristal de metacrilato. Es una forma diferente de realizar una escultura de una perspectiva totalmente diferente.' +
+            '',
+          url: 'https://www.alejandradeargos.com/images/Entrevista_Cai/2009_HeadOn_1237_Bilbao_004h.jpg',
+        },
+        {
+          id: 281,
+          artist: 'Ai Weiwei',
+          name: 'Triptych Dropping a Han Dynasty Urn (1995)',
+          style: 'Nuevas Realidades Multiculturales',
+          information: 'Tríptico fotográfico dejando caer un jarrón de la dinastía Han carísimo y lo deja caer en el suelo. Aquí hay una ruptura con la tradición, los cánones y los elementos morales al destrozar una obra de arte siendo un artista.' +
+            '',
+          url: 'https://i.pinimg.com/originals/be/23/f6/be23f652eda0f256fb01a32c7256a7db.jpg',
+        },
+        {
+          id: 282,
+          artist: '-',
+          name: 'Arte Urbano',
+          style: '',
+          information: 'El arte urbano abarca distintas prácticas cuya finalidad es intervenir, incidir o interactura en el ámbito de lo público. El Arte Público tiene unas características como su bajo coste, su reproductibilidad, su caracter efímero, su portabilidad.... para disputar los poderes económicos y mediáticos la titularidad sobre la producción del imaginario común.' +
+            '',
+          url: '',
+          title: 'Arte Urbano'
         },
         /*
         {
