@@ -40,7 +40,7 @@ export default {
           artist: 'Paul Cézanne',
           name: 'Naturaleza muerta (1879-1880)',
           style: 'Postimpresionismo',
-          information: 'Se nota la marca pesadade sus pinceladas paralelas. Si nos fijamos, por ejemplo, en esta naturaleza muerta, observamos como las frutas no descansan una encima de otra, ni sobre la mesa, sino que más bien parecen superponerse sobre un plano invisible y vertical que las acerca al espectador. Podemos observar como los unifican, planos sino no que se se superponen, un ejemplo del nuevo lenguaje pictórico sobre Naturaleza muerta. Cezanne trabaja con la forma y se aleja del sentimiento. Se centra más en la composición y el dibujo y no tanto en la mancha de color, dando importancia al volumen, contorno y forma.',
+          information: 'Se nota la marca pesada de sus pinceladas paralelas. Si nos fijamos, por ejemplo, en esta naturaleza muerta, observamos como las frutas no descansan una encima de otra, ni sobre la mesa, sino que más bien parecen superponerse sobre un plano invisible y vertical que las acerca al espectador. Podemos observar como los unifican, planos sino no que se se superponen, un ejemplo del nuevo lenguaje pictórico sobre Naturaleza muerta. Cezanne trabaja con la forma y se aleja del sentimiento. Se centra más en la composición y el dibujo y no tanto en la mancha de color, dando importancia al volumen, contorno y forma.',
           url: 'https://64.media.tumblr.com/8e834e10e9c4d09f8aa204a8c345ef9b/tumblr_ng6fjep6Ut1qfcut3o1_1280.jpg',
         },
         {
@@ -461,7 +461,7 @@ export default {
           id: 47,
           artist: 'Wassily Kandinsky',
           name: 'Houses in Murnau on Obermarkt (1908)',
-          style: 'Expresionista (Der Blaue Reiter)',
+          style: 'Expresionismo (Der Blaue Reiter)',
           information: 'Der Blaue Reiter (el jinete azul): Fundado por Kandinsky y Marc. Al igual que Die Brükce, se interesa por representar el mundo interior. Pero a diferencia de sus predecesores no buscan la estética primitiva ni lo instintivo del ser humano, sino la representación de un mundo más espiritual. Dejan de lado poco a poco lo figurativo para representar el espíritu por medio de la abstracción\n' +
             '',
           url: 'https://www.wassilykandinsky.net/images/works/86.jpg',
@@ -470,7 +470,7 @@ export default {
           id: 48,
           artist: 'Franz Marc',
           name: 'La vaca amarilla (1911)',
-          style: 'Expresionista (Der Blaue Reiter)',
+          style: 'Expresionismo (Der Blaue Reiter)',
           information: 'Der Blaue Reiter (el jinete azul): Fundado por Kandinsky y Marc. Al igual que Die Brükce, se interesa por representar el mundo interior. Pero a diferencia de sus predecesores no buscan la estética primitiva ni lo instintivo del ser humano, sino la representación de un mundo más espiritual. Dejan de lado poco a poco lo figurativo para representar el espíritu por medio de la abstracción\n' +
             '',
           url: 'https://www.wassilykandinsky.net/images/works/86.jpg',
@@ -508,7 +508,7 @@ export default {
           name: 'Neoimpresionismo',
           style: '',
           information: 'Fue fundado por George Seurat. Su formación como dibujante le llevara a desarrollar composiciones donde prima la estabilidad, el equilibrio de contención de las formas y las figuras estáticas. Siguiendo los pasos de Cezanne, se alejaba de la espontaneidad impresionista trabajand con una pincelada controlada.\n' +
-            'Al contrario que Cezanne, no se caracterizaba por las pinceladas paralelas, si no que desarrolla el divisionismo, con el que representaba formas por medio de pequeños puntos de color con el que el pintor intentaba crear una mezcla óptica de pigmentos en la retina del espectador (puntillismo)',
+            'Al contrario que Cezanne, no se caracterizaba por las pinceladas paralelas, si no que desarrolla el divisionismo, con el que representaba formas por medio de pequeños puntos de color con el que el pintor intentaba crear una mezcla óptica de pigmentos en la retina del espectador (divisionismo opuntillismo)',
           url: '',
           title: 'Neoimpresionismo'
         },
@@ -618,7 +618,7 @@ export default {
           artist: '-',
           name: 'Dadaismo',
           style: '',
-          information: 'Paralelamente se empezaron a crear dos grupos, uno en Suiza (Hugo Ball, Tristán Tzara, Hans Arp) y otro en Nueva York (Marcel Duschamp y Francis Picabia) con los mismos intereses.\n' +
+          information: 'Paralelamente se empezaron a crear dos grupos, uno en Suiza (Hugo Ball, Tristán Tzara, Hans Arp) y otro en Nueva York (Marcel Duchamp y Francis Picabia) con los mismos intereses.\n' +
             'El Dadaísmo fue un movimiento ideológico que buscaba a través de la provocación, despertar a una población a raíz de la Primera Guerra Mundial. Buscaban eliminar la obra maestra y que fuera la mirada del espectador la que fuese la creadora de la obra de arte.',
           url: '',
           title: 'dadaismo'
@@ -1072,7 +1072,7 @@ export default {
         },
         {
           id: 115,
-          artist: 'Roy Lichtensteiin',
+          artist: 'Roy Lichtenstein',
           name: 'Whaam! (1963)',
           style: 'Pop Art',
           information: 'Los cuadros de este autor senormes cuadros realizados a mano a partir de imágenes tomadas del cómic utilizando la técnica del tramado y los colores brillantes de su impresión original. Sus temas y composiciones aparecen como triviales y desindividualizadas.' +
@@ -1784,7 +1784,7 @@ export default {
         },
         {
           id: 192,
-          artist: 'Jean Michek Basquiat',
+          artist: 'Jean Michel Basquiat',
           name: 'Profit I (1982)',
           style: 'Graffiti',
           information: 'Con una carrera artística meteórica (murió a los 27) pasó de los comienzos más marginales a tener relación artística con Warhol. Comenzó formando mensajes crípticos bajo el pseudónimo de SAMO pero pronto sintió una atracción por el dominio gestual de algunos artistas del Expresionismo Abstracto.\n' +
@@ -2330,7 +2330,7 @@ export default {
         },
         {
           id: 252,
-          artist: 'Chema Madox',
+          artist: 'Chema Madoz',
           name: 'Sin título (1992)',
           style: 'Neofotografía',
           information: 'Crea en el espectador la necesidad de reflexionar y crear nuevas miradas y pensamientos sobre imágnees y objetos enmarcados dentro de una poética visual surrealista. Poesía visual' +
@@ -2599,7 +2599,7 @@ export default {
           artist: '-',
           name: 'Arte Urbano',
           style: '',
-          information: 'El arte urbano abarca distintas prácticas cuya finalidad es intervenir, incidir o interactura en el ámbito de lo público. El Arte Público tiene unas características como su bajo coste, su reproductibilidad, su caracter efímero, su portabilidad.... para disputar los poderes económicos y mediáticos la titularidad sobre la producción del imaginario común.' +
+          information: 'El arte urbano abarca distintas prácticas cuya finalidad es intervenir, incidir o interactura en el ámbito de lo público. El Arte Público tiene unas características como su bajo coste, su reproductibilidad, su caracter efímero, su portabilidad.... para disputar los poderes económicos y mediáticos la titularidad sobre la producción del imaginario común. El Arte Público se apoya también en determinadas características de las TIC. El Arte Urbano es un tipo de arte público no oficial. Como nuevas prácticas del arte urbano tenemos el Stencil Art, Inkjet o Plotters, proyecciones, Personal Media, GuerrillaTV o FoobarTV, Telepresencia, láseres y haces de luz e itinerarios de sonido' +
             '',
           url: '',
           title: 'Arte Urbano'

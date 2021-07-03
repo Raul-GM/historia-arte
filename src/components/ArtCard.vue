@@ -15,9 +15,9 @@
     </p>
     <a v-if="artList[artSelected].url" :href="artList[artSelected].url" target="_blank"> <img class="artcard-image" :src="artList[artSelected].url" /></a>
     <h1 v-if="artList[artSelected].title">{{ artList[artSelected].title }}</h1>
+    <p><strong>Artista</strong> {{ artList[artSelected].artist }}</p>
+    <p><strong>Nombre:</strong> {{ artList[artSelected].name }}</p>
     <div v-if="solved" class="art-data">
-      <p><strong>Pintor/a</strong> {{ artList[artSelected].artist }}</p>
-      <p><strong>Nombre:</strong> {{ artList[artSelected].name }}</p>
       <p><strong>Estilo:</strong> {{ artList[artSelected].style }}</p>
       <p><strong>Descripción:</strong> {{ artList[artSelected].information }}</p>
     </div>
