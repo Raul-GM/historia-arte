@@ -637,7 +637,7 @@ export default {
           artist: 'Hans Arp',
           name: 'Torso y cabeza de flor (1924)',
           style: 'Dadaísmo',
-          information: 'Hans Arp, fimdadpr del grupo dadaísta en Colonia, comenzó creando composiciones por medio de papeles y cartones que más tarde trasladaría a la pintura y a la escultura. Se trata de formas orgánicas, abstractas que van siempre acompañadas por títulos que denotan figuración. En este Torso con cabeza de flor, nos lleva a buscar el torso' +
+          information: 'Hans Arp, fundador del grupo dadaísta en Colonia, comenzó creando composiciones por medio de papeles y cartones que más tarde trasladaría a la pintura y a la escultura. Se trata de formas orgánicas, abstractas que van siempre acompañadas por títulos que denotan figuración. En este Torso con cabeza de flor, nos lleva a buscar el torso' +
             '',
           url: 'https://imagenes.elpais.com/resizer/vmpWzVVmz-hruGslXzIKMS2POVo=/414x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/A5G5KBCRHIRJDIKC7UI7RKGAAM.jpg',
         },
