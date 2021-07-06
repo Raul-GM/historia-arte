@@ -310,7 +310,7 @@ export default {
           style: 'Cubismo',
           information: 'Fernand Léger conocío a Braque y Picasso siguiendo sus pasos pero con un caracter más técnico que estético. Introdujo elementos geométricos en su obra hasta llegar a la abstracción. Y es a través de esa abstracción donde experimentó cómo transmitir la sensación de movilidad y velocidad de la vida moderna e industrial'+
             '',
-          url: 'https://lh3.googleusercontent.com/proxy/w3tHAXRJ7yGl-AohwEpzLFxq-2Lvh3fN7FfEUJW6LLc9jJoHFFiNsYuVwufc73o-LAJqWDBfuk9OqcAcPDvMaLJ_G9axAiKgUp4',
+          url: 'https://wahooart.com/Art.nsf/O/7Z9RUB/$File/Fernand+L%C3%A9ger+-+The+Smokers+.JPG',
         },
         {
           id: 31,
@@ -382,7 +382,7 @@ export default {
           style: 'Cubismo escultórico',
           information: 'El autor ukraniano analiza la figura humana descompuesta en figuras geométricas utilizando el contraste entre la forma cóncava y convexa. Entre lo sólido y lo hueco. Trabajó la escultura policromada y la escultura móvil' +
             '',
-          url: '',
+          url: 'https://educacion.ufm.edu/wp-content/uploads/2016/03/woman-combing-her-hair-femme-debout-1914-archipenko.jpg',
         },
         {
           id: 40,
@@ -473,7 +473,7 @@ export default {
           style: 'Expresionismo (Der Blaue Reiter)',
           information: 'Der Blaue Reiter (el jinete azul): Fundado por Kandinsky y Marc. Al igual que Die Brükce, se interesa por representar el mundo interior. Pero a diferencia de sus predecesores no buscan la estética primitiva ni lo instintivo del ser humano, sino la representación de un mundo más espiritual. Dejan de lado poco a poco lo figurativo para representar el espíritu por medio de la abstracción\n' +
             '',
-          url: 'https://www.wassilykandinsky.net/images/works/86.jpg',
+          url: 'https://images-na.ssl-images-amazon.com/images/I/71NDGZu1lfL._AC_SX425_.jpg',
         },
         {
           id: 49,
@@ -666,7 +666,7 @@ export default {
           style: 'Dadaísmo',
           information: 'Es la obra más ambiciosa de Duchamp. También conocida como el gran vidrio. Es una obra realizada sobre un espejo dividida en dos partes, la parte superior está dedicada a la mujer, mientras que la inferior representa el mundo del hombre. Juntos representan las tensiones del deseo amoroso como maquinarioa que nos mueve.' +
             '',
-          url: '',
+          url: 'http://1.bp.blogspot.com/_4mwUV5XH3mw/Sah9maz53VI/AAAAAAAAACI/oB-8l1fGCzY/s280/EtantDonnes.jpg',
         },
         {
           id: 71,
@@ -794,7 +794,7 @@ export default {
           style: 'Expresionismo',
           information: 'Concibe el teatro como una sintesis de tres elementos: el hombre en el espacio, la luz en movimiento y la arquitectura. En esta obra relacionan la arquitectura de Gropius con los trabajos de Klee y Kandisnky convirtiendo estas danzas una obra de arte total donde integran música, coreografía y vestuario.' +
             '',
-          url: '',
+          url: 'http://proa.org/esp/events/wp-content/uploads/2013/11/schlemmer1.jpg',
         },
         {
           id: 85,
@@ -824,7 +824,7 @@ export default {
           style: 'Expresionismo Abstracto',
           information: 'Su obra tiene más elementos surrealistas que abstractos con una pincelada que no es ni gestual ni expresionista. La representación de las formas morfológicas y biológicas suspendidas en el espacio pictórico las realiza sirviéndose del automatismo surrealista' +
             '',
-          url: '',
+          url: 'https://uploads7.wikiart.org/images/william-baziotes/dwarf-1947.jpg!Large.jpg',
         },
         {
           id: 88,
@@ -933,7 +933,7 @@ export default {
           style: 'Informalismo',
           information: 'Jean Fautrier introduce densas texturas matéricas en sus obras llamándolas "superficies construidas". Combinación del cromatismo apagado con referencias a cuerpos y elemntos naturales.' +
             '',
-          url: '',
+          url: 'https://static4.museoreinasofia.es/sites/default/files/obras/AD03949.jpg',
         },
         {
           id: 100,
@@ -1319,16 +1319,16 @@ export default {
           style: 'Op Art',
           information: 'Uso de planos seriados ondulados que producen un efecto cinético inmediato superponiéndose dos efectos simultáneos de movimiento.' +
             '',
-          url: 'https://lh3.googleusercontent.com/proxy/-E27Z-Q257sQe92XUtnGHQRZYSS1i-x6_QfqEWziViOcvOucE7tJiujQnm5FP86BqKtko7kqVXRVF3O-xLeMK4xIkDqd3Gt4ICUB6vACworUqDRP6hriv3YC9z8DhqhkZGJ7UisPemhBhTgqKp4',
+          url: 'https://1.bp.blogspot.com/-_yfwdbJfKDk/VP18QywgO2I/AAAAAAAAAG4/Oblu_u_78qQ/w1200-h630-p-k-no-nu/T00616_10_Tate.jpg',
         },
         {
           id: 142,
-          artist: 'Jesús Rafel Soto',
+          artist: 'Jesús Rafael Soto',
           name: 'Horizontal Movement (1963)',
           style: 'Op Art',
           information: 'Su trabajo se centra en una búsqueda del movimiento que le lleva a desafiar las posibilidades perspectivas del ojo. En su obra sitúa hilos de nylon, varillas metálicas o formas bidimensionales superpuestas delante de un cuadro de rayas verticales u horizontales creando un efecto de cambio perceptivo en el espectador dependiendo de su situación en relación al cuadro. De esta forma involucra al espectador en sus obras' +
             '',
-          url: '',
+          url: 'https://www.tate.org.uk/art/images/work/T/T00/T00649_10.jpg',
         },
         {
           id: 143,
@@ -1972,7 +1972,7 @@ export default {
           style: 'Arte Neoconceptual',
           information: 'Sus trabajos conceptuales intentan plantear desde su posición de artista afroamericana, las situaciones raciales de la época, la construcción de la identidad o la xenofobia.\n' +
             'En Catalysis IV se introduce un pañuelo blanco en la boca dejando que sobresalga parte del mismo y toma un transporte público obligando al resto de pasajeros a afrontar una situación anormal concebida como protesta. Sus obras actúan como un catalizador que desafía el orden social',
-          url: '',
+          url: 'https://uploads5.wikiart.org/00333/images/adrian-piper/catalysis-iv-1970-photo-by-rosemary-mayer.jpg',
         },
         {
           id: 213,
@@ -2036,7 +2036,7 @@ export default {
           style: 'Arte activista, político y alternativo',
           information: 'Emplea técnicas de fotografía, fotomontaje y video. Las series de Bringing the War Home, consta de una serie de montajes fotográficos que pretende llevar la guerra al espacio doméstico. Para ello combina imágenes procedentes de diferentes medios como la publicidad en revistas para mujeres, la pornografía y las imágenes documentales de la guerra. Difunde su obra a través de folletos y periódicos.' +
             '',
-          url: 'https://www.moma.org/media/W1siZiIsIjIzNDI3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg?sha=a8abb56ecfe2fedds',
+          url: 'https://d32dm0rphc51dk.cloudfront.net/uhbdKb1uEqWb1pYVRAZuXA/large.jpg',
         },
         {
           id: 220,
@@ -2090,7 +2090,7 @@ export default {
           style: 'Arte activista, político y alternativo',
           information: 'Trabaja la crítica social y política de una forma muy cruda. Utiliza estrategias espectaculares y controvertidas, pero muy eficaces. En sus acciones roza el límite de lo aceptable, llegando a convertir una sinagoga en una cámara de gas o tatuar una línea de 2,5 metros sobre 6 personas remuneradas.\n' +
             'En este casó, contrató a inmigrantes del estrecho para cavar 3000 tumbas que luego se quedaban vacías. Cavaron 3000 tumbas, un número correspondiente al número de personas que perdieron la vida en el estrecho en una serie de años. Es tan interesante el resultado final como el propio proceso.',
-          url: '',
+          url: 'https://fundacionnmac.org/multimedia/fundacion-nmac-n2coleccion3000huecos1.png',
         },
         {
           id: 226,
@@ -2409,7 +2409,7 @@ export default {
           style: 'Videoarte',
           information: 'La artista manipula imágenes para poner en manifiesto la cara oculta del discurso oficial en relación al papel femenino. En esta obra, se dedica a deconstruir el mito de ama de casa cimentado en la serie de Wonder Woman.' +
             '',
-          url: '',
+          url: 'https://www.moma.org/media/W1siZiIsIjEzNjAxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg?sha=cf7fef3c0847bc85',
         },
         {
           id: 261,
